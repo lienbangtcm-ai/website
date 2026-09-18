@@ -1,0 +1,34 @@
+[
+  {
+    "route": "/symptoms/gerd/",
+    "width": 390,
+    "title": "胃食道逆流｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/insomnia/",
+    "width": 390,
+    "title": "失眠｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/gerd/",
+    "width": 1440,
+    "title": "胃食道逆流｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/insomnia/",
+    "width": 1440,
+    "title": "失眠｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  }
+]

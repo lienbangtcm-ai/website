@@ -1,0 +1,22 @@
+{
+  "installed": [
+    "allergic-rhinitis",
+    "constipation",
+    "cough",
+    "de-quervain",
+    "diarrhea",
+    "fatigue",
+    "frozen-shoulder",
+    "gerd",
+    "insomnia",
+    "knee-pain",
+    "low-back-pain",
+    "menstrual-pain",
+    "neck-shoulder-pain",
+    "plantar-heel-pain",
+    "sciatica",
+    "tennis-elbow"
+  ],
+  "count": 16,
+  "target": 16
+}

@@ -1,0 +1,84 @@
+"""Clinic editorial character system — pilot, awaiting user approval.
+
+Canvas 400 × 360. Adult three-quarter bust: head ~58 × 76, shoulders ~142.
+Character envelope x=105..292, y=47..326. Keep this optical scale in new poses.
+Face: softly tapered oval, short curved brows, tiny brown eyes, one open nose
+curve, restrained closed mouth. No emoji expressions or enlarged heads.
+Flat warm skin; one hard-edged shadow tint. No gradients, filters or 3D.
+Selective 1.4px warm-brown internal strokes; silhouettes primarily color-defined.
+Background: one cream oval, faint ground ellipse; no decorative icon scatter.
+Future scenes must reuse PALETTE, face(), and torso(), with new articulated arms.
+"""
+from pathlib import Path
+from lxml import html
+
+PALETTE = dict(cream='#f8f3e9', sage='#9cae9c', sage_shadow='#819783',
+              blue='#8c9da6', terracotta='#c9856c', mustard='#cbb27b',
+              brown='#655147', pink='#c89e96', skin='#e9c2a7',
+              skin_shadow='#d6ab90', hair='#655247', hair_light='#7c6655')
+
+def face():
+    return '''
+    <!-- Neck and consistent three-quarter adult face. -->
+    <path d="M181 111L180 149Q196 165 214 148L207 112Z" fill="var(--skin)"/>
+    <path d="M181 113L207 114L210 133Q195 143 181 135Z" fill="var(--skin_shadow)"/>
+    <path d="M168 79C167 54 181 44 201 48C225 50 233 66 227 87L229 98L224 101C222 120 214 131 202 132C187 131 176 117 173 102C162 103 158 91 163 87L170 88Z" fill="var(--skin)"/>
+    <path d="M166 88C157 78 160 55 175 48C188 38 211 42 224 53C235 62 233 80 228 87L221 86L218 70C203 73 190 65 184 62C184 76 179 84 174 88L172 99L168 97Z" fill="var(--hair)"/>
+    <path d="M170 65Q180 47 199 51Q214 52 220 61Q200 57 187 58Q180 64 175 77Z" fill="var(--hair_light)" opacity=".65"/>
+    <path d="M184 87Q190 87 196 83M211 83Q216 87 221 87" fill="none" stroke="var(--brown)" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M186 94Q191 96 196 93M211 93Q216 96 220 94" fill="none" stroke="var(--brown)" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M204 94L206 103Q204 105 201 104M197 117Q203 111 211 116M166 92Q170 91 170 96" fill="none" stroke="var(--brown)" stroke-width="1.3" stroke-linecap="round"/>
+    <ellipse cx="186" cy="105" rx="6" ry="3" fill="var(--pink)" opacity=".28"/>
+    '''
+
+def torso():
+    return '''
+    <path d="M172 145Q143 149 132 167C122 185 119 205 118 221L143 231L153 210L150 318Q203 330 253 318L245 209L259 230L282 219Q276 181 258 164Q244 150 217 145Q198 164 172 145Z" fill="var(--sage)"/>
+    <path d="M173 145Q194 160 215 145L219 153Q194 174 169 153Z" fill="var(--cream)"/>
+    <path d="M249 171Q268 190 282 219L259 230L245 209L252 317L234 321Q239 272 232 243Q235 204 249 171Z" fill="var(--sage_shadow)" opacity=".65"/>
+    <path d="M145 186Q150 201 147 213M245 184Q241 197 245 210M166 283L163 308M224 286L227 313M154 314Q198 322 247 314" fill="none" stroke="var(--sage_shadow)" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M159 319L158 328H245L245 319Q202 331 159 319Z" fill="var(--blue)"/>
+    '''
+
+def gerd():
+    colors=';'.join(f'--{key}:{value}' for key,value in PALETTE.items())
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" style="{colors}" aria-hidden="true" focusable="false">
+    <ellipse cx="202" cy="193" rx="121" ry="129" fill="var(--cream)"/>
+    <ellipse cx="199" cy="331" rx="92" ry="4" fill="#ded6c7" opacity=".45"/>
+    {torso()}{face()}
+    <!-- Relaxed far arm, separate sleeve opening. -->
+    <path d="M258 226L276 220Q282 249 274 274Q270 289 255 300L243 308Q237 310 236 305Q236 301 242 296L248 290L241 293Q237 293 240 289L251 279Q261 267 261 252Z" fill="var(--skin)"/>
+    <path d="M273 227Q278 253 269 274L254 294L248 300Q264 292 274 274Q282 249 276 226Z" fill="var(--skin_shadow)"/>
+    <!-- Soft anatomical overlay: stomach on the character's left (viewer right). -->
+    <path d="M196 173L196 207C196 216 191 219 187 220C180 222 178 229 183 235C188 241 194 237 197 232C201 242 214 250 228 241C241 233 242 215 231 208C224 203 218 210 215 216C210 218 207 214 207 207V173Z" fill="#f5decb" fill-opacity=".8" stroke="#b98b75" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M198 232Q213 224 231 229Q230 238 220 240Q208 243 198 232Z" fill="var(--terracotta)" opacity=".32"/>
+    <!-- Hand rests below the stomach; fingers do not obscure the anatomy. -->
+    <path d="M121 220L143 228L145 252Q146 259 154 260L182 254L194 246Q199 242 201 246Q202 249 197 253L210 251Q215 250 216 253Q216 256 211 257L199 260L216 258Q222 258 221 262Q220 264 215 265L201 267L214 267Q220 268 217 271L201 275L186 274L153 281Q133 283 128 263Z" fill="var(--skin)"/>
+    <path d="M124 231L132 260Q137 277 153 276L185 270L201 271L213 270L201 275L186 274L153 281Q133 283 128 263Z" fill="var(--skin_shadow)"/>
+    <path d="M197 260L190 261M201 267L193 267M145 254Q146 260 153 261" fill="none" stroke="#b58e78" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- Reflux originates inside the stomach and travels upward in the esophagus. -->
+    <path d="M220 232C224 222 214 224 206 218C197 212 202 200 202 187" fill="none" stroke="var(--terracotta)" stroke-width="3.4" stroke-linecap="round"/>
+    <path d="M197 193L202 186L207 193" fill="none" stroke="var(--terracotta)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>'''
+
+if __name__=='__main__':
+    root=Path(__file__).resolve().parents[1]
+    dest=root/'output/site-preview/assets/illustrations'
+    dest.mkdir(exist_ok=True)
+    (dest/'gerd-master.svg').write_text(gerd(),encoding='utf-8')
+    page=root/'output/site-preview/symptoms/index.html'
+    doc=html.fromstring(page.read_text(encoding='utf-8'))
+    a=doc.xpath('//ul[@class="lbsym-list"]//a[@href="/symptoms/gerd/"]')[0]
+    a.set('class','symptom-master-pilot')
+    for node in list(a):
+        if node.tag=='svg' or node.tag=='img': a.remove(node)
+    a.insert(0,html.fromstring(gerd()))
+    # Isolated prototype styling. Other fifteen cards stay untouched.
+    for node in doc.xpath('//style[@id="symptom-master-pilot"]'): node.getparent().remove(node)
+    style=html.Element('style',id='symptom-master-pilot')
+    style.text='.lbsym-list a.symptom-master-pilot{border-radius:22px;background:#f3eee5;padding:16px 24px 24px;box-shadow:none}.lbsym-list .symptom-master-pilot svg{height:200px;margin:0 auto 20px}.symptom-master-pilot .symptom-caption{font-family:"Microsoft JhengHei",sans-serif;font-weight:500}@media(max-width:700px){.lbsym-list a.symptom-master-pilot{padding:10px 14px 16px}.lbsym-list .symptom-master-pilot svg{height:140px;margin-bottom:14px}}'
+    doc.find('body').append(style)
+    page.write_text('<!doctype html>\n'+html.tostring(doc,encoding='unicode'),encoding='utf-8')
+    study=root/'output/site-preview/symptoms/master-study.html'
+    study.write_text('''<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>胃食道逆流・插畫樣稿</title><style>*{box-sizing:border-box}body{margin:0;background:#faf8f4;color:#514238;font-family:"Microsoft JhengHei",sans-serif}main{max-width:940px;margin:auto;padding:48px 24px}h1{font-family:serif;font-size:28px;font-weight:500}p{color:#827466;line-height:1.8}.study{display:flex;align-items:center;gap:64px;margin-top:32px}.card{width:340px;flex-shrink:0;border-radius:22px;padding:20px 28px 28px;background:#f3eee5;border:1px solid #e7dfd3}.card svg{width:100%;height:250px;display:block;margin-bottom:24px}.caption{display:flex;justify-content:space-between;font-size:22px}.caption span{color:#9d8066}.notes{max-width:350px}.swatches{display:flex;gap:8px}.swatches i{width:24px;height:24px;border-radius:50%}a{color:#6d5745}@media(max-width:650px){main{padding:24px}.study{display:block}.card{width:min(340px,100%);margin:auto}.notes{margin-top:32px}}</style><main><p>連邦中醫 · 插畫風格樣稿</p><h1>先確認同一個角色，再延伸整套。</h1><div class="study"><div class="card">'''+gerd()+'''<div class="caption">胃食道逆流<span>↗</span></div></div><div class="notes"><h2>溫和、自然的成人角色</h2><p>輕扶上腹部，肩膀放鬆。以小幅橘紅曲線提示逆流，不用誇張痛苦表情。</p><div class="swatches">'''+''.join(f'<i style="background:{PALETTE[k]}"></i>' for k in ['sage','blue','terracotta','mustard','cream','brown','pink'])+'''</div><p>固定臉型與五官、膚色、選擇性細線、單層色塊陰影及背景留白。這是待確認樣稿，尚未套用其他症狀。</p><a href="/symptoms/?v=4">查看實際卡片 →</a></div></div></main></html>''',encoding='utf-8')
+    print('Built master-study.html and replaced only the GERD illustration.')

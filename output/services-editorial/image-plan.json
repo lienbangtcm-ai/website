@@ -1,0 +1,30 @@
+[
+  {
+    "key": "hero",
+    "prompt": "Photorealistic natural editorial healthcare concept image for a Taiwanese medical website. Fictional people and generic setting, not documentation of an actual clinic. Warm natural daylight, ivory walls, light oak, muted brown and beige, low saturation, authentic candid gestures, mature restrained medical editorial composition. No text, logos, watermarks, symbols, promotional claims, needles penetrating skin, blood or camera-facing poses. Wide candid consultation scene, adult East Asian clinician and adult patient seated at a light wooden desk, both seen from the side, attentive conversation, bright contemporary medical room. Spacious composition, horizontal 3:2."
+  },
+  {
+    "key": "pulse",
+    "prompt": "Photorealistic natural editorial healthcare concept image for a Taiwanese medical website. Fictional people and generic setting, not documentation of an actual clinic. Warm natural daylight, ivory walls, light oak, muted brown and beige, low saturation, authentic candid gestures, mature restrained medical editorial composition. No text, logos, watermarks, symbols, promotional claims, needles penetrating skin, blood or camera-facing poses. Close candid detail of a clinician gently palpating the radial pulse of an adult patient's relaxed wrist supported on a small ivory cushion. Anatomically natural hands, fingers along radial side near wrist, bright modern consultation room. Horizontal 3:2."
+  },
+  {
+    "key": "movement",
+    "prompt": "Photorealistic natural editorial healthcare concept image for a Taiwanese medical website. Fictional people and generic setting, not documentation of an actual clinic. Warm natural daylight, ivory walls, light oak, muted brown and beige, low saturation, authentic candid gestures, mature restrained medical editorial composition. No text, logos, watermarks, symbols, promotional claims, needles penetrating skin, blood or camera-facing poses. Adult East Asian patient seated, gently raising one arm while clinician observes shoulder movement from side, no force or manipulation, everyday functional assessment, bright clean consultation setting. Horizontal 3:2."
+  },
+  {
+    "key": "acupotomy",
+    "prompt": "Photorealistic natural editorial healthcare concept image for a Taiwanese medical website. Fictional people and generic setting, not documentation of an actual clinic. Warm natural daylight, ivory walls, light oak, muted brown and beige, low saturation, authentic candid gestures, mature restrained medical editorial composition. No text, logos, watermarks, symbols, promotional claims, needles penetrating skin, blood or camera-facing poses. Educational consultation about musculoskeletal care: clinician using a small anatomical shoulder model on desk to explain to an adult patient, hands and model in focus, no invasive procedure shown. Horizontal 4:3."
+  },
+  {
+    "key": "fsn",
+    "prompt": "Photorealistic natural editorial healthcare concept image for a Taiwanese medical website. Fictional people and generic setting, not documentation of an actual clinic. Warm natural daylight, ivory walls, light oak, muted brown and beige, low saturation, authentic candid gestures, mature restrained medical editorial composition. No text, logos, watermarks, symbols, promotional claims, needles penetrating skin, blood or camera-facing poses. Close-up of clinician assessing the relaxed forearm of a seated adult patient, soft touch, clean light clinic environment, no inserted needles or invasive treatment. Horizontal 4:3."
+  },
+  {
+    "key": "facial",
+    "prompt": "Photorealistic natural editorial healthcare concept image for a Taiwanese medical website. Fictional people and generic setting, not documentation of an actual clinic. Warm natural daylight, ivory walls, light oak, muted brown and beige, low saturation, authentic candid gestures, mature restrained medical editorial composition. No text, logos, watermarks, symbols, promotional claims, needles penetrating skin, blood or camera-facing poses. Adult East Asian woman reclining comfortably with eyes closed, clinician's hands gently assessing cheek area, natural skin texture, clean towel, no needles inserted and no glamorous beauty advertising. Horizontal 4:3."
+  },
+  {
+    "key": "embedding",
+    "prompt": "Photorealistic natural editorial healthcare concept image for a Taiwanese medical website. Fictional people and generic setting, not documentation of an actual clinic. Warm natural daylight, ivory walls, light oak, muted brown and beige, low saturation, authentic candid gestures, mature restrained medical editorial composition. No text, logos, watermarks, symbols, promotional claims, needles penetrating skin, blood or camera-facing poses. Consultation detail, fully clothed adult patient with clinician discussing body care at a desk, hands and simple blank notebook, respectful candid side framing, no weight-loss before-after or procedure. Horizontal 4:3."
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "連邦中醫 SEO 文章"
+  short_description: "自動完成中醫文章排版、配圖、SEO、連結與預約按鈕"
+  default_prompt: "Use $lianbang-seo-article to turn this draft into a complete illustrated SEO article."

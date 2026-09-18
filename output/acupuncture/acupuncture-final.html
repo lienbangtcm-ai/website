@@ -1,0 +1,90 @@
+<style>
+.entry-header{display:none!important}.entry-content{margin-top:0!important}
+:root{--nr-coffee:#4a3028;--nr-coffee-2:#67463a;--nr-ivory:#f7f2e9;--nr-paper:#fffdf8;--nr-warm:#a97759;--nr-gold:#c6a277;--nr-ink:#302724;--nr-muted:#70625c;--nr-line:#ded1c2}
+.lbnr,.lbnr *{box-sizing:border-box}.lbnr{width:100vw;margin-left:calc(50% - 50vw);margin-top:-110px;overflow:hidden;background:var(--nr-paper);color:var(--nr-ink);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;font-size:17px;line-height:1.85}.lbnr h1,.lbnr h2,.lbnr h3,.lbnr p{margin-top:0}.lbnr h1{font-size:clamp(42px,5.5vw,74px);line-height:1.14;letter-spacing:.07em;margin-bottom:16px}.lbnr h2{font-size:clamp(30px,3.6vw,46px);line-height:1.32;letter-spacing:.04em;margin-bottom:26px}.lbnr h3{font-size:22px;line-height:1.45;letter-spacing:.02em;margin-bottom:12px}.lbnr-shell{width:min(1160px,calc(100% - 48px));margin:0 auto}.lbnr-section{padding:88px 0}.lbnr-section--ivory{background:var(--nr-ivory)}.lbnr-section--coffee{background:var(--nr-coffee);color:#fffaf2}.lbnr-lead{max-width:800px;color:var(--nr-muted);font-size:18px;line-height:1.95}.lbnr-hero{position:relative;min-height:600px;display:flex;align-items:center;background:var(--nr-coffee);color:#fff;background-image:linear-gradient(90deg,rgba(50,31,25,.94) 0%,rgba(50,31,25,.78) 41%,rgba(50,31,25,.12) 72%),url('{{NO_RETENTION_HERO_URL}}');background-size:cover;background-position:center}.lbnr-hero__content{width:min(1160px,calc(100% - 48px));margin:0 auto;padding:76px 0;position:relative}.lbnr-hero__copy{max-width:620px}.lbnr-hero p{font-size:18px;line-height:1.95;color:#f5eee6;margin-bottom:26px}.lbnr-actions{display:flex;gap:14px;flex-wrap:wrap}.lbnr-btn{display:inline-flex;align-items:center;justify-content:center;min-height:52px;padding:13px 24px;border-radius:999px;text-decoration:none!important;font-weight:700;letter-spacing:.04em;transition:.2s}.lbnr-btn--gold{background:var(--nr-gold);color:#2f211c!important}.lbnr-btn--line{border:1px solid rgba(255,255,255,.5);color:#fff!important;background:rgba(255,255,255,.08)}.lbnr-nav{background:#fff;border-bottom:1px solid var(--nr-line);box-shadow:0 12px 35px rgba(74,48,40,.06)}.lbnr-nav__inner{display:grid;grid-template-columns:repeat(4,1fr)}.lbnr-nav a{padding:19px 12px;text-align:center;color:var(--nr-coffee)!important;text-decoration:none!important;font-weight:700;border-right:1px solid var(--nr-line)}.lbnr-nav a:last-child{border-right:0}.lbnr-definition{display:grid;grid-template-columns:.9fr 1.1fr;gap:64px;align-items:start}.lbnr-definition__mark{padding:34px;border-radius:20px;background:var(--nr-coffee);color:#fffaf2}.lbnr-definition__mark strong{display:block;font-size:28px;margin-bottom:14px}.lbnr-definition__mark p{margin:0;color:#eaded2}.lbnr-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:40px}.lbnr-card{padding:32px 28px;background:#fff;border:1px solid var(--nr-line);border-radius:18px;box-shadow:0 18px 50px rgba(74,48,40,.06)}.lbnr-card__no{display:block;color:var(--nr-gold);font-size:14px;font-weight:800;letter-spacing:.12em;margin-bottom:16px}.lbnr-card p{margin:0;color:var(--nr-muted)}.lbnr-split{display:grid;grid-template-columns:1.02fr .98fr;gap:64px;align-items:center}.lbnr-split__image{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:22px;box-shadow:0 26px 70px rgba(74,48,40,.15)}.lbnr-process{list-style:none;padding:0;margin:30px 0 0;counter-reset:step}.lbnr-process li{position:relative;padding:0 0 21px 62px;min-height:52px;color:var(--nr-muted)}.lbnr-process li:before{counter-increment:step;content:counter(step,decimal-leading-zero);position:absolute;left:0;top:1px;width:42px;height:42px;display:grid;place-items:center;border:1px solid var(--nr-gold);border-radius:50%;color:var(--nr-coffee);font-size:13px;font-weight:800}.lbnr-checks{display:grid;grid-template-columns:repeat(2,1fr);gap:14px 32px;margin:32px 0 0;padding:0;list-style:none}.lbnr-checks li{position:relative;padding:16px 16px 16px 44px;background:#fff;border-bottom:1px solid var(--nr-line)}.lbnr-checks li:before{content:"✓";position:absolute;left:15px;color:var(--nr-warm);font-weight:800}.lbnr-paid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin-top:38px}.lbnr-paid a{display:block;padding:30px 28px;border:1px solid var(--nr-line);border-radius:18px;background:#fff;color:inherit!important;text-decoration:none!important;transition:.2s}.lbnr-paid a:hover{transform:translateY(-3px);border-color:var(--nr-gold);box-shadow:0 18px 42px rgba(74,48,40,.09)}.lbnr-paid span{display:block;color:var(--nr-warm);font-size:13px;font-weight:800;letter-spacing:.1em}.lbnr-paid h3{margin:10px 0}.lbnr-paid p{margin:0;color:var(--nr-muted)}.lbnr-note{margin-top:24px;color:var(--nr-muted);font-size:14px}.lbnr-faq{max-width:900px;margin:38px auto 0}.lbnr-faq details{border-top:1px solid var(--nr-line)}.lbnr-faq details:last-child{border-bottom:1px solid var(--nr-line)}.lbnr-faq summary{cursor:pointer;list-style:none;padding:23px 48px 23px 0;font-size:18px;font-weight:700;position:relative}.lbnr-faq summary::-webkit-details-marker{display:none}.lbnr-faq summary:after{content:"＋";position:absolute;right:8px;color:var(--nr-warm)}.lbnr-faq details[open] summary:after{content:"－"}.lbnr-faq__answer{padding:0 40px 23px 0;color:var(--nr-muted)}.lbnr-cross{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin-top:34px}.lbnr-cross a{display:block;padding:24px 26px;border:1px solid var(--nr-line);border-radius:14px;color:var(--nr-coffee)!important;text-decoration:none!important;font-weight:700;background:#fff}.lbnr-final{text-align:center}.lbnr-final h2{max-width:760px;margin-left:auto;margin-right:auto}.lbnr-final p{max-width:700px;margin:0 auto 26px;color:#f0e5da}.lb-float-line{position:fixed;right:24px;bottom:24px;z-index:9999;display:flex;align-items:center;gap:10px;padding:15px 21px;border:1px solid rgba(255,255,255,.38);border-radius:999px;background:linear-gradient(135deg,#604033,#3d2923);color:#fff!important;text-decoration:none!important;font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;font-weight:800;box-shadow:0 14px 34px rgba(52,33,27,.32)}.lb-float-line:before{content:"LINE";display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--nr-gold);color:#36241e;font-size:11px}
+@media(max-width:900px){.lbnr-section{padding:70px 0}.lbnr-definition,.lbnr-split{grid-template-columns:1fr;gap:38px}.lbnr-split__image{order:-1}.lbnr-cards{grid-template-columns:1fr 1fr}}
+@media(max-width:640px){.lbnr{margin-top:-55px;font-size:16px;line-height:1.75}.lbnr-shell,.lbnr-hero__content{width:min(100% - 32px,1160px)}.lbnr-section{padding:56px 0}.lbnr h1{font-size:40px;letter-spacing:.04em}.lbnr h2{font-size:30px;margin-bottom:20px}.lbnr-hero{min-height:520px;background-image:linear-gradient(180deg,rgba(45,28,23,.22) 0%,rgba(45,28,23,.88) 56%,rgba(45,28,23,.97) 100%),url('{{NO_RETENTION_HERO_URL}}');background-position:62% center;align-items:flex-end}.lbnr-hero__content{padding:170px 0 40px}.lbnr-hero p{font-size:16px;line-height:1.82}.lbnr-actions{display:grid}.lbnr-btn{width:100%}.lbnr-nav__inner{grid-template-columns:1fr 1fr}.lbnr-nav a{padding:15px 8px;font-size:14px;border-bottom:1px solid var(--nr-line)}.lbnr-cards,.lbnr-checks,.lbnr-paid,.lbnr-cross{grid-template-columns:1fr}.lbnr-card{padding:27px 23px}.lbnr-faq summary{font-size:16px;padding-right:38px}.lb-float-line{right:14px;bottom:calc(14px + env(safe-area-inset-bottom));padding:12px 16px}.lb-float-line:before{width:30px;height:30px}}
+.lbnr-paid strong{display:block;margin:10px 0;color:var(--nr-ink);font-size:22px;line-height:1.45}.lbnr-paid em{display:block;color:var(--nr-muted);font-style:normal;line-height:1.85}
+</style>
+
+<main class="lbnr">
+  <section class="lbnr-hero" aria-labelledby="lbnr-title">
+    <div class="lbnr-hero__content"><div class="lbnr-hero__copy">
+      <h1 id="lbnr-title">不留針手法</h1>
+      <p>一般針灸會依當次問診、觸診、活動表現與個人耐受度選擇穴位及操作方式。完成單次操作後即退針，不安排固定時間留針；自費特殊項目則依不同操作方式另行說明。</p>
+      <div class="lbnr-actions">
+        <a class="lbnr-btn lbnr-btn--gold" href="https://lin.ee/UWWKmse" target="_blank" rel="noopener" aria-label="透過 LINE 預約不留針手法諮詢" data-conversion="line">LINE 預約諮詢</a>
+        <a class="lbnr-btn lbnr-btn--line" href="#definition">了解操作方式</a>
+      </div>
+    </div></div>
+  </section>
+
+  <nav class="lbnr-nav" aria-label="不留針手法頁內導覽"><div class="lbnr-shell lbnr-nav__inner">
+    <a href="#definition">手法說明</a><a href="#process">看診流程</a><a href="#self-pay">自費項目</a><a href="#faq">常見問題</a>
+  </div></nav>
+
+  <section class="lbnr-section" id="definition"><div class="lbnr-shell lbnr-definition">
+    <div><h2>什麼是不留針手法？</h2><p class="lbnr-lead">不留針不是不使用針，而是醫師依當次評估選擇操作位置與方式，逐點完成操作後即退針，不讓針具在同一位置停留固定時間。</p></div>
+    <div class="lbnr-definition__mark"><strong>操作完成，即退針</strong><p>一般針灸以當次身體狀態為基礎。實際穴位、操作範圍與方式由醫師現場評估，不以固定組合套用於每次看診。</p></div>
+  </div></section>
+
+  <section class="lbnr-section lbnr-section--ivory"><div class="lbnr-shell">
+    <h2>為什麼每次都要重新評估？</h2>
+    <p class="lbnr-lead">疼痛位置、活動表現、組織反應與生活負荷可能隨時間改變，因此每次看診都需要重新確認當下情況，再決定本次操作方向。</p>
+    <div class="lbnr-cards">
+      <article class="lbnr-card"><span class="lbnr-card__no">01</span><h3>先確認主要需求</h3><p>了解本次最明顯的不適、發生時間、誘發動作與日常影響。</p></article>
+      <article class="lbnr-card"><span class="lbnr-card__no">02</span><h3>再選擇操作位置</h3><p>依觸診、活動表現與個人耐受度，判斷本次適合處理的位置與方式。</p></article>
+      <article class="lbnr-card"><span class="lbnr-card__no">03</span><h3>依反應重新調整</h3><p>回診時重新檢視身體反應，不預先設定每次都使用相同穴位或固定流程。</p></article>
+    </div>
+  </div></section>
+
+  <section class="lbnr-section" id="process"><div class="lbnr-shell lbnr-split">
+    <img class="lbnr-split__image" src="{{NO_RETENTION_ASSESSMENT_URL}}" alt="中醫師進行觸診與活動評估並準備無菌針具" loading="lazy" width="1200" height="900">
+    <div><h2>一次看診如何進行？</h2><ol class="lbnr-process">
+      <li><strong>問診與需求確認</strong><br>說明主要不適、發生時間、生活影響與既往處理方式。</li>
+      <li><strong>疼痛位置與活動表現評估</strong><br>觀察目前活動限制，並依需要進行觸診與局部評估。</li>
+      <li><strong>選擇操作位置與方式</strong><br>醫師依當次狀態及個人耐受度安排針灸操作。</li>
+      <li><strong>逐點操作並完成退針</strong><br>一般針灸完成單次操作後即退針，不安排固定時間留針。</li>
+      <li><strong>依反應安排後續方向</strong><br>說明當次注意事項，回診時再重新檢視。</li>
+    </ol></div>
+  </div></section>
+
+  <section class="lbnr-section lbnr-section--ivory"><div class="lbnr-shell">
+    <h2>可以先詢問的常見需求</h2>
+    <p class="lbnr-lead">下列情況可先透過 LINE 說明；是否適合針灸及實際操作方式，仍由醫師看診後判斷。</p>
+    <ul class="lbnr-checks"><li>肩頸、腰背或四肢不適</li><li>活動角度或日常動作受到影響</li><li>運動後或重複使用造成的不適</li><li>希望了解一般針灸的操作方式</li><li>過去接受針灸時對留針較為顧慮</li><li>需要同時評估是否銜接物理治療</li></ul>
+  </div></section>
+
+  <section class="lbnr-section" id="self-pay"><div class="lbnr-shell">
+    <h2>自費特色項目</h2><p class="lbnr-lead">針刀、浮針、埋線與美顏針有各自的器材、操作方式與注意事項，不以一般不留針手法概括。點入個別頁面了解說明。</p>
+    <div class="lbnr-paid">
+      <a href="/針刀/"><span>01</span><strong>針刀</strong><em>依軟組織與活動表現進行評估，實際操作範圍由醫師說明。</em></a><a href="/浮針/"><span>02</span><strong>浮針</strong><em>使用專用針具進行操作，評估方式與一般針灸不同。</em></a><a href="/埋線/"><span>03</span><strong>埋線</strong><em>使用可吸收線材，操作前需個別評估並說明後續照護。</em></a><a href="/美顏針/"><span>04</span><strong>美顏針</strong><em>依臉部肌肉、筋膜與個別需求評估操作位置及方式。</em></a>
+    </div>
+    <p class="lbnr-note">自費項目並非每位患者都適合；實際內容、費用、可能反應與注意事項，以醫師現場評估及說明為準。</p>
+  </div></section>
+
+  <section class="lbnr-section lbnr-section--ivory" id="faq"><div class="lbnr-shell">
+    <h2>常見問題</h2><div class="lbnr-faq">
+      <details><summary>不留針是不是完全不用針？</summary><div class="lbnr-faq__answer">不是。不留針手法仍會使用針具，差別在於醫師逐點完成一般針灸操作後即退針，不安排固定時間留針。</div></details>
+      <details><summary>為什麼不安排固定留針時間？</summary><div class="lbnr-faq__answer">連邦一般針灸以當次評估與逐點操作為主。是否操作、操作位置及方式須依每次看診狀況決定，不以固定留針時間作為統一流程。</div></details>
+      <details><summary>每次操作的位置都一樣嗎？</summary><div class="lbnr-faq__answer">不一定。醫師會依本次症狀、觸診、活動表現與身體反應重新評估，操作位置可能隨當下狀況調整。</div></details>
+      <details><summary>看診與操作需要多久？</summary><div class="lbnr-faq__answer">時間會依問診內容、評估範圍與當次操作方式而不同，無法僅以是否留針判斷。實際安排可先透過官方 LINE 詢問。</div></details>
+      <details><summary>針刀、浮針、埋線和美顏針也都是不留針嗎？</summary><div class="lbnr-faq__answer">這些項目有各自的器材與操作方式，不以一般不留針手法概括。醫師會在操作前另行評估並說明。</div></details>
+      <details><summary>哪些情況需要事先告知醫師？</summary><div class="lbnr-faq__answer">懷孕、服用抗凝血藥物、凝血異常、皮膚感染、近期手術、重大疾病或對針具較為緊張者，請在看診與操作前主動告知醫師。</div></details>
+    </div>
+  </div></section>
+
+  <section class="lbnr-section"><div class="lbnr-shell"><h2>其他連邦特色</h2><div class="lbnr-cross">
+    <a href="/pulse-diagnosis/">單味藥組方 →</a><a href="/acupuncture-physical-therapy/">物理治療整合評估 →</a>
+  </div></div></section>
+
+  <section class="lbnr-section lbnr-section--coffee lbnr-final"><div class="lbnr-shell">
+    <h2>先讓醫師了解目前的不適與活動狀況</h2><p>可先透過連邦中醫官方 LINE 說明主要需求，由院所協助安排合適門診。</p>
+    <a class="lbnr-btn lbnr-btn--gold" href="https://lin.ee/UWWKmse" target="_blank" rel="noopener" aria-label="透過 LINE 預約不留針手法門診" data-conversion="line">LINE 預約諮詢</a>
+  </div></section>
+</main>
+<a class="lb-float-line" href="https://lin.ee/UWWKmse" target="_blank" rel="noopener" aria-label="透過 LINE 預約連邦中醫" data-conversion="line">預約諮詢</a>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Service","name":"不留針手法","serviceType":"個別化針灸評估與操作","provider":{"@type":"MedicalClinic","name":"連邦中醫","url":"https://lienbangtcm.tw/"},"areaServed":"台北市松山區","url":"https://lienbangtcm.tw/acupuncture/","description":"依當次問診、觸診、活動表現與個人耐受度選擇一般針灸操作位置，完成單次操作後即退針。"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"不留針是不是完全不用針？","acceptedAnswer":{"@type":"Answer","text":"不是。不留針手法仍會使用針具，差別在於醫師逐點完成一般針灸操作後即退針，不安排固定時間留針。"}},{"@type":"Question","name":"為什麼不安排固定留針時間？","acceptedAnswer":{"@type":"Answer","text":"連邦一般針灸以當次評估與逐點操作為主，操作位置及方式須依每次看診狀況決定。"}},{"@type":"Question","name":"每次操作的位置都一樣嗎？","acceptedAnswer":{"@type":"Answer","text":"不一定。醫師會依本次症狀、觸診、活動表現與身體反應重新評估。"}},{"@type":"Question","name":"看診與操作需要多久？","acceptedAnswer":{"@type":"Answer","text":"時間會依問診內容、評估範圍與當次操作方式而不同，實際安排可先透過官方 LINE 詢問。"}},{"@type":"Question","name":"針刀、浮針、埋線和美顏針也都是不留針嗎？","acceptedAnswer":{"@type":"Answer","text":"這些項目有各自的器材與操作方式，不以一般不留針手法概括。"}},{"@type":"Question","name":"哪些情況需要事先告知醫師？","acceptedAnswer":{"@type":"Answer","text":"懷孕、服用抗凝血藥物、凝血異常、皮膚感染、近期手術、重大疾病或對針具較為緊張者，請在操作前告知醫師。"}}]}]}
+</script>

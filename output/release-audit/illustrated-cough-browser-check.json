@@ -1,0 +1,47 @@
+{
+  "checks": [
+    {
+      "slug": "cough",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "咳嗽時可留意發作時段與伴隨症狀，提供就診評估。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "咳嗽的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "咳嗽的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "cough",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "咳嗽時可留意發作時段與伴隨症狀，提供就診評估。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "咳嗽的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "咳嗽的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

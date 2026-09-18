@@ -1,0 +1,206 @@
+[
+  {
+    "path": "/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/allergic-rhinitis/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/allergic-rhinitis/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/constipation/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/constipation/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/cough/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/cough/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/de-quervain/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/de-quervain/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/diarrhea/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/diarrhea/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/fatigue/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/fatigue/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/frozen-shoulder/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/frozen-shoulder/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/gerd/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/gerd/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/insomnia/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/insomnia/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/knee-pain/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/knee-pain/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/low-back-pain/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/low-back-pain/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/menstrual-pain/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/menstrual-pain/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/neck-shoulder-pain/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/neck-shoulder-pain/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/plantar-heel-pain/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/plantar-heel-pain/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/sciatica/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/sciatica/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/tennis-elbow/",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1
+  },
+  {
+    "path": "/symptoms/tennis-elbow/",
+    "width": 390,
+    "overflow": false,
+    "h1": 1
+  }
+]

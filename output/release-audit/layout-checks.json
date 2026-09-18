@@ -1,0 +1,444 @@
+[
+  {
+    "route": "/about-lienbang/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": [
+      {
+        "tag": "IMG",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "route": "/acupuncture/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/acupuncture-physical-therapy/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/pulse-diagnosis/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/services/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/allergic-rhinitis/",
+    "width": 390,
+    "title": "鼻過敏｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/constipation/",
+    "width": 390,
+    "title": "便秘｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/cough/",
+    "width": 390,
+    "title": "咳嗽｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/de-quervain/",
+    "width": 390,
+    "title": "媽媽手｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/diarrhea/",
+    "width": 390,
+    "title": "腹瀉｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/fatigue/",
+    "width": 390,
+    "title": "疲倦｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/frozen-shoulder/",
+    "width": 390,
+    "title": "五十肩｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/gerd/",
+    "width": 390,
+    "title": "胃食道逆流｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/insomnia/",
+    "width": 390,
+    "title": "失眠｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/knee-pain/",
+    "width": 390,
+    "title": "膝痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/low-back-pain/",
+    "width": 390,
+    "title": "腰背痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/menstrual-pain/",
+    "width": 390,
+    "title": "經痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/neck-shoulder-pain/",
+    "width": 390,
+    "title": "肩頸痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/plantar-heel-pain/",
+    "width": 390,
+    "title": "足底痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/sciatica/",
+    "width": 390,
+    "title": "坐骨痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/tennis-elbow/",
+    "width": 390,
+    "title": "網球肘｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/埋線/",
+    "width": 390,
+    "title": "穴位埋線與體重管理｜台北松山連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/浮針/",
+    "width": 390,
+    "title": "浮針治療｜台北松山連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/美顏針/",
+    "width": 390,
+    "title": "美顏針｜台北松山連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/針刀/",
+    "width": 390,
+    "title": "針刀治療｜台北松山連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/about-lienbang/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": [
+      {
+        "tag": "IMG",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "route": "/acupuncture/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/acupuncture-physical-therapy/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/pulse-diagnosis/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/services/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/allergic-rhinitis/",
+    "width": 1440,
+    "title": "鼻過敏｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/constipation/",
+    "width": 1440,
+    "title": "便秘｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/cough/",
+    "width": 1440,
+    "title": "咳嗽｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/de-quervain/",
+    "width": 1440,
+    "title": "媽媽手｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/diarrhea/",
+    "width": 1440,
+    "title": "腹瀉｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/fatigue/",
+    "width": 1440,
+    "title": "疲倦｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/frozen-shoulder/",
+    "width": 1440,
+    "title": "五十肩｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/gerd/",
+    "width": 1440,
+    "title": "胃食道逆流｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/insomnia/",
+    "width": 1440,
+    "title": "失眠｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/knee-pain/",
+    "width": 1440,
+    "title": "膝痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/low-back-pain/",
+    "width": 1440,
+    "title": "腰背痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/menstrual-pain/",
+    "width": 1440,
+    "title": "經痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/neck-shoulder-pain/",
+    "width": 1440,
+    "title": "肩頸痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/plantar-heel-pain/",
+    "width": 1440,
+    "title": "足底痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/sciatica/",
+    "width": 1440,
+    "title": "坐骨痛｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/symptoms/tennis-elbow/",
+    "width": 1440,
+    "title": "網球肘｜連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/埋線/",
+    "width": 1440,
+    "title": "穴位埋線與體重管理｜台北松山連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/浮針/",
+    "width": 1440,
+    "title": "浮針治療｜台北松山連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/美顏針/",
+    "width": 1440,
+    "title": "美顏針｜台北松山連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  },
+  {
+    "route": "/針刀/",
+    "width": 1440,
+    "title": "針刀治療｜台北松山連邦中醫診所",
+    "overflow": false,
+    "brokenImages": [],
+    "outside": []
+  }
+]

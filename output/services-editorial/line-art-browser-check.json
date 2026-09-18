@@ -1,0 +1,46 @@
+[
+  {
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "mainImages": 0,
+    "serviceRows": 10,
+    "serviceSvgs": 10,
+    "links": 16,
+    "aiText": false,
+    "outside": []
+  },
+  {
+    "width": 1280,
+    "overflow": false,
+    "h1": 1,
+    "mainImages": 0,
+    "serviceRows": 10,
+    "serviceSvgs": 10,
+    "links": 16,
+    "aiText": false,
+    "outside": []
+  },
+  {
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "mainImages": 0,
+    "serviceRows": 10,
+    "serviceSvgs": 10,
+    "links": 16,
+    "aiText": false,
+    "outside": []
+  },
+  {
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "mainImages": 0,
+    "serviceRows": 10,
+    "serviceSvgs": 10,
+    "links": 16,
+    "aiText": false,
+    "outside": []
+  }
+]

@@ -1,0 +1,33 @@
+<svg class="ls-hero-scene" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 440" fill="none" stroke="#795d49" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="醫師與患者在診療桌旁進行把脈評估的插畫">
+<path d="M67 359V160C67 78 127 39 216 39h232c89 0 153 50 153 137v183Z" fill="#eee8dc" stroke="none"/>
+<path d="M101 164V78h126v86Z" fill="#faf7ee" stroke="#d3c6b1"/><path d="M164 80v82m-61-41h122" stroke="#ddd3c1"/>
+<rect x="350" y="71" width="196" height="99" rx="5" fill="#bd9875" stroke="#aa8767"/>
+<g fill="#e0c6a2" stroke="#b4916e"><rect x="361" y="82" width="51" height="33" rx="2"/><rect x="422" y="82" width="51" height="33" rx="2"/><rect x="483" y="82" width="51" height="33" rx="2"/><rect x="361" y="126" width="51" height="33" rx="2"/><rect x="422" y="126" width="51" height="33" rx="2"/><rect x="483" y="126" width="51" height="33" rx="2"/></g>
+<path d="M382 99h10m50 0h10m51 0h10m-131 44h10m50 0h10m51 0h10" stroke="#977657" stroke-width="3"/>
+<ellipse cx="337" cy="397" rx="269" ry="17" fill="#ded3c1" stroke="none"/>
+<path d="M97 333v-99c0-17 11-28 28-28h64c17 0 28 11 28 28v99" fill="#d7c4aa" stroke="#bba386"/><path d="M108 335v53m97-53v53" stroke="#a78d71" stroke-width="5"/>
+<path d="M439 333v-99c0-17 11-28 28-28h64c17 0 28 11 28 28v99" fill="#d7c4aa" stroke="#bba386"/><path d="M450 335v53m97-53v53" stroke="#a78d71" stroke-width="5"/>
+<!-- Patient, facing the clinician. -->
+<path d="M119 328l7-76c2-37 17-56 46-56 28 0 47 23 51 57l5 75Z" fill="#9eae93"/>
+<path d="M157 178v24c10 11 22 11 31 0v-25" fill="#eec3a7"/>
+<path d="M141 139c0-33 17-47 40-42 28 5 38 30 30 62-5 22-16 38-32 38-19 0-38-23-38-58Z" fill="#f0c8ae"/>
+<path d="M140 151c-17-35-5-61 20-65 29-5 51 13 54 38-18-2-31-12-37-26-8 19-20 28-37 30Z" fill="#74594c"/>
+<path d="M170 146h7m20 0h5m-18 8 1 10 7 1m-16 12c7 4 13 3 18-1" stroke="#a67b60"/>
+<path d="M201 232c12 4 17 14 23 29l14 29 59-2 41-7c8-1 15 3 12 8l-23 6 24 1c9 0 10 7 1 9l-43 3-74 4c-11 0-16-4-21-12l-29-43" fill="#efc4a7"/>
+<path d="M204 229l-20 29 14 22 28-17Z" fill="#9eae93"/><path d="M196 261l20-13" stroke="#86997b"/>
+<!-- Clinician. -->
+<path d="M413 327l9-80c3-33 21-50 48-50 30 0 47 21 52 54l9 76Z" fill="#fffcf5"/>
+<path d="M456 176v26l15 18 17-18v-26" fill="#efc4a8"/>
+<path d="M441 136c0-28 15-44 38-40 29 5 36 29 29 60-5 24-20 40-35 40-18 0-32-27-32-60Z" fill="#f0c8ae"/>
+<path d="M438 142c-11-29 1-54 26-58 27-4 46 13 47 42-18-3-30-12-36-25-9 16-20 21-35 23Z" fill="#6b554a"/>
+<path d="M448 143h7m21 0h7m-20 9-2 11 7 1m-15 13c7 4 14 3 19-1" stroke="#a67b60"/>
+<path d="m444 206 26 37 24-37m-24 37v79" stroke="#d4cbbb"/><rect x="495" y="242" width="17" height="25" rx="2" fill="#d9e1ce" stroke="#a7b496"/>
+<path d="M436 234l-30 28-40 12-21-2c-8-1-10 6-3 10l12 5-11 13c-4 5 2 10 6 6l11-12-6 13c-3 6 4 9 7 4l9-14-4 12c-2 6 5 8 8 3l10-21 34-8c9-2 16-6 23-11l20-17" fill="#f3ceb3"/>
+<path d="m438 232-20 17 22 29 20-24Z" fill="#fffcf5"/><path d="m430 252 16 18" stroke="#d4cbbb"/>
+<!-- Table, cushion, chart and small medicine dish. -->
+<path d="M240 300h77c7 0 11 6 11 14v7h-99v-7c0-8 4-14 11-14Z" fill="#b67c60"/>
+<rect x="173" y="317" width="313" height="17" rx="5" fill="#d2b490"/><path d="M195 336v59m266-59v59" stroke="#b29776" stroke-width="8"/>
+<path d="m362 293 42-7 26 25-45 3Z" fill="#fffcf4" stroke="#c0ad90"/><path d="m376 295 24-3m-17 10 24-3" stroke="#b2b49f"/>
+<ellipse cx="207" cy="310" rx="20" ry="5" fill="#ead7b7"/><path d="m199 308 8-5 7 3" stroke="#b18c5d"/>
+<path d="M567 302v-48m0 25c-19 0-30-11-31-25 18 1 29 10 31 25Zm1-13c18-1 29-12 29-25-17 0-28 10-29 25Z" fill="#9aa987" stroke="#879775"/><path d="M547 300h41l-7 36h-27Z" fill="#d4b391" stroke="#b79574"/>
+</svg>

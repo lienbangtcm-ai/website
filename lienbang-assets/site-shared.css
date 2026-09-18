@@ -1,0 +1,45 @@
+/* Shared preview identity; also the source for the eventual site header/theme. */
+:root{--green:#4a3028;--jade:#795945;--mint:#f2ece3;--paper:#fbfaf7;--ivory:#f7f2e9;--ink:#3f332e;--muted:#73655c;--line:#e4d9cd;--gold:#c09a78;--coral:#9b5b4f}
+html{scrollbar-gutter:stable}
+body{margin:0;background:#fbfaf7;color:#3f332e;font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;line-height:1.85}
+.preview-header,.preview-header *{box-sizing:border-box}
+.preview-header{position:relative;z-index:30;display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:90px;margin:0;padding:18px max(24px,calc((100% - 1240px)/2));border-bottom:1px solid #e4d9cd;background:#fff;color:#4a3028;font:700 15px/1.6 "Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.preview-header .preview-brand{display:flex;align-items:center;flex:0 0 206px;margin:0;padding:0;text-decoration:none}
+.preview-header .preview-brand img{display:block;width:206px;height:42px;object-fit:contain;filter:brightness(0) saturate(100%) invert(19%) sepia(16%) saturate(1207%) hue-rotate(331deg) brightness(93%) contrast(85%)}
+.preview-header nav{display:flex;align-items:center;justify-content:flex-end;gap:20px;margin:0;padding:0}
+.preview-header nav a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;margin:0;padding:0;color:#4a3028;font:inherit;white-space:nowrap;text-decoration:none;border:0}
+.preview-header nav a:hover{text-decoration:underline;text-underline-offset:6px}
+.preview-header nav .preview-line{padding:10px 18px;border-radius:999px;background:#4a3028;color:#fff}
+.preview-header .external-mark{margin-left:3px;font-size:11px;color:#89786c}
+.preview-related{padding:32px 24px;background:#f7f2e9;border-top:1px solid #e4d9cd;color:#4a3028;text-align:center;font:500 14px/1.8 "Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.preview-related a{display:inline-block;margin:7px 12px;color:#795945;text-decoration:none}
+.preview-related a:hover{text-decoration:underline;text-underline-offset:4px}
+.lbh4,.lbsv,.lbft,.lbsym{width:100%!important;margin-left:0!important;margin-top:0!important}
+.lb-about{margin-top:0!important;width:100%!important;max-width:100%!important;left:0!important;transform:none!important}
+.lb-article{background:#fbfaf7;color:#3f332e;font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.lb-article h1,.lb-article h2,.lb-article h3,.lb-article .lb-faq summary{font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;color:#4a3028}
+.lb-article .lb-hero{background:#f7f2e9;border-color:#e4d9cd}
+.lb-article .lb-hero h1{font-size:clamp(36px,4.5vw,60px);line-height:1.3;letter-spacing:.035em}
+.lb-article .lb-section--green,.lb-article .lb-section--mint,.lb-article .lb-section--soft{background:#f7f2e9}
+.lb-article .lb-lead,.lb-article .lb-note{color:#73655c}
+.lb-article .lb-cta{background:#4a3028;color:#fff}
+.lb-article .lb-cta h2{color:#fff}
+.lb-article .lb-cta p,.lb-article .lb-clinic{color:#ecdfd1}
+.lb-article .lb-btn{border-radius:999px}
+.lb-article .lb-btn--gold{background:#d0ad8e;border-color:#d0ad8e;color:#4a3028}
+.lbh4 li a{color:inherit;text-decoration:none}
+.lbh4 li a:hover{text-decoration:underline;text-underline-offset:4px}
+section[id]{scroll-margin-top:24px}
+a:focus-visible{outline:3px solid #b68a6b;outline-offset:3px}
+@media(max-width:1150px){.preview-header{display:flex;flex-direction:column;gap:12px;padding:16px 20px 0}.preview-header .preview-brand{flex:0 0 auto}.preview-header nav{width:100%;justify-content:center;gap:18px;padding-bottom:12px}}
+@media(max-width:900px){
+ .preview-header{gap:14px;min-height:0}
+ .preview-header .preview-brand img{width:196px;height:39px}
+ .preview-header nav{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));width:calc(100% + 40px);gap:0;margin:0 -20px;padding:0;border-top:1px solid #e4d9cd;font-size:12px}
+ .preview-header nav a,.preview-header nav .preview-line{min-height:44px;padding:0 3px;border:0;border-right:1px solid #e4d9cd;border-bottom:1px solid #e4d9cd;border-radius:0;background:#fff;color:#4a3028}
+ .preview-header nav a:nth-child(4n){border-right:0}
+ .preview-header nav .preview-line{background:#4a3028;color:#fff}
+ .preview-header .external-mark{font-size:9px;margin-left:1px}
+ .preview-related{padding:24px 16px}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

@@ -1,0 +1,15 @@
+source_url,current_state,proposed_action,target_or_rule,data_required,status
+https://lienbangtcm.tw/zhang-yu/,draft_slug_not_public,temporary_301,https://lienbangtcm.tw/profile/,Remove redirect only when post 4285 is approved and published,ACTIVE_TEMPORARY
+https://lienbangtcm.tw/profile/,indexable,301,https://lienbangtcm.tw/zhang-yu/,Confirm doctor page content and new page readiness,DRAFT
+https://lienbangtcm.tw/home-2/,noindex_and_excluded_from_sitemap,301,https://lienbangtcm.tw/,Confirm GSC traffic/backlinks and semantic overlap,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/about/,indexable,301,https://lienbangtcm.tw/about-lienbang/,Confirm GSC traffic/backlinks and semantic overlap,DRAFT
+https://lienbangtcm.tw/contact/,indexable,301,https://lienbangtcm.tw/support/,Confirm GSC traffic/backlinks and semantic overlap,DRAFT
+https://lienbangtcm.tw/shop/,noindex_and_excluded_from_sitemap,410_or_semantic_301,Do not redirect to homepage,Review GSC/backlinks and page content,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/shop-2/,noindex_and_excluded_from_sitemap,410_or_semantic_301,Do not redirect to homepage,Review GSC/backlinks and page content,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/collections/,noindex_and_excluded_from_sitemap,410_or_semantic_301,Do not redirect to homepage,Review GSC/backlinks and page content,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/new-arrivals/,noindex_and_excluded_from_sitemap,410_or_semantic_301,Do not redirect to homepage,Review GSC/backlinks and page content,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/sample-page/,noindex_and_excluded_from_sitemap,410,,Confirm no external links or traffic,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/home/,noindex_and_excluded_from_sitemap,410,,Confirm no external links or traffic,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/cart/,noindex_and_excluded_from_sitemap,noindex_then_410_or_restricted,,Confirm WooCommerce order retention requirements,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/checkout/,noindex_and_excluded_from_sitemap,noindex_then_410_or_restricted,,Confirm WooCommerce order retention requirements,SAFE_INTERIM_APPLIED
+https://lienbangtcm.tw/my-account/,noindex_and_excluded_from_sitemap,noindex_then_410_or_restricted,,Confirm whether any customer login must remain available,SAFE_INTERIM_APPLIED

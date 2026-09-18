@@ -1,0 +1,677 @@
+{
+  "checks": [
+    {
+      "slug": "allergic-rhinitis",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "鼻過敏可能伴隨鼻癢、打噴嚏或流鼻水；就診時可描述發作情境。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "鼻過敏的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "鼻過敏的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "constipation",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "排便困擾可一併記錄飲水、飲食及排便習慣，提供醫師評估。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "便秘的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "便秘的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "cough",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "咳嗽時可留意發作時段與伴隨症狀，提供就診評估。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "咳嗽的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "咳嗽的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "de-quervain",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "拇指側手腕不適可影響拿取物品，評估時可說明反覆使用手部的情況。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "媽媽手的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "媽媽手的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "diarrhea",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "腹瀉時可留意排便次數與伴隨不適，並向醫師說明。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "腹瀉的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "腹瀉的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "fatigue",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "持續疲倦時，可整理睡眠、活動與其他身體變化供就診評估。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "疲倦的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "疲倦的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "frozen-shoulder",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "肩膀僵硬可能影響抬手與日常動作；活動受限仍需確認原因。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "五十肩的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "五十肩的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "gerd",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "情境示意｜晚間大量進食、油膩辛辣食物、咖啡與工作壓力等生活因素的插畫",
+          "inside": true
+        },
+        {
+          "caption": "情境示意｜中醫師進行脈診並依個別狀況安排單味藥組方與針灸的概念圖",
+          "inside": true
+        },
+        {
+          "caption": "情境示意｜適量進食、飯後保持直立、散步與規律睡眠等日常照護情境插畫",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "insomnia",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "晚間使用手機、咖啡因與工作壓力都可能干擾睡眠。（概念插畫）",
+          "inside": true
+        },
+        {
+          "caption": "失眠評估會結合睡眠型態、日常狀況與脈診辨證。（概念插畫）",
+          "inside": true
+        },
+        {
+          "caption": "規律作息與降低睡前刺激，有助於建立較穩定的睡眠環境。（概念插畫）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "knee-pain",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "膝部疼痛可影響走路、起身與上下樓梯，評估時會觀察活動情況。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "膝痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "膝痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "low-back-pain",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "腰背不適可在久坐或活動時出現，應一起評估疼痛位置與動作限制。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "腰背痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "腰背痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "menstrual-pain",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "經期腹部不適可影響生活；就診時可記錄疼痛時間與伴隨症狀。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "經痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "經痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "neck-shoulder-pain",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "肩頸不適可能影響轉頭與工作，評估時可描述姿勢與活動的關聯。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "肩頸痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "肩頸痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "plantar-heel-pain",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "足跟或足底不適可能在起步、久站時明顯，需評估部位與活動關聯。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "足底痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "足底痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "sciatica",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "臀部到下肢的不適，需一併描述疼痛範圍與是否伴隨麻木。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "坐骨痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "坐骨痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "tennis-elbow",
+      "width": 390,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "手肘外側疼痛可能在抓握或提物時出現，需確認疼痛來源。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "網球肘的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "網球肘的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "allergic-rhinitis",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "鼻過敏可能伴隨鼻癢、打噴嚏或流鼻水；就診時可描述發作情境。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "鼻過敏的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "鼻過敏的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "constipation",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "排便困擾可一併記錄飲水、飲食及排便習慣，提供醫師評估。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "便秘的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "便秘的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "cough",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "咳嗽時可留意發作時段與伴隨症狀，提供就診評估。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "咳嗽的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "咳嗽的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "de-quervain",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "拇指側手腕不適可影響拿取物品，評估時可說明反覆使用手部的情況。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "媽媽手的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "媽媽手的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "diarrhea",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "腹瀉時可留意排便次數與伴隨不適，並向醫師說明。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "腹瀉的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "腹瀉的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "fatigue",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "持續疲倦時，可整理睡眠、活動與其他身體變化供就診評估。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "疲倦的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "疲倦的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "frozen-shoulder",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "肩膀僵硬可能影響抬手與日常動作；活動受限仍需確認原因。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "五十肩的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "五十肩的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "gerd",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "情境示意｜晚間大量進食、油膩辛辣食物、咖啡與工作壓力等生活因素的插畫",
+          "inside": true
+        },
+        {
+          "caption": "情境示意｜中醫師進行脈診並依個別狀況安排單味藥組方與針灸的概念圖",
+          "inside": true
+        },
+        {
+          "caption": "情境示意｜適量進食、飯後保持直立、散步與規律睡眠等日常照護情境插畫",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "insomnia",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "晚間使用手機、咖啡因與工作壓力都可能干擾睡眠。（概念插畫）",
+          "inside": true
+        },
+        {
+          "caption": "失眠評估會結合睡眠型態、日常狀況與脈診辨證。（概念插畫）",
+          "inside": true
+        },
+        {
+          "caption": "規律作息與降低睡前刺激，有助於建立較穩定的睡眠環境。（概念插畫）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "knee-pain",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "膝部疼痛可影響走路、起身與上下樓梯，評估時會觀察活動情況。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "膝痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "膝痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "low-back-pain",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "腰背不適可在久坐或活動時出現，應一起評估疼痛位置與動作限制。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "腰背痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "腰背痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "menstrual-pain",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "經期腹部不適可影響生活；就診時可記錄疼痛時間與伴隨症狀。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "經痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "經痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "neck-shoulder-pain",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "肩頸不適可能影響轉頭與工作，評估時可描述姿勢與活動的關聯。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "肩頸痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "肩頸痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "plantar-heel-pain",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "足跟或足底不適可能在起步、久站時明顯，需評估部位與活動關聯。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "足底痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "足底痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "sciatica",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "臀部到下肢的不適，需一併描述疼痛範圍與是否伴隨麻木。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "坐骨痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "坐骨痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    },
+    {
+      "slug": "tennis-elbow",
+      "width": 1440,
+      "count": 3,
+      "broken": [],
+      "overflow": false,
+      "figures": [
+        {
+          "caption": "手肘外側疼痛可能在抓握或提物時出現，需確認疼痛來源。（情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "網球肘的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）",
+          "inside": true
+        },
+        {
+          "caption": "網球肘的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）",
+          "inside": true
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

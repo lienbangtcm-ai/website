@@ -1,0 +1,3644 @@
+[
+  {
+    "route": "/about-lienbang/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "關於連邦｜一個從台大開始的約定",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "我們在台大相識",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "30px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/ntu-campus-meeting.webp",
+        "alt": "台大椰林大道與總圖書館，連邦故事開始的校園相遇"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/tcm-physical-therapy-paths.webp",
+        "alt": "脈診、單味藥組方與物理治療功能評估，象徵兩條不同的專業道路"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/S__26058755-scaled.jpg",
+        "alt": "連邦中醫共同創辦人，以中醫與物理治療專業實踐大學時期的約定"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫正式 Logo"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/integrated-care-direction.webp",
+        "alt": "中醫診療桌面與物理治療評估空間彼此連結，象徵兩個專業共同思考"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/about-lienbang/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "關於連邦｜一個從台大開始的約定",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "我們在台大相識",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/ntu-campus-meeting.webp",
+        "alt": "台大椰林大道與總圖書館，連邦故事開始的校園相遇"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/tcm-physical-therapy-paths.webp",
+        "alt": "脈診、單味藥組方與物理治療功能評估，象徵兩條不同的專業道路"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/S__26058755-scaled.jpg",
+        "alt": "連邦中醫共同創辦人，以中醫與物理治療專業實踐大學時期的約定"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫正式 Logo"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/integrated-care-direction.webp",
+        "alt": "中醫診療桌面與物理治療評估空間彼此連結，象徵兩個專業共同思考"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/acupuncture/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "不留針手法",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "什麼是不留針手法？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "30px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "/acupuncture/no-retention-acupuncture-assessment.webp",
+        "alt": "中醫師進行觸診與活動評估並準備無菌針具"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/acupuncture/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "不留針手法",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "什麼是不留針手法？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "/acupuncture/no-retention-acupuncture-assessment.webp",
+        "alt": "中醫師進行觸診與活動評估並準備無菌針具"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/acupuncture-physical-therapy/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "針灸整合物理治療",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "疼痛與動作功能，分別進行評估",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "30px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/lienbang-movement-assessment.webp",
+        "alt": "物理治療師進行關節活動度與動作控制評估"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/acupuncture-physical-therapy/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "針灸整合物理治療",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "疼痛與動作功能，分別進行評估",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/lienbang-movement-assessment.webp",
+        "alt": "物理治療師進行關節活動度與動作控制評估"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "連邦中醫診所",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "56px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "常見症狀",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "32px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/home-real-photos.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "/assets/clinic-photos/reception.jpg",
+        "alt": "連邦中醫診所櫃台、品牌牆與暖色吊燈"
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/gerd.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/cough.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/insomnia.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/allergic-rhinitis.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/diarrhea.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/constipation.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/menstrual-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/fatigue.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/frozen-shoulder.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/neck-shoulder-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/low-back-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/sciatica.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/knee-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/tennis-elbow.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/de-quervain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/plantar-heel-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/movement.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/pulse.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/facial.png",
+        "alt": ""
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/02/LINE_ALBUM_202378%E5%85%A8%E5%AE%B6%E7%A6%8F%E7%85%A7%E7%89%87-%E5%80%8B%E4%BA%BA%E5%BD%A2%E8%B1%A1%E7%85%A7_260206_1.jpg",
+        "alt": "連邦中醫張豫院長"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/dai-xuan-yuan-doctor-profile.jpg",
+        "alt": "連邦中醫戴宣元醫師"
+      },
+      {
+        "src": "/assets/clinic-photos/hallway.webp",
+        "alt": "連邦中醫診間走廊與候診長椅"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/06/gerd-diet-lifestyle-triggers.jpg",
+        "alt": "胃食道逆流與飲食生活型態衛教"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/03/pexels-photo-7162254-7162254-1536x1024.jpg",
+        "alt": "服藥期間喝茶注意事項"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/03/pexels-photo-15469266-15469266-1367x2048.jpg",
+        "alt": "喝水與身體循環健康衛教"
+      },
+      {
+        "src": "/assets/clinic-photos/entrance.webp",
+        "alt": "連邦中醫診所入口與招牌"
+      },
+      {
+        "src": "/assets/clinic-photos/reception-wide.webp",
+        "alt": "診所櫃台與候診區實景"
+      },
+      {
+        "src": "/assets/clinic-photos/lobby.webp",
+        "alt": "從診所內看入口與接待空間"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "連邦中醫診所",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "36px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "常見症狀",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/home-real-photos.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "/assets/clinic-photos/reception.jpg",
+        "alt": "連邦中醫診所櫃台、品牌牆與暖色吊燈"
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/gerd.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/cough.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/insomnia.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/allergic-rhinitis.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/diarrhea.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/constipation.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/menstrual-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/fatigue.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/frozen-shoulder.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/neck-shoulder-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/low-back-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/sciatica.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/knee-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/tennis-elbow.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/de-quervain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/plantar-heel-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/movement.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/pulse.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/facial.png",
+        "alt": ""
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/02/LINE_ALBUM_202378%E5%85%A8%E5%AE%B6%E7%A6%8F%E7%85%A7%E7%89%87-%E5%80%8B%E4%BA%BA%E5%BD%A2%E8%B1%A1%E7%85%A7_260206_1.jpg",
+        "alt": "連邦中醫張豫院長"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/dai-xuan-yuan-doctor-profile.jpg",
+        "alt": "連邦中醫戴宣元醫師"
+      },
+      {
+        "src": "/assets/clinic-photos/hallway.webp",
+        "alt": "連邦中醫診間走廊與候診長椅"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/06/gerd-diet-lifestyle-triggers.jpg",
+        "alt": "胃食道逆流與飲食生活型態衛教"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/03/pexels-photo-7162254-7162254-1536x1024.jpg",
+        "alt": "服藥期間喝茶注意事項"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/03/pexels-photo-15469266-15469266-1367x2048.jpg",
+        "alt": "喝水與身體循環健康衛教"
+      },
+      {
+        "src": "/assets/clinic-photos/entrance.webp",
+        "alt": "連邦中醫診所入口與招牌"
+      },
+      {
+        "src": "/assets/clinic-photos/reception-wide.webp",
+        "alt": "診所櫃台與候診區實景"
+      },
+      {
+        "src": "/assets/clinic-photos/lobby.webp",
+        "alt": "從診所內看入口與接待空間"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/pulse-diagnosis/",
+    "width": 1440,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "中醫內科",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "我們會做什麼",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "30px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/single-herb-formulation-detail.webp",
+        "alt": "多種濃縮中藥分開陳列並逐味安排比例"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/pulse-diagnosis/",
+    "width": 390,
+    "title": "連邦中醫診所",
+    "h1": {
+      "text": "中醫內科",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "我們會做什麼",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/single-herb-formulation-detail.webp",
+        "alt": "多種濃縮中藥分開陳列並逐味安排比例"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/services/",
+    "width": 1440,
+    "title": "治療服務｜連邦中醫診所",
+    "h1": {
+      "text": "治療服務",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(72, 55, 45)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "中醫內科",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "32px",
+      "color": "rgb(72, 55, 45)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "/assets/service-reference/pulse.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/herbs.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/care.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/movement.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/acupuncture.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/integration.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/acupotomy.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/fsn.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/facial.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/embedding.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/booking.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/arrival.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/consult.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/symptom.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/medicine.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/reports.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/history.png",
+        "alt": ""
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/services/",
+    "width": 390,
+    "title": "治療服務｜連邦中醫診所",
+    "h1": {
+      "text": "治療服務",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "37px",
+      "color": "rgb(72, 55, 45)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "中醫內科",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "28px",
+      "color": "rgb(72, 55, 45)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "/assets/service-reference/pulse.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/herbs.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/care.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/movement.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/acupuncture.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/integration.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/acupotomy.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/fsn.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/facial.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/embedding.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/booking.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/arrival.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/consult.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/symptom.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/medicine.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/reports.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/service-reference/history.png",
+        "alt": ""
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/allergic-rhinitis/",
+    "width": 1440,
+    "title": "鼻過敏｜連邦中醫診所",
+    "h1": {
+      "text": "鼻過敏",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/allergic-rhinitis-symptoms.jpg",
+        "alt": "鼻過敏症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/allergic-rhinitis-assessment.jpg",
+        "alt": "鼻過敏就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/allergic-rhinitis-daily-care.jpg",
+        "alt": "鼻過敏日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/allergic-rhinitis/",
+    "width": 390,
+    "title": "鼻過敏｜連邦中醫診所",
+    "h1": {
+      "text": "鼻過敏",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/allergic-rhinitis-symptoms.jpg",
+        "alt": "鼻過敏症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/allergic-rhinitis-assessment.jpg",
+        "alt": "鼻過敏就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/allergic-rhinitis-daily-care.jpg",
+        "alt": "鼻過敏日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/constipation/",
+    "width": 1440,
+    "title": "便秘｜連邦中醫診所",
+    "h1": {
+      "text": "便秘",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/constipation-symptoms.jpg",
+        "alt": "便秘症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/constipation-assessment.jpg",
+        "alt": "便秘就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/constipation-daily-care.jpg",
+        "alt": "便秘日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/constipation/",
+    "width": 390,
+    "title": "便秘｜連邦中醫診所",
+    "h1": {
+      "text": "便秘",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/constipation-symptoms.jpg",
+        "alt": "便秘症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/constipation-assessment.jpg",
+        "alt": "便秘就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/constipation-daily-care.jpg",
+        "alt": "便秘日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/cough/",
+    "width": 1440,
+    "title": "咳嗽｜連邦中醫診所",
+    "h1": {
+      "text": "咳嗽",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/cough-symptoms.jpg",
+        "alt": "咳嗽症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/cough-assessment.jpg",
+        "alt": "咳嗽就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/cough-daily-care.jpg",
+        "alt": "咳嗽日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/cough/",
+    "width": 390,
+    "title": "咳嗽｜連邦中醫診所",
+    "h1": {
+      "text": "咳嗽",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/cough-symptoms.jpg",
+        "alt": "咳嗽症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/cough-assessment.jpg",
+        "alt": "咳嗽就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/cough-daily-care.jpg",
+        "alt": "咳嗽日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/de-quervain/",
+    "width": 1440,
+    "title": "媽媽手｜連邦中醫診所",
+    "h1": {
+      "text": "媽媽手",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/de-quervain-symptoms.jpg",
+        "alt": "媽媽手症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/de-quervain-assessment.jpg",
+        "alt": "媽媽手就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/de-quervain-daily-care.jpg",
+        "alt": "媽媽手日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/de-quervain/",
+    "width": 390,
+    "title": "媽媽手｜連邦中醫診所",
+    "h1": {
+      "text": "媽媽手",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/de-quervain-symptoms.jpg",
+        "alt": "媽媽手症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/de-quervain-assessment.jpg",
+        "alt": "媽媽手就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/de-quervain-daily-care.jpg",
+        "alt": "媽媽手日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/diarrhea/",
+    "width": 1440,
+    "title": "腹瀉｜連邦中醫診所",
+    "h1": {
+      "text": "腹瀉",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/diarrhea-symptoms.jpg",
+        "alt": "腹瀉症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/diarrhea-assessment.jpg",
+        "alt": "腹瀉就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/diarrhea-daily-care.jpg",
+        "alt": "腹瀉日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/diarrhea/",
+    "width": 390,
+    "title": "腹瀉｜連邦中醫診所",
+    "h1": {
+      "text": "腹瀉",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/diarrhea-symptoms.jpg",
+        "alt": "腹瀉症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/diarrhea-assessment.jpg",
+        "alt": "腹瀉就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/diarrhea-daily-care.jpg",
+        "alt": "腹瀉日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/fatigue/",
+    "width": 1440,
+    "title": "疲倦｜連邦中醫診所",
+    "h1": {
+      "text": "疲倦",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/fatigue-symptoms.jpg",
+        "alt": "疲倦症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/fatigue-assessment.jpg",
+        "alt": "疲倦就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/fatigue-daily-care.jpg",
+        "alt": "疲倦日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/fatigue/",
+    "width": 390,
+    "title": "疲倦｜連邦中醫診所",
+    "h1": {
+      "text": "疲倦",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/fatigue-symptoms.jpg",
+        "alt": "疲倦症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/fatigue-assessment.jpg",
+        "alt": "疲倦就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/fatigue-daily-care.jpg",
+        "alt": "疲倦日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/frozen-shoulder/",
+    "width": 1440,
+    "title": "五十肩｜連邦中醫診所",
+    "h1": {
+      "text": "五十肩",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/frozen-shoulder-symptoms.jpg",
+        "alt": "五十肩症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/frozen-shoulder-assessment.jpg",
+        "alt": "五十肩就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/frozen-shoulder-daily-care.jpg",
+        "alt": "五十肩日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/frozen-shoulder/",
+    "width": 390,
+    "title": "五十肩｜連邦中醫診所",
+    "h1": {
+      "text": "五十肩",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/frozen-shoulder-symptoms.jpg",
+        "alt": "五十肩症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/frozen-shoulder-assessment.jpg",
+        "alt": "五十肩就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/frozen-shoulder-daily-care.jpg",
+        "alt": "五十肩日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/gerd/",
+    "width": 1440,
+    "title": "胃食道逆流｜連邦中醫診所",
+    "h1": {
+      "text": "胃食道逆流",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/gerd-lifestyle-triggers-v2.jpg",
+        "alt": "晚間大量進食、油膩辛辣食物、咖啡與工作壓力等生活因素的插畫"
+      },
+      {
+        "src": "images/gerd-tcm-treatment.jpg",
+        "alt": "中醫師進行脈診並依個別狀況安排單味藥組方與針灸的概念圖"
+      },
+      {
+        "src": "images/gerd-daily-care-v2.jpg",
+        "alt": "適量進食、飯後保持直立、散步與規律睡眠等日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/gerd/",
+    "width": 390,
+    "title": "胃食道逆流｜連邦中醫診所",
+    "h1": {
+      "text": "胃食道逆流",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/gerd-lifestyle-triggers-v2.jpg",
+        "alt": "晚間大量進食、油膩辛辣食物、咖啡與工作壓力等生活因素的插畫"
+      },
+      {
+        "src": "images/gerd-tcm-treatment.jpg",
+        "alt": "中醫師進行脈診並依個別狀況安排單味藥組方與針灸的概念圖"
+      },
+      {
+        "src": "images/gerd-daily-care-v2.jpg",
+        "alt": "適量進食、飯後保持直立、散步與規律睡眠等日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/",
+    "width": 1440,
+    "title": "常見症狀｜連邦中醫診所",
+    "h1": {
+      "text": "常見症狀",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "52px",
+      "color": "rgb(72, 55, 45)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "內科與體質",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "29px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/symptom-cards.css?v=1",
+      "/assets/symptom-series.css?v=1",
+      "/assets/reference-crops.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/gerd.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/cough.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/insomnia.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/allergic-rhinitis.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/diarrhea.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/constipation.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/menstrual-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/fatigue.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/frozen-shoulder.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/neck-shoulder-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/low-back-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/sciatica.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/knee-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/tennis-elbow.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/de-quervain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/plantar-heel-pain.png",
+        "alt": ""
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/",
+    "width": 390,
+    "title": "常見症狀｜連邦中醫診所",
+    "h1": {
+      "text": "常見症狀",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "36px",
+      "color": "rgb(72, 55, 45)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "內科與體質",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "24px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/symptom-cards.css?v=1",
+      "/assets/symptom-series.css?v=1",
+      "/assets/reference-crops.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/gerd.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/cough.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/insomnia.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/allergic-rhinitis.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/diarrhea.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/constipation.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/menstrual-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/fatigue.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/frozen-shoulder.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/neck-shoulder-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/low-back-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/sciatica.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/knee-pain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/tennis-elbow.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/de-quervain.png",
+        "alt": ""
+      },
+      {
+        "src": "/assets/illustrations/reference-crops/plantar-heel-pain.png",
+        "alt": ""
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/insomnia/",
+    "width": 1440,
+    "title": "失眠｜連邦中醫診所",
+    "h1": {
+      "text": "失眠",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/insomnia-factors.jpg",
+        "alt": "深夜工作時同時使用手機與飲用咖啡的失眠相關因素插畫"
+      },
+      {
+        "src": "images/insomnia-evaluation.jpg",
+        "alt": "中醫師透過問診與脈診評估失眠狀況的概念插畫"
+      },
+      {
+        "src": "images/insomnia-daily-care.jpg",
+        "alt": "降低睡前光線與手機刺激並維持固定作息的睡眠照護插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/insomnia/",
+    "width": 390,
+    "title": "失眠｜連邦中醫診所",
+    "h1": {
+      "text": "失眠",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/insomnia-factors.jpg",
+        "alt": "深夜工作時同時使用手機與飲用咖啡的失眠相關因素插畫"
+      },
+      {
+        "src": "images/insomnia-evaluation.jpg",
+        "alt": "中醫師透過問診與脈診評估失眠狀況的概念插畫"
+      },
+      {
+        "src": "images/insomnia-daily-care.jpg",
+        "alt": "降低睡前光線與手機刺激並維持固定作息的睡眠照護插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/knee-pain/",
+    "width": 1440,
+    "title": "膝痛｜連邦中醫診所",
+    "h1": {
+      "text": "膝痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/knee-pain-symptoms.jpg",
+        "alt": "膝痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/knee-pain-assessment.jpg",
+        "alt": "膝痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/knee-pain-daily-care.jpg",
+        "alt": "膝痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/knee-pain/",
+    "width": 390,
+    "title": "膝痛｜連邦中醫診所",
+    "h1": {
+      "text": "膝痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/knee-pain-symptoms.jpg",
+        "alt": "膝痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/knee-pain-assessment.jpg",
+        "alt": "膝痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/knee-pain-daily-care.jpg",
+        "alt": "膝痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/low-back-pain/",
+    "width": 1440,
+    "title": "腰背痛｜連邦中醫診所",
+    "h1": {
+      "text": "腰背痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/low-back-pain-symptoms.jpg",
+        "alt": "腰背痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/low-back-pain-assessment.jpg",
+        "alt": "腰背痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/low-back-pain-daily-care.jpg",
+        "alt": "腰背痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/low-back-pain/",
+    "width": 390,
+    "title": "腰背痛｜連邦中醫診所",
+    "h1": {
+      "text": "腰背痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/low-back-pain-symptoms.jpg",
+        "alt": "腰背痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/low-back-pain-assessment.jpg",
+        "alt": "腰背痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/low-back-pain-daily-care.jpg",
+        "alt": "腰背痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/menstrual-pain/",
+    "width": 1440,
+    "title": "經痛｜連邦中醫診所",
+    "h1": {
+      "text": "經痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/menstrual-pain-symptoms.jpg",
+        "alt": "經痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/menstrual-pain-assessment.jpg",
+        "alt": "經痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/menstrual-pain-daily-care.jpg",
+        "alt": "經痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/menstrual-pain/",
+    "width": 390,
+    "title": "經痛｜連邦中醫診所",
+    "h1": {
+      "text": "經痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/menstrual-pain-symptoms.jpg",
+        "alt": "經痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/menstrual-pain-assessment.jpg",
+        "alt": "經痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/menstrual-pain-daily-care.jpg",
+        "alt": "經痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/neck-shoulder-pain/",
+    "width": 1440,
+    "title": "肩頸痛｜連邦中醫診所",
+    "h1": {
+      "text": "肩頸痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/neck-shoulder-pain-symptoms.jpg",
+        "alt": "肩頸痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/neck-shoulder-pain-assessment.jpg",
+        "alt": "肩頸痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/neck-shoulder-pain-daily-care.jpg",
+        "alt": "肩頸痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/neck-shoulder-pain/",
+    "width": 390,
+    "title": "肩頸痛｜連邦中醫診所",
+    "h1": {
+      "text": "肩頸痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/neck-shoulder-pain-symptoms.jpg",
+        "alt": "肩頸痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/neck-shoulder-pain-assessment.jpg",
+        "alt": "肩頸痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/neck-shoulder-pain-daily-care.jpg",
+        "alt": "肩頸痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/plantar-heel-pain/",
+    "width": 1440,
+    "title": "足底痛｜連邦中醫診所",
+    "h1": {
+      "text": "足底痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/plantar-heel-pain-symptoms.jpg",
+        "alt": "足底痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/plantar-heel-pain-assessment.jpg",
+        "alt": "足底痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/plantar-heel-pain-daily-care.jpg",
+        "alt": "足底痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/plantar-heel-pain/",
+    "width": 390,
+    "title": "足底痛｜連邦中醫診所",
+    "h1": {
+      "text": "足底痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/plantar-heel-pain-symptoms.jpg",
+        "alt": "足底痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/plantar-heel-pain-assessment.jpg",
+        "alt": "足底痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/plantar-heel-pain-daily-care.jpg",
+        "alt": "足底痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/sciatica/",
+    "width": 1440,
+    "title": "坐骨痛｜連邦中醫診所",
+    "h1": {
+      "text": "坐骨痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/sciatica-symptoms.jpg",
+        "alt": "坐骨痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/sciatica-assessment.jpg",
+        "alt": "坐骨痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/sciatica-daily-care.jpg",
+        "alt": "坐骨痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/sciatica/",
+    "width": 390,
+    "title": "坐骨痛｜連邦中醫診所",
+    "h1": {
+      "text": "坐骨痛",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/sciatica-symptoms.jpg",
+        "alt": "坐骨痛症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/sciatica-assessment.jpg",
+        "alt": "坐骨痛就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/sciatica-daily-care.jpg",
+        "alt": "坐骨痛日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/tennis-elbow/",
+    "width": 1440,
+    "title": "網球肘｜連邦中醫診所",
+    "h1": {
+      "text": "網球肘",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "42px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/tennis-elbow-symptoms.jpg",
+        "alt": "網球肘症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/tennis-elbow-assessment.jpg",
+        "alt": "網球肘就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/tennis-elbow-daily-care.jpg",
+        "alt": "網球肘日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/symptoms/tennis-elbow/",
+    "width": 390,
+    "title": "網球肘｜連邦中醫診所",
+    "h1": {
+      "text": "網球肘",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "你是否有這些困擾？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "26px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/site-shared.css?v=2",
+      "/assets/site-editorial.css?v=1",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      },
+      {
+        "src": "images/tennis-elbow-symptoms.jpg",
+        "alt": "網球肘症狀與生活困擾情境插畫"
+      },
+      {
+        "src": "images/tennis-elbow-assessment.jpg",
+        "alt": "網球肘就診評估與醫病討論情境插畫"
+      },
+      {
+        "src": "images/tennis-elbow-daily-care.jpg",
+        "alt": "網球肘日常照護情境插畫"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/埋線/",
+    "width": 1440,
+    "title": "穴位埋線與體重管理｜台北松山連邦中醫診所",
+    "h1": {
+      "text": "穴位埋線",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "穴位埋線和一般針灸的差別",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "44px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/shared-selfpay.css?v=1",
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/埋線/",
+    "width": 390,
+    "title": "穴位埋線與體重管理｜台北松山連邦中醫診所",
+    "h1": {
+      "text": "穴位埋線",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "穴位埋線和一般針灸的差別",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "30px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/shared-selfpay.css?v=1",
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/浮針/",
+    "width": 1440,
+    "title": "浮針治療｜台北松山連邦中醫診所",
+    "h1": {
+      "text": "浮針",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "浮針和一般針灸有什麼不同？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "44px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/shared-selfpay.css?v=1",
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/浮針/",
+    "width": 390,
+    "title": "浮針治療｜台北松山連邦中醫診所",
+    "h1": {
+      "text": "浮針",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "浮針和一般針灸有什麼不同？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "30px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/shared-selfpay.css?v=1",
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/美顏針/",
+    "width": 1440,
+    "title": "美顏針｜台北松山連邦中醫診所",
+    "h1": {
+      "text": "美顏針",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "美顏針的重點，在個別評估",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "44px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/shared-selfpay.css?v=1",
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/美顏針/",
+    "width": 390,
+    "title": "美顏針｜台北松山連邦中醫診所",
+    "h1": {
+      "text": "美顏針",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "美顏針的重點，在個別評估",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "30px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/shared-selfpay.css?v=1",
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/針刀/",
+    "width": 1440,
+    "title": "針刀治療｜台北松山連邦中醫診所",
+    "h1": {
+      "text": "針刀",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "48px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "針刀是什麼？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "44px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/shared-selfpay.css?v=1",
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      }
+    ],
+    "svg": 0
+  },
+  {
+    "route": "/針刀/",
+    "width": 390,
+    "title": "針刀治療｜台北松山連邦中醫診所",
+    "h1": {
+      "text": "針刀",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "34px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "header": {
+      "text": "首頁治療服務常見症狀醫師團隊↗健康專欄↗關於連邦門診與交通↗LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "15px",
+      "color": "rgb(74, 48, 40)",
+      "background": "rgb(255, 253, 249)",
+      "radius": "0px"
+    },
+    "cta": {
+      "text": "LINE 預約",
+      "font": "\"Noto Sans TC\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+      "size": "12px",
+      "color": "rgb(255, 250, 242)",
+      "background": "rgb(81, 64, 53)",
+      "radius": "9px"
+    },
+    "h2": {
+      "text": "針刀是什麼？",
+      "font": "\"Noto Serif TC\", PMingLiU, serif",
+      "size": "30px",
+      "color": "rgb(81, 64, 53)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px"
+    },
+    "overflow": false,
+    "styles": [
+      "/assets/shared-selfpay.css?v=1",
+      "/assets/site-shared.css?v=2",
+      "/assets/site-unified.css?v=1"
+    ],
+    "images": [
+      {
+        "src": "https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png",
+        "alt": "連邦中醫診所"
+      }
+    ],
+    "svg": 0
+  }
+]

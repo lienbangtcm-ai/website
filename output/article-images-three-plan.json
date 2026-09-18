@@ -1,0 +1,350 @@
+{
+  "mode": "built-in image_gen",
+  "perArticle": 3,
+  "articles": 16,
+  "totalInline": 48,
+  "newAssets": 42,
+  "alreadyGenerated": 1,
+  "retainExistingInline": [
+    "gerd",
+    "insomnia"
+  ],
+  "plan": [
+    {
+      "slug": "cough",
+      "title": "咳嗽",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Warm ivory cocoa brown hand-painted editorial illustration of an East Asian adult coughing into bent elbow at home, glass of water nearby; landscape 3:2, no text, no diagnostic claims.",
+      "caption": "咳嗽時可留意發作時段與伴隨症狀，提供就診評估。（情境示意圖）",
+      "key": "cough-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "cough",
+      "title": "咳嗽",
+      "key": "cough-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient describes coughing symptoms. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "咳嗽的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "cough",
+      "title": "咳嗽",
+      "key": "cough-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult sipping water at a table in a quiet uncluttered smoke-free room, resting with a closed laptop.",
+      "caption": "咳嗽的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "allergic-rhinitis",
+      "title": "鼻過敏",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian adult holding a tissue near their nose beside a closed sunlit window, a small outdoor tree visible, mild nasal discomfort, tidy uncluttered interior.",
+      "caption": "鼻過敏可能伴隨鼻癢、打噴嚏或流鼻水；就診時可描述發作情境。（情境示意圖）",
+      "key": "allergic-rhinitis-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "allergic-rhinitis",
+      "title": "鼻過敏",
+      "key": "allergic-rhinitis-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient holding a tissue describes recurring nasal symptoms. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "鼻過敏的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "allergic-rhinitis",
+      "title": "鼻過敏",
+      "key": "allergic-rhinitis-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult gently wiping a smooth uncluttered shelf with a damp cloth in a bright bedroom, no aerosols or visible dust clouds.",
+      "caption": "鼻過敏的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "constipation",
+      "title": "便秘",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian adult seated at a dining table with water and a modest bowl of vegetables, resting a hand gently over the lower abdomen, mild abdominal fullness; no toilet, no internal anatomy.",
+      "caption": "排便困擾可一併記錄飲水、飲食及排便習慣，提供醫師評估。（情境示意圖）",
+      "key": "constipation-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "constipation",
+      "title": "便秘",
+      "key": "constipation-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient describes digestive and bowel-pattern concerns. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "便秘的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "constipation",
+      "title": "便秘",
+      "key": "constipation-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult seated at a dining table with vegetables, whole grains and drinking water, realistic modest meal portions.",
+      "caption": "便秘的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "menstrual-pain",
+      "title": "經痛",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: A fully clothed East Asian adult woman resting on a sofa, one hand gently on her lower abdomen, subtle discomfort, a folded blanket nearby, dignified calm domestic scene.",
+      "caption": "經期腹部不適可影響生活；就診時可記錄疼痛時間與伴隨症狀。（情境示意圖）",
+      "key": "menstrual-pain-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "menstrual-pain",
+      "title": "經痛",
+      "key": "menstrual-pain-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; fully clothed adult woman discusses menstrual discomfort using a blank symptom notebook. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "經痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "menstrual-pain",
+      "title": "經痛",
+      "key": "menstrual-pain-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. A fully clothed adult woman resting on a sofa with a blanket, noting symptom dates in a notebook whose pages have no legible writing.",
+      "caption": "經痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "diarrhea",
+      "title": "腹瀉",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian adult seated at home near a table with a glass of water, gently holding their abdomen while noting symptoms in a blank notebook; mild discomfort, no bathroom or toilet.",
+      "caption": "腹瀉時可留意排便次數與伴隨不適，並向醫師說明。（情境示意圖）",
+      "key": "diarrhea-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "diarrhea",
+      "title": "腹瀉",
+      "key": "diarrhea-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient discusses digestive symptoms and a blank symptom diary. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "腹瀉的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "diarrhea",
+      "title": "腹瀉",
+      "key": "diarrhea-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult sipping water beside a small plain bowl of rice porridge, calm home dining scene, no medications.",
+      "caption": "腹瀉的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "fatigue",
+      "title": "疲倦",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian adult resting at a desk with closed laptop, shoulders relaxed and visibly tired, afternoon light, one glass of water, no coffee, calm simple scene.",
+      "caption": "持續疲倦時，可整理睡眠、活動與其他身體變化供就診評估。（情境示意圖）",
+      "key": "fatigue-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "fatigue",
+      "title": "疲倦",
+      "key": "fatigue-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient discusses persistent tiredness and sleep routine. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "疲倦的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "fatigue",
+      "title": "疲倦",
+      "key": "fatigue-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult taking an easy daytime walk on a quiet park path, no strenuous exercise, soft morning light.",
+      "caption": "疲倦的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "neck-shoulder-pain",
+      "title": "肩頸痛",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian office worker seated beside a laptop, gently touching the upper trapezius between neck and shoulder with the opposite hand, mild stiffness after desk work. Natural anatomically plausible hands.",
+      "caption": "肩頸不適可能影響轉頭與工作，評估時可描述姿勢與活動的關聯。（情境示意圖）",
+      "key": "neck-shoulder-pain-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "neck-shoulder-pain",
+      "title": "肩頸痛",
+      "key": "neck-shoulder-pain-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient gently indicates neck and shoulder while clinician listens. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "肩頸痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "neck-shoulder-pain",
+      "title": "肩頸痛",
+      "key": "neck-shoulder-pain-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An office worker at an ergonomically arranged desk, monitor at eye height, relaxed shoulders, both feet resting on floor, ordinary comfortable posture.",
+      "caption": "肩頸痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "low-back-pain",
+      "title": "腰背痛",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian adult standing beside an office chair in three-quarter rear view, one hand resting over the lower back, subtle discomfort, no bent or distorted spine, tidy home office.",
+      "caption": "腰背不適可在久坐或活動時出現，應一起評估疼痛位置與動作限制。（情境示意圖）",
+      "key": "low-back-pain-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "low-back-pain",
+      "title": "腰背痛",
+      "key": "low-back-pain-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient gestures toward lower back while seated comfortably. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "腰背痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "low-back-pain",
+      "title": "腰背痛",
+      "key": "low-back-pain-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An office worker standing beside a desk taking a gentle break from sitting, natural neutral back posture, no exercise demonstration.",
+      "caption": "腰背痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "frozen-shoulder",
+      "title": "五十肩",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: A middle-aged East Asian woman attempting to reach a low shelf with one arm, stopping at shoulder height due to mild shoulder stiffness, other hand gently near upper arm. No treatment demonstration or forceful stretching.",
+      "caption": "肩膀僵硬可能影響抬手與日常動作；活動受限仍需確認原因。（情境示意圖）",
+      "key": "frozen-shoulder-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "frozen-shoulder",
+      "title": "五十肩",
+      "key": "frozen-shoulder-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient gently lifts one arm only to comfortable shoulder level while clinician observes from a respectful distance. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "五十肩的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "frozen-shoulder",
+      "title": "五十肩",
+      "key": "frozen-shoulder-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. A middle-aged adult putting commonly used lightweight household items on an easy-to-reach waist-high shelf, keeping both arms comfortably low.",
+      "caption": "五十肩的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "sciatica",
+      "title": "坐骨痛",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian adult sitting on the edge of a chair, three-quarter side view, one hand resting near the buttock and upper back of thigh, subtle discomfort along the leg, fully clothed, no anatomical cutaways or glowing nerves.",
+      "caption": "臀部到下肢的不適，需一併描述疼痛範圍與是否伴隨麻木。（情境示意圖）",
+      "key": "sciatica-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "sciatica",
+      "title": "坐骨痛",
+      "key": "sciatica-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient gestures toward outer hip and leg while clinician listens. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "坐骨痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "sciatica",
+      "title": "坐骨痛",
+      "key": "sciatica-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult taking a gentle short walk on a flat garden path, relaxed natural posture, no exercise or stretch demonstration.",
+      "caption": "坐骨痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "knee-pain",
+      "title": "膝痛",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An older East Asian adult seated on a wooden bench, hands gently resting around one bent knee, mild discomfort after walking, natural knee anatomy, warm home entryway with walking shoes nearby.",
+      "caption": "膝部疼痛可影響走路、起身與上下樓梯，評估時會觀察活動情況。（情境示意圖）",
+      "key": "knee-pain-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "knee-pain",
+      "title": "膝痛",
+      "key": "knee-pain-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; seated patient indicates one knee while clinician observes. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "膝痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "knee-pain",
+      "title": "膝痛",
+      "key": "knee-pain-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An older adult taking a comfortable walk on a flat park path wearing supportive ordinary walking shoes, relaxed calm movement.",
+      "caption": "膝痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "tennis-elbow",
+      "title": "網球肘",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian adult at a simple table, using one hand to gently touch the OUTER lateral side of the opposite elbow, with a mug on the table implying gripping tasks, natural anatomy, no tennis racket needed.",
+      "caption": "手肘外側疼痛可能在抓握或提物時出現，需確認疼痛來源。（情境示意圖）",
+      "key": "tennis-elbow-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "tennis-elbow",
+      "title": "網球肘",
+      "key": "tennis-elbow-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient gently indicates the outer side of an elbow while clinician observes. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "網球肘的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "tennis-elbow",
+      "title": "網球肘",
+      "key": "tennis-elbow-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult resting forearms comfortably on a desk beside a closed laptop, taking a break from repetitive hand tasks, natural hand anatomy.",
+      "caption": "網球肘的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "de-quervain",
+      "title": "媽媽手",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: Close medium editorial view of an East Asian adult seated at a table, one hand gently supporting the THUMB SIDE of the opposite wrist, relaxed open thumb, natural five-finger hands, phone resting unused on table. No splint or exercises.",
+      "caption": "拇指側手腕不適可影響拿取物品，評估時可說明反覆使用手部的情況。（情境示意圖）",
+      "key": "de-quervain-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "de-quervain",
+      "title": "媽媽手",
+      "key": "de-quervain-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient shows thumb-side wrist discomfort with hands resting on table. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "媽媽手的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "de-quervain",
+      "title": "媽媽手",
+      "key": "de-quervain-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult setting a smartphone aside on a table and resting both hands in a relaxed neutral position, no braces or stretches.",
+      "caption": "媽媽手的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    },
+    {
+      "slug": "plantar-heel-pain",
+      "title": "足底痛",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. Use case: editorial illustration. Create exactly one landscape 3:2, 1200x800 inline illustration for a Taiwanese traditional Chinese medicine clinic article. Cohesive refined hand-painted editorial style, soft warm ivory, cocoa brown, beige, subtle muted teal accents, calm empathetic mood, simplified background. Single scene. Not a photograph of an actual clinic or patient. No text, letters, logos, labels, watermark, anatomical cutaways, diagnostic claims, treatment or cure claims. Natural plausible anatomy. Subject: An East Asian adult seated on the edge of a bed in morning light, one bare foot resting naturally on the floor, gently reaching toward the inner underside of the heel of the other foot, fully clothed, anatomically plausible limbs, mild heel discomfort.",
+      "caption": "足跟或足底不適可能在起步、久站時明顯，需評估部位與活動關聯。（情境示意圖）",
+      "key": "plantar-heel-pain-symptoms",
+      "role": "symptoms"
+    },
+    {
+      "slug": "plantar-heel-pain",
+      "title": "足底痛",
+      "key": "plantar-heel-pain-assessment",
+      "role": "assessment",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An empathetic clinician and adult patient in a generic quiet consultation room; patient sitting fully clothed on an ordinary chair indicates heel of foot while clinician observes. Medium wide two-person view, clinician in simple white coat, no readable documents or medical devices.",
+      "caption": "足底痛的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）"
+    },
+    {
+      "slug": "plantar-heel-pain",
+      "title": "足底痛",
+      "key": "plantar-heel-pain-daily-care",
+      "role": "daily-care",
+      "prompt": "Use case: editorial illustration. Generate exactly one landscape 3:2 image, intended 1200x800 for inline placement in a Taiwanese clinic health article. Refined hand-painted editorial style, warm ivory, cocoa brown and beige, subtle muted teal accent, soft natural light, calm empathetic mood, simple surroundings. East Asian adults, plausible natural anatomy. No text, labels, charts, logo, watermark, diagnostic claims, cure claims, anatomical cutaways, needles, manipulation or medication instructions. Not a photograph, not documentation of a real patient or actual clinic. An adult seated by a doorway putting on supportive walking shoes, resting feet naturally, no exercise demonstration.",
+      "caption": "足底痛的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "articles": 16,
+  "inlineImages": 48,
+  "checks": [
+    {
+      "slug": "allergic-rhinitis",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/allergic-rhinitis/images/allergic-rhinitis-symptoms.jpg",
+          "bytes": 156594
+        },
+        {
+          "path": "illustrated-articles/allergic-rhinitis/images/allergic-rhinitis-assessment.jpg",
+          "bytes": 164493
+        },
+        {
+          "path": "illustrated-articles/allergic-rhinitis/images/allergic-rhinitis-daily-care.jpg",
+          "bytes": 156604
+        }
+      ]
+    },
+    {
+      "slug": "constipation",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/constipation/images/constipation-symptoms.jpg",
+          "bytes": 162024
+        },
+        {
+          "path": "illustrated-articles/constipation/images/constipation-assessment.jpg",
+          "bytes": 157975
+        },
+        {
+          "path": "illustrated-articles/constipation/images/constipation-daily-care.jpg",
+          "bytes": 174172
+        }
+      ]
+    },
+    {
+      "slug": "cough",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/cough/images/cough-symptoms.jpg",
+          "bytes": 179961
+        },
+        {
+          "path": "illustrated-articles/cough/images/cough-assessment.jpg",
+          "bytes": 166700
+        },
+        {
+          "path": "illustrated-articles/cough/images/cough-daily-care.jpg",
+          "bytes": 146545
+        }
+      ]
+    },
+    {
+      "slug": "de-quervain",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/de-quervain/images/de-quervain-symptoms.jpg",
+          "bytes": 161767
+        },
+        {
+          "path": "illustrated-articles/de-quervain/images/de-quervain-assessment.jpg",
+          "bytes": 144288
+        },
+        {
+          "path": "illustrated-articles/de-quervain/images/de-quervain-daily-care.jpg",
+          "bytes": 144001
+        }
+      ]
+    },
+    {
+      "slug": "diarrhea",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/diarrhea/images/diarrhea-symptoms.jpg",
+          "bytes": 180541
+        },
+        {
+          "path": "illustrated-articles/diarrhea/images/diarrhea-assessment.jpg",
+          "bytes": 179355
+        },
+        {
+          "path": "illustrated-articles/diarrhea/images/diarrhea-daily-care.jpg",
+          "bytes": 195453
+        }
+      ]
+    },
+    {
+      "slug": "fatigue",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/fatigue/images/fatigue-symptoms.jpg",
+          "bytes": 156026
+        },
+        {
+          "path": "illustrated-articles/fatigue/images/fatigue-assessment.jpg",
+          "bytes": 144760
+        },
+        {
+          "path": "illustrated-articles/fatigue/images/fatigue-daily-care.jpg",
+          "bytes": 190272
+        }
+      ]
+    },
+    {
+      "slug": "frozen-shoulder",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/frozen-shoulder/images/frozen-shoulder-symptoms.jpg",
+          "bytes": 145508
+        },
+        {
+          "path": "illustrated-articles/frozen-shoulder/images/frozen-shoulder-assessment.jpg",
+          "bytes": 141477
+        },
+        {
+          "path": "illustrated-articles/frozen-shoulder/images/frozen-shoulder-daily-care.jpg",
+          "bytes": 171368
+        }
+      ]
+    },
+    {
+      "slug": "gerd",
+      "inlineImages": 3,
+      "textPreserved": null,
+      "files": [
+        {
+          "path": "illustrated-articles/gerd/images/gerd-lifestyle-triggers-v2.jpg",
+          "bytes": 138626
+        },
+        {
+          "path": "illustrated-articles/gerd/images/gerd-tcm-treatment.jpg",
+          "bytes": 138341
+        },
+        {
+          "path": "illustrated-articles/gerd/images/gerd-daily-care-v2.jpg",
+          "bytes": 154511
+        }
+      ]
+    },
+    {
+      "slug": "insomnia",
+      "inlineImages": 3,
+      "textPreserved": null,
+      "files": [
+        {
+          "path": "illustrated-articles/insomnia/images/insomnia-factors.jpg",
+          "bytes": 139246
+        },
+        {
+          "path": "illustrated-articles/insomnia/images/insomnia-evaluation.jpg",
+          "bytes": 160047
+        },
+        {
+          "path": "illustrated-articles/insomnia/images/insomnia-daily-care.jpg",
+          "bytes": 111507
+        }
+      ]
+    },
+    {
+      "slug": "knee-pain",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/knee-pain/images/knee-pain-symptoms.jpg",
+          "bytes": 181730
+        },
+        {
+          "path": "illustrated-articles/knee-pain/images/knee-pain-assessment.jpg",
+          "bytes": 154510
+        },
+        {
+          "path": "illustrated-articles/knee-pain/images/knee-pain-daily-care.jpg",
+          "bytes": 199101
+        }
+      ]
+    },
+    {
+      "slug": "low-back-pain",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/low-back-pain/images/low-back-pain-symptoms.jpg",
+          "bytes": 159575
+        },
+        {
+          "path": "illustrated-articles/low-back-pain/images/low-back-pain-assessment.jpg",
+          "bytes": 152414
+        },
+        {
+          "path": "illustrated-articles/low-back-pain/images/low-back-pain-daily-care.jpg",
+          "bytes": 165148
+        }
+      ]
+    },
+    {
+      "slug": "menstrual-pain",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/menstrual-pain/images/menstrual-pain-symptoms.jpg",
+          "bytes": 179284
+        },
+        {
+          "path": "illustrated-articles/menstrual-pain/images/menstrual-pain-assessment.jpg",
+          "bytes": 154487
+        },
+        {
+          "path": "illustrated-articles/menstrual-pain/images/menstrual-pain-daily-care.jpg",
+          "bytes": 195504
+        }
+      ]
+    },
+    {
+      "slug": "neck-shoulder-pain",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/neck-shoulder-pain/images/neck-shoulder-pain-symptoms.jpg",
+          "bytes": 149372
+        },
+        {
+          "path": "illustrated-articles/neck-shoulder-pain/images/neck-shoulder-pain-assessment.jpg",
+          "bytes": 134466
+        },
+        {
+          "path": "illustrated-articles/neck-shoulder-pain/images/neck-shoulder-pain-daily-care.jpg",
+          "bytes": 167681
+        }
+      ]
+    },
+    {
+      "slug": "plantar-heel-pain",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/plantar-heel-pain/images/plantar-heel-pain-symptoms.jpg",
+          "bytes": 196254
+        },
+        {
+          "path": "illustrated-articles/plantar-heel-pain/images/plantar-heel-pain-assessment.jpg",
+          "bytes": 166141
+        },
+        {
+          "path": "illustrated-articles/plantar-heel-pain/images/plantar-heel-pain-daily-care.jpg",
+          "bytes": 188625
+        }
+      ]
+    },
+    {
+      "slug": "sciatica",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/sciatica/images/sciatica-symptoms.jpg",
+          "bytes": 158290
+        },
+        {
+          "path": "illustrated-articles/sciatica/images/sciatica-assessment.jpg",
+          "bytes": 148170
+        },
+        {
+          "path": "illustrated-articles/sciatica/images/sciatica-daily-care.jpg",
+          "bytes": 189119
+        }
+      ]
+    },
+    {
+      "slug": "tennis-elbow",
+      "inlineImages": 3,
+      "textPreserved": true,
+      "files": [
+        {
+          "path": "illustrated-articles/tennis-elbow/images/tennis-elbow-symptoms.jpg",
+          "bytes": 166060
+        },
+        {
+          "path": "illustrated-articles/tennis-elbow/images/tennis-elbow-assessment.jpg",
+          "bytes": 159457
+        },
+        {
+          "path": "illustrated-articles/tennis-elbow/images/tennis-elbow-daily-care.jpg",
+          "bytes": 146450
+        }
+      ]
+    }
+  ]
+}
