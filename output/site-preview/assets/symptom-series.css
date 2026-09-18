@@ -1,0 +1,10 @@
+/* All sixteen cards now share the approved GERD master. */
+.lbsym-list a.symptom-master-card{border-radius:22px;background:#f3eee5;padding:16px 24px 24px;box-shadow:none;border:1px solid #e7dfd3;transition:background .18s,border-color .18s}
+.lbsym-list li:nth-child(3n+2) a.symptom-master-card{background:#f0f0e8}
+.lbsym-list li:nth-child(3n) a.symptom-master-card{background:#f5eee8}
+.lbsym-list a.symptom-master-card:hover{transform:none;background:#ede5d8;border-color:#cbb79c;box-shadow:none}
+.lbsym-list .symptom-master-card svg{height:200px;width:100%;margin:0 auto 20px;flex-shrink:0}
+.symptom-master-card .symptom-caption{font-family:"Microsoft JhengHei",sans-serif;font-weight:500;margin-top:auto}
+@media(max-width:1000px) and (min-width:701px){.lbsym-list{grid-template-columns:repeat(3,minmax(0,1fr))}.lbsym-list a.symptom-master-card{padding:14px 18px 22px}.lbsym-list .symptom-master-card svg{height:180px}}
+@media(max-width:700px){.lbsym-list a.symptom-master-card{padding:10px 14px 16px;border-radius:22px}.lbsym-list .symptom-master-card svg{height:140px;margin-bottom:14px}.symptom-master-card .symptom-caption{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.lbsym-list a.symptom-master-card{transition:none}}

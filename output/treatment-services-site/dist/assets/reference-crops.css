@@ -1,0 +1,4 @@
+/* Direct crops of the approved reference, retaining the site's text and links. */
+.lbsym-list .reference-crop-card img{display:block;width:100%;height:200px;object-fit:contain;margin:0 auto 20px;flex-shrink:0;border-radius:12px}
+@media(max-width:1000px) and (min-width:701px){.lbsym-list .reference-crop-card img{height:180px}}
+@media(max-width:700px){.lbsym-list .reference-crop-card img{height:140px;margin-bottom:14px}}

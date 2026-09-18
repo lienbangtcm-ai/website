@@ -1,0 +1,59 @@
+/* Final local-preview identity layer, loaded after legacy page styles. */
+:root{--clinic-paper:#faf8f4;--clinic-soft:#f0ebe3;--clinic-ink:#514035;--clinic-muted:#82715f;--clinic-border:#e2d9ce}
+.lbnr,.lb-herb,.lb-about{margin-top:0!important}
+body .lbnr a.lbnr-btn,body .lb-herb a.lb-btn,body .lb-about a.lb-about-btn{background:#514035!important;color:#fffaf2!important;border:1px solid #514035!important;border-radius:9px!important;box-shadow:none!important}
+body .lbnr a.lbnr-btn--line,body .lb-herb a.lb-btn--line{background:transparent!important;color:#514035!important;border-color:#bca68b!important}
+body .preview-header{background:#fffdf9;border-color:var(--clinic-border);font-weight:500}
+body .preview-header nav a.preview-line{background:#514035;color:#fffaf2;border-radius:9px;padding:10px 20px;box-shadow:none}
+body .lb-float-line{background:#514035!important;border-radius:9px!important;box-shadow:0 3px 12px #51403514!important;padding:10px 18px!important;font-size:14px!important}
+body .preview-related{background:#f0ebe3;border-color:#e2d9ce}
+body .preview-related a{color:#78624e}
+.lb-herb,.lbnr,.lb-about,.lb-article{--coffee:#514035;--ink:#514035;--green:#514035;--lb-ink:#514035;--lb-text:#69594b;--lb-ivory:#f0ebe3;--lb-paper:#faf8f4;--lb-line:#e2d9ce;--lb-gold:#b29a77;--ivory:#f0ebe3;--paper:#faf8f4;background:#faf8f4;color:#514035}
+.lb-herb h1,.lb-herb h2,.lbnr h1,.lbnr h2,.lb-about h1,.lb-about h2,.lb-article h1,.lb-article h2{font-family:"Noto Serif TC","PMingLiU",serif!important;font-weight:600!important;color:#514035;letter-spacing:.025em}
+.lb-herb h3,.lbnr h3,.lb-about h3,.lb-article h3{color:#514035;font-weight:500}
+.lb-herb .lb-hero,.lbnr .lbnr-hero,.lb-about .lb-about-hero{background:#f0ebe3!important;min-height:0;color:#514035}
+.lb-herb .lb-hero:before,.lb-herb .lb-hero:after,.lbnr .lbnr-hero:before,.lbnr .lbnr-hero:after,.lb-about .lb-about-hero:before,.lb-about .lb-about-hero:after{display:none}
+.lb-herb .lb-hero__content,.lbnr .lbnr-hero__content{padding-top:52px;padding-bottom:46px}
+.lb-herb .lb-hero__copy,.lbnr .lbnr-hero__copy{max-width:850px;width:100%;color:#514035;padding:0}
+.lb-herb .lb-hero h1,.lbnr .lbnr-hero h1,.lb-about .lb-about-title{font-size:48px!important;line-height:1.45;color:#514035!important}
+.lb-herb .lb-hero p,.lbnr .lbnr-hero p,.lb-about .lb-about-hero p{color:#82715f!important;line-height:1.9;font-size:16px;max-width:760px}
+.lb-about .lb-about-hero{padding:52px 0 46px}
+.lb-about .lb-about-title{max-width:900px}
+.lb-herb .lb-section,.lbnr .lbnr-section,.lb-about .lb-about-section{padding-top:52px;padding-bottom:52px}
+.lb-herb .lb-section h2,.lbnr .lbnr-section h2,.lb-about .lb-about-section h2{font-size:30px;line-height:1.5}
+.lb-herb .lb-section--ivory,.lbnr .lbnr-section--ivory,.lb-about .lb-about-soft{background:#f2eee7}
+.lb-herb .lb-card,.lbnr .lbnr-card,.lb-about .lb-about-card,.lb-about .lb-about-milestone,.lb-article .lb-card{background:#fffdf9;border:1px solid #e2d9ce;border-radius:18px;box-shadow:none}
+.lb-herb .lb-nav,.lbnr .lbnr-nav,.lb-article .lb-toc{background:#faf8f4;border-color:#e2d9ce;box-shadow:none}
+.lb-herb .lb-nav a,.lbnr .lbnr-nav a,.lb-article .lb-toc a{font-weight:500;color:#79634f}
+.lb-herb .lb-nav a:hover,.lbnr .lbnr-nav a:hover,.lb-article .lb-toc a:hover{color:#514035;background:#eee7dc}
+.lb-herb .lb-card a,.lb-herb .lb-cross a,.lbnr .lbnr-cross a{color:#79634f;text-underline-offset:4px}
+.lb-herb .lb-note,.lbnr .lbnr-note,.lbnr .lbnr-definition__mark{background:#efe9df;border:1px solid #ded2c1;color:#69594b;border-radius:12px;box-shadow:none}
+.lbnr .lbnr-definition__mark *{color:#69594b}
+.lb-herb .lb-faq details,.lbnr .lbnr-faq details,.lb-article .lb-faq details{background:#fffdf9;border:1px solid #e2d9ce;border-radius:12px;box-shadow:none;margin-bottom:12px}
+.lb-herb .lb-faq summary,.lbnr .lbnr-faq summary{font-weight:500;color:#514035}
+.lb-herb .lb-btn,.lbnr .lbnr-btn,.lb-about .lb-about-btn,.lb-article .lb-btn{border-radius:9px;box-shadow:none;font-weight:500;background:#514035;color:#fffaf2!important;border:1px solid #514035}
+.lb-herb .lb-btn--line,.lbnr .lbnr-btn--line{background:transparent;color:#514035!important;border-color:#bca68b}
+.lb-herb .lb-section--coffee,.lbnr .lbnr-section--coffee,.lb-about .lb-about-final,.lb-article .lb-cta{background:#514035;color:#fffaf2}
+.lb-herb .lb-section--coffee h2,.lbnr .lbnr-section--coffee h2,.lb-about .lb-about-final h2,.lb-article .lb-cta h2{color:#fffaf2}
+.lb-herb .lb-section--coffee p,.lbnr .lbnr-section--coffee p,.lb-about .lb-about-final p{color:#e4d8ca}
+.lb-herb .lb-section--coffee .lb-btn,.lbnr .lbnr-section--coffee .lbnr-btn,.lb-about .lb-about-final .lb-about-btn,.lb-article .lb-cta .lb-btn{background:#eadcc8;color:#514035!important;border-color:#eadcc8}
+.lb-herb .lb-split__image,.lbnr .lbnr-split__image,.lb-about .lb-about-photo{border-radius:18px;box-shadow:none}
+.lb-about .lb-about-kicker{color:#9c8265;letter-spacing:.12em}
+.lb-article .lb-hero{background:#f0ebe3;padding:48px 0;border-color:#e2d9ce}
+.lb-article .lb-hero h1{font-size:48px;line-height:1.5}
+.lb-article .lb-section{padding-top:44px;padding-bottom:44px}
+.lb-article .lb-toc ul{gap:10px 22px}
+.lb-article .lb-toc a{font-size:14px;line-height:1.8}
+.lb-article .lb-cta{padding:44px 24px}
+.lb-article .lb-eyebrow{font-weight:500;color:#a48b6b}
+.lbh4 .lbh4-service>img.home-service-reference{width:144px;height:116px;object-fit:contain;margin:24px 26px 0;border-radius:14px}
+@media(max-width:720px){
+ .lb-herb .lb-hero__content,.lbnr .lbnr-hero__content{padding-top:34px;padding-bottom:30px}
+ .lb-about .lb-about-hero{padding:34px 0 30px}
+ .lb-herb .lb-hero h1,.lbnr .lbnr-hero h1,.lb-about .lb-about-title,.lb-article .lb-hero h1{font-size:34px!important}
+ .lb-herb .lb-section,.lbnr .lbnr-section,.lb-about .lb-about-section,.lb-article .lb-section{padding-top:34px;padding-bottom:34px}
+ .lb-herb .lb-section h2,.lbnr .lbnr-section h2,.lb-about .lb-about-section h2{font-size:26px}
+ .lb-article .lb-hero{padding:32px 0}
+ .lb-article .lb-toc{padding:14px 0}
+ .lb-article .lb-toc a{font-size:13px}
+}

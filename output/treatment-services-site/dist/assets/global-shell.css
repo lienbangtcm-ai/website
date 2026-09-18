@@ -1,0 +1,31 @@
+:root{--shell-coffee:#4a3028;--shell-dark:#2d2019;--shell-ivory:#fbf8f2;--shell-gold:#b8906d;--shell-line:#e5d9cc;--shell-muted:#7d6c61}
+.global-header,.global-header *,.global-footer,.global-footer *{box-sizing:border-box}
+.global-header{position:sticky;top:0;z-index:1000;display:grid;grid-template-columns:220px minmax(0,1fr) 124px;align-items:center;gap:32px;min-height:82px;padding:0 max(28px,calc((100% - 1320px)/2));border-bottom:1px solid rgba(74,48,40,.12);background:rgba(255,253,249,.97);box-shadow:0 8px 28px rgba(53,35,25,.045);color:var(--shell-coffee);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
+.global-brand{display:flex;width:195px;align-items:center;text-decoration:none}
+.global-brand img{display:block;width:195px;height:39px;object-fit:contain;filter:brightness(0) saturate(100%) invert(19%) sepia(16%) saturate(1207%) hue-rotate(331deg) brightness(93%) contrast(85%)}
+.global-header nav{display:flex;align-items:center;justify-content:center;gap:clamp(18px,2.25vw,38px);min-width:0}
+.global-header nav a{position:relative;color:var(--shell-coffee);font-size:14px;font-weight:600;line-height:1.4;letter-spacing:.03em;text-decoration:none;white-space:nowrap}
+.global-header nav a:after{position:absolute;right:50%;bottom:-10px;left:50%;height:1px;background:var(--shell-gold);content:"";transition:left .22s ease,right .22s ease}
+.global-header nav a:hover:after,.global-header nav a:focus-visible:after{right:0;left:0}
+.global-booking{display:inline-flex;min-width:116px;min-height:42px;align-items:center;justify-content:center;border-radius:999px;background:var(--shell-coffee);color:#fff!important;font-size:14px;font-weight:700;letter-spacing:.06em;text-decoration:none;box-shadow:0 7px 18px rgba(74,48,40,.16);transition:transform .2s ease,background .2s ease}
+.global-booking:hover{background:#38231c;transform:translateY(-1px)}
+.global-footer{margin:0!important;padding:0!important;background:var(--shell-dark)!important;color:#f7eee5!important;font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.global-footer-main{display:grid;width:min(1320px,calc(100% - 80px));grid-template-columns:265px minmax(0,1fr) 285px;gap:64px;margin:auto;padding:56px 0 42px}
+.global-footer-brand{display:flex;flex-direction:column;align-items:flex-start;color:#fff;text-decoration:none}
+.global-footer-brand img{display:block;width:205px;height:41px;object-fit:contain;object-position:left center}
+.global-footer-brand p{max-width:240px;margin:20px 0 0;color:#cdbeb1;font:400 14px/1.85 "Noto Sans TC","Microsoft JhengHei",sans-serif;letter-spacing:.04em}
+.global-footer-links h2,.global-footer-contact h2{margin:0 0 20px;color:#d6b38f;font:700 13px/1.4 "Noto Sans TC","Microsoft JhengHei",sans-serif;letter-spacing:.16em}
+.global-footer-links nav{display:grid;grid-template-columns:repeat(3,minmax(90px,1fr));gap:14px 28px}
+.global-footer-links a,.global-footer-contact a{color:#f7eee5;text-decoration:none}
+.global-footer-links a{font-size:14px;font-weight:500;letter-spacing:.04em}
+.global-footer-links a:hover,.global-footer-contact a:hover{text-decoration:underline;text-underline-offset:5px}
+.global-footer-contact{padding-left:35px;border-left:1px solid rgba(214,179,143,.28)}
+.global-footer-contact address{margin:0;color:#cdbeb1;font:400 13px/1.8 "Noto Sans TC","Microsoft JhengHei",sans-serif}
+.global-footer-phone{display:inline-block;margin-top:8px;font-size:18px;font-weight:700;letter-spacing:.04em}
+.global-footer-line{display:inline-flex!important;min-width:150px;min-height:44px;align-items:center;justify-content:center;margin-top:18px;border-radius:999px;background:#2b9149;color:#fff!important;font-size:14px;font-weight:700;letter-spacing:.08em;text-decoration:none!important;box-shadow:0 9px 24px rgba(0,0,0,.18)}
+.global-footer-bottom{display:flex;width:min(1320px,calc(100% - 80px));align-items:center;justify-content:space-between;gap:24px;margin:auto;padding:20px 0 24px;border-top:1px solid rgba(255,255,255,.12);color:#aa9a8e;font-size:11px;line-height:1.6;letter-spacing:.04em}
+.global-footer-bottom p{margin:0}
+@media(max-width:1100px){.global-header{grid-template-columns:195px minmax(0,1fr) 110px;gap:18px;padding-inline:24px}.global-brand,.global-brand img{width:180px}.global-header nav{gap:18px}.global-header nav a{font-size:12px}.global-footer-main{width:calc(100% - 48px);grid-template-columns:225px 1fr 235px;gap:35px}.global-footer-bottom{width:calc(100% - 48px)}}
+@media(max-width:820px){.global-header{grid-template-columns:1fr auto;gap:0;min-height:0;padding:13px 18px 0}.global-brand,.global-brand img{width:170px;height:34px}.global-booking{min-width:96px;min-height:38px;font-size:12px}.global-header nav{grid-column:1/-1;justify-content:flex-start;gap:0;width:calc(100% + 36px);margin:12px -18px 0;padding:0 12px;overflow-x:auto;border-top:1px solid var(--shell-line);scrollbar-width:none}.global-header nav::-webkit-scrollbar{display:none}.global-header nav a{display:flex;min-width:max-content;min-height:45px;align-items:center;padding:0 14px;font-size:12px}.global-header nav a:after{display:none}.global-footer-main{grid-template-columns:1fr 1.35fr;gap:40px;padding:44px 0 34px}.global-footer-contact{grid-column:1/-1;padding:28px 0 0;border-top:1px solid rgba(214,179,143,.22);border-left:0}.global-footer-bottom{align-items:flex-start}}
+@media(max-width:560px){.global-header{padding-inline:14px}.global-brand,.global-brand img{width:150px;height:31px}.global-header nav{width:calc(100% + 28px);margin-inline:-14px}.global-header nav a{padding-inline:12px}.global-footer-main{display:block;width:calc(100% - 36px);padding:42px 0 28px}.global-footer-brand p{margin-top:14px}.global-footer-links{margin-top:34px;padding-top:28px;border-top:1px solid rgba(214,179,143,.22)}.global-footer-links nav{grid-template-columns:repeat(2,1fr);gap:15px}.global-footer-contact{margin-top:30px}.global-footer-bottom{display:block;width:calc(100% - 36px);padding:18px 0 22px}.global-footer-bottom p+ p{margin-top:6px}}
+@media(prefers-reduced-motion:reduce){.global-header nav a:after,.global-booking{transition:none}}

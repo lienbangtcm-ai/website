@@ -1,0 +1,6 @@
+.service-subnav{position:relative;z-index:12;display:flex;min-height:54px;align-items:center;gap:6px;padding:7px max(22px,calc((100% - 1320px)/2));overflow-x:auto;border-bottom:1px solid #e2d8cb;background:#fffdf9;scrollbar-width:none;font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;white-space:nowrap}
+.service-subnav::-webkit-scrollbar{display:none}
+.service-subnav a{display:inline-flex;min-height:36px;align-items:center;padding:0 15px;border:1px solid transparent;border-radius:999px;color:#6f6259;text-decoration:none;font-size:13px;font-weight:600;transition:background .2s ease,border-color .2s ease,color .2s ease}
+.service-subnav a:hover{border-color:#d8c6b3;color:#6d4a33}
+.service-subnav a[aria-current="page"]{border-color:#c9ae92;background:#efe4d6;color:#583a28}
+@media(max-width:760px){.service-subnav{min-height:50px;padding:6px 16px}.service-subnav a{min-height:34px;padding:0 13px;font-size:12px}}

@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="疲倦的常見表現、相關因素、中醫辨證、針灸傷科評估與日常照護。">
+  <title>疲倦｜連邦中醫診所</title>
+  <style>
+    :root{--green:#164f46;--jade:#2c766b;--mint:#e8f0ec;--paper:#fbfaf7;--ivory:#f2efe8;--ink:#2f3432;--muted:#66706c;--line:#d8d8d0;--coral:#9b5b4f;--gold:#b48b62}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;background:var(--paper);color:var(--ink);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;font-size:17px;line-height:1.9}
+    a{color:inherit}
+    .lb-article{overflow:hidden}
+    .lb-shell{width:min(1180px,calc(100% - 48px));margin:auto}
+    .lb-narrow{width:min(980px,100%);margin-inline:auto}
+    .lb-hero{position:relative;padding:72px 0;border-bottom:1px solid var(--line);background:#f2f0ea}
+    .lb-hero:before,.lb-hero:after{display:none}
+    .lb-hero-grid{display:grid;grid-template-columns:minmax(0,.88fr) minmax(420px,1.12fr);align-items:center;gap:64px}
+    .lb-hero-copy{position:relative;padding:16px 0}
+    .lb-brand{display:flex;align-items:center;gap:14px;margin:0 0 27px;color:var(--jade);font-size:12px;font-weight:800;letter-spacing:.18em}
+    .lb-brand:before{content:"";width:34px;height:1px;background:var(--gold)}
+    h1,h2,h3{color:var(--green);font-family:"Noto Serif TC","Songti TC","PMingLiU",serif;font-weight:700}
+    h1{margin:0;font-size:clamp(50px,6vw,76px);line-height:1.15;letter-spacing:.08em}
+    h2{margin:0 0 30px;font-size:clamp(31px,4vw,42px);line-height:1.4;letter-spacing:.035em}
+    h3{margin:0 0 9px;font-size:21px;line-height:1.5}
+    p{margin:0 0 22px}
+    .lb-lead{max-width:560px;margin:30px 0 0;color:#4d5753;font-size:18px;line-height:2}
+    .lb-hero-visual{position:relative;z-index:1;margin:0;transform:none}
+    .lb-hero-visual picture,.lb-hero-visual img{display:block;width:100%}
+    .lb-hero-visual img{height:auto;border:1px solid rgba(22,79,70,.13);border-radius:14px;box-shadow:0 18px 42px rgba(44,69,62,.10)}
+    .lb-nav{position:sticky;top:0;z-index:20;border-top:1px solid rgba(22,79,70,.09);border-bottom:1px solid var(--line);background:rgba(251,250,247,.94);backdrop-filter:blur(12px)}
+    .lb-nav-inner{display:flex;align-items:center;justify-content:center;overflow:auto;scrollbar-width:none}
+    .lb-nav a{flex:0 0 auto;padding:16px 24px;color:var(--green);font-size:14px;font-weight:700;text-decoration:none;white-space:nowrap}
+    .lb-section{padding:86px 0;border-bottom:1px solid var(--line)}
+    .lb-section--soft{background:#f4f1ea}
+    .lb-section--mint{background:#eef2ee}
+    .lb-intro-line{width:44px;height:2px;margin-bottom:27px;background:var(--gold)}
+    .lb-symptoms-layout{display:grid;grid-template-columns:280px 1fr;gap:64px;align-items:start}
+    .lb-symptoms-layout>div:first-child{padding-top:0}
+    .lb-symptoms{display:grid;grid-template-columns:1fr 1fr;gap:0 48px;margin:0;padding:0;list-style:none;border-top:1px solid var(--line)}
+    .lb-symptoms li{position:relative;padding:19px 8px 19px 28px;border-bottom:1px solid var(--line)}
+    .lb-symptoms li:nth-child(2n){transform:none}
+    .lb-symptoms li:before{content:"";position:absolute;left:0;top:31px;width:10px;height:2px;background:var(--jade)}
+    .lb-figure{margin:50px 0 0}
+    .lb-figure picture,.lb-figure img{display:block;width:100%}
+    .lb-figure img{height:auto;border:1px solid rgba(22,79,70,.13);border-radius:14px;box-shadow:0 16px 40px rgba(44,69,62,.09)}
+    .lb-figure figcaption,.lb-hero-visual figcaption{margin-top:10px;color:var(--muted);font-size:14px;line-height:1.7;text-align:center}
+    .lb-editorial{margin-top:38px;border-top:1px solid var(--line)}
+    .lb-editorial section{display:grid;grid-template-columns:190px 1fr;gap:38px;padding:28px 0;border-bottom:1px solid var(--line)}
+    .lb-editorial section:nth-child(2){margin-left:0}
+    .lb-editorial p{margin:0;color:var(--muted)}
+    .lb-factors{columns:2;column-gap:56px;margin:18px 0 0;padding-left:22px;border-left:0}
+    .lb-factors li{margin:0 0 14px;padding-left:3px;break-inside:avoid}
+    .lb-note{margin-top:34px;padding:24px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);color:#46534f}
+    .lb-patterns{counter-reset:pattern;margin-top:38px;border-top:1px solid var(--line)}
+    .lb-pattern{position:relative;padding:30px 0 30px 74px;border-bottom:1px solid var(--line)}
+    .lb-pattern:nth-child(2){margin-left:0}
+    .lb-pattern:before{counter-increment:pattern;content:"0" counter(pattern);position:absolute;left:0;top:27px;color:var(--gold);font-size:29px;font-weight:800;letter-spacing:.05em}
+    .lb-pattern p{margin:0;color:var(--muted)}
+    .lb-tcm-intro{display:grid;grid-template-columns:280px 1fr;gap:64px;align-items:start}
+    .lb-tcm-intro h2{position:static}
+    .lb-media-treatment{display:grid;grid-template-columns:minmax(360px,.92fr) minmax(0,1.08fr);gap:64px;align-items:start}
+    .lb-media-treatment .lb-figure{position:static;margin:0;transform:none}
+    .lb-treatment{margin-top:26px;border-top:1px solid var(--line)}
+    .lb-treatment section{display:grid;grid-template-columns:150px 1fr;gap:32px;padding:28px 0;border-bottom:1px solid var(--line)}
+    .lb-treatment h3{color:var(--green)}
+    .lb-treatment p{margin:0;color:var(--muted)}
+    .lb-section--green{background:#eef2ee;color:var(--ink)}
+    .lb-section--green h2{color:var(--green)}
+    .lb-care{display:grid;grid-template-columns:1fr 1fr;gap:10px 48px;margin:0;padding:0;list-style:none}
+    .lb-care li{padding:18px 0;border-bottom:1px solid var(--line)}
+    .lb-care li:nth-child(2n){transform:none}
+    .lb-care li:before{content:"✓";margin-right:12px;color:var(--jade);font-weight:900}
+    .lb-faq{margin-top:22px;border-top:1px solid var(--line)}
+    .lb-faq details{border-bottom:1px solid var(--line)}
+    .lb-faq summary{position:relative;padding:24px 50px 24px 0;color:var(--green);font-family:"Noto Serif TC","Songti TC","PMingLiU",serif;font-size:18px;font-weight:700;cursor:pointer;list-style:none}
+    .lb-faq summary::-webkit-details-marker{display:none}
+    .lb-faq summary:after{content:"＋";position:absolute;right:7px;top:22px;color:var(--jade);font-size:22px}
+    .lb-faq details[open] summary:after{content:"－"}
+    .lb-answer{padding:0 50px 25px 0;color:var(--muted)}
+    .lb-answer p{margin:0}
+    .lb-cta{padding:84px 0;background:#0a5046;color:#fff}
+    .lb-cta-grid{display:grid;grid-template-columns:1fr auto;gap:56px;align-items:center}
+    .lb-cta h2{max-width:580px;margin-bottom:20px;color:#fff}
+    .lb-cta p{max-width:640px;margin:0;color:#dcebe7}
+    .lb-actions{display:grid;min-width:260px;gap:12px}
+    .lb-btn{display:inline-flex;align-items:center;justify-content:center;min-height:52px;padding:13px 24px;border:1px solid rgba(255,255,255,.42);border-radius:999px;color:#fff;text-decoration:none;font-weight:800}
+    .lb-btn--gold{border-color:var(--gold);background:var(--gold);color:#24332f}
+    .lb-clinic{grid-column:1/-1;margin-top:4px;color:#d7e7e2;font-size:14px}
+
+    /* 統一內容基準線 */
+    .lb-hero-grid,.lb-symptoms-layout,.lb-tcm-intro,.lb-media-treatment,.lb-cta-grid{display:block;width:min(1040px,calc(100% - 48px));margin-inline:auto}
+    .lb-hero-copy{padding:0}
+    .lb-hero-visual{margin-top:42px}
+    .lb-hero-visual img,.lb-figure img{border-radius:12px}
+    .lb-nav-inner{width:min(1040px,calc(100% - 48px));justify-content:flex-start}
+    .lb-nav a:first-child{padding-left:0}
+    .lb-symptoms-layout>div:first-child{padding-top:0}
+    .lb-symptoms{margin-top:8px}
+    .lb-tcm-intro>div{margin-top:0}
+    .lb-media-treatment .lb-figure{width:100%;margin:0 0 48px}
+    .lb-treatment{margin-top:0}
+    .lb-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));min-width:0;margin-top:32px}
+    .lb-clinic{margin-top:22px}
+    @media(max-width:760px){
+      body{font-size:16px;line-height:1.8}.lb-shell{width:min(100% - 32px,1180px)}.lb-hero{padding:32px 0 38px}.lb-hero-grid,.lb-symptoms-layout,.lb-tcm-intro,.lb-media-treatment,.lb-cta-grid{width:min(100% - 32px,1040px)}.lb-brand{justify-content:flex-start;text-align:left}.lb-hero-copy h1{text-align:left;font-size:40px}.lb-lead{margin-top:16px;font-size:16px;line-height:1.8;text-align:left}.lb-hero-visual{margin-top:28px}.lb-hero-visual img,.lb-figure img{border-radius:10px}.lb-nav{display:none}.lb-section{padding:42px 0}.lb-symptoms,.lb-care{grid-template-columns:1fr}.lb-editorial section,.lb-treatment section{grid-template-columns:1fr;gap:8px}.lb-editorial section{padding:23px 0}.lb-treatment section{padding:25px 0}.lb-factors{columns:1}.lb-pattern{padding-left:60px}.lb-pattern:before{font-size:22px}.lb-media-treatment .lb-figure{margin:0 0 36px}.lb-actions{grid-template-columns:1fr;margin-top:28px}.lb-btn{width:100%}
+    }
+  
+.lb-section{scroll-margin-top:84px}.lb-narrow{width:min(1040px,calc(100% - 48px))}.lb-section h3{margin-top:30px}.lb-lead{max-width:850px}.lb-nav a:focus-visible,.lb-btn:focus-visible,summary:focus-visible{outline:3px solid #b48b62;outline-offset:4px}
+</style>
+<meta name="robots" content="noindex,nofollow"><link rel="stylesheet" href="/assets/global-shell.css?v=1"></head>
+
+<body class="preview-article"><header class="global-header"><a class="global-brand" href="/" aria-label="連邦中醫診所首頁"><img src="https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png" alt="連邦中醫診所" width="2362" height="470"></a><nav aria-label="主要選單"><a href="/">首頁</a><a href="/about-lienbang/">關於連邦</a><a href="/services/">治療服務</a><a href="/symptoms/">常見症狀</a><a href="https://lienbangtcm.tw/team/">醫師團隊</a><a href="https://lienbangtcm.tw/health-blog/">衛教文章</a><a href="https://lienbangtcm.tw/support/">交通資訊</a></nav><a class="global-booking" href="https://lin.ee/UWWKmse">線上預約</a></header><article class="lb-article"><header class="lb-hero"><div class="lb-shell lb-hero-grid"><h1>疲倦</h1><p class="lb-lead">疲倦可能是睡眠不足、工作壓力或活動後的正常反應，也可能是貧血、甲狀腺、感染、慢性疾病、情緒或藥物造成的症狀。若休息後仍沒有恢復，或已持續數週影響生活，就需要找出原因，而不是只靠咖啡硬撐。</p></div></header><nav class="lb-nav" aria-label="文章段落導覽"><div class="lb-nav-inner"><a href="#section-0">你是否有這些困擾？</a><a href="#section-1">疲倦是什麼？</a><a href="#section-2">常見表現</a><a href="#section-3">常見相關因素</a><a href="#section-4">哪些人需要更完整評估？</a><a href="#section-5">可以先記錄什麼？</a><a href="#section-6">什麼情況需要盡快就醫？</a><a href="#section-7">連邦中醫如何評估疲倦？</a><a href="#section-8">中醫診療方向</a><a href="#section-9">連邦中醫的治療方式</a><a href="#section-10">日常照護</a><a href="#section-11">常見問題</a></div></nav><section class="lb-section " id="section-0"><div class="lb-shell lb-narrow"><h2>你是否有這些困擾？</h2><ul><li>睡了一晚仍覺得沒有精神</li><li>工作到一半就明顯體力下降、注意力不集中</li><li>稍微活動就覺得累，恢復時間變長</li><li>白天想睡、頭腦昏沉，但晚上又睡不好</li><li>疲倦持續數週，找不到明確原因</li><li>同時有心悸、喘、頭暈、體重或情緒變化</li></ul><figure class="lb-figure lb-added-figure" data-article-image="symptoms"><picture><source srcset="images/fatigue-symptoms.webp" type="image/webp"></source><img src="images/fatigue-symptoms.jpg" alt="疲倦症狀與生活困擾情境插畫" width="1200" height="800" loading="lazy" decoding="async"></picture><figcaption>持續疲倦時，可整理睡眠、活動與其他身體變化供就診評估。（情境示意圖）</figcaption></figure></div></section><section class="lb-section lb-section--soft" id="section-1"><div class="lb-shell lb-narrow"><h2>疲倦是什麼？</h2><p>疲倦是缺乏能量、精神或動力的感覺，和單純想睡不完全相同。短暫疲倦可能和睡眠、壓力、飲食及活動有關；長期疲倦則可能是許多身體或心理狀況的共同表現。</p>
+<p>疲倦不是單一疾病，也不能只靠一次檢查或一個症狀判定原因。評估時需要同時看睡眠、工作負荷、飲食、月經、情緒、用藥與其他身體變化。</p></div></section><section class="lb-section " id="section-2"><div class="lb-shell lb-narrow"><h2>常見表現</h2><h3>體力下降</h3>
+<p>原本可以完成的工作或運動變得吃力，活動後需要更久恢復。若伴隨呼吸急促、胸悶或心悸，要評估心肺與貧血等原因。</p>
+<h3>精神不集中</h3>
+<p>工作效率下降、容易忘記事情、反應變慢。睡眠不足、壓力、情緒困擾與部分藥物都可能造成相似表現。</p>
+<h3>休息後仍沒有恢復</h3>
+<p>即使睡眠時間看似足夠，醒來仍很累，可能需要檢視睡眠品質、打鼾與呼吸中止、慢性疼痛、感染或內分泌狀況。</p></div></section><section class="lb-section lb-section--soft" id="section-3"><div class="lb-shell lb-narrow"><h2>常見相關因素</h2><ul><li>睡眠不足、失眠或睡眠呼吸中止</li><li>工作、照顧壓力與情緒困擾</li><li>貧血、缺鐵與營養攝取不足</li><li>甲狀腺、糖尿病及其他內分泌問題</li><li>心臟、肺、肝臟或腎臟疾病</li><li>感染或感染後恢復期</li><li>慢性疼痛與活動量過低或過高</li><li>抗組織胺、安眠藥、止痛藥及其他藥物</li><li>懷孕、更年期與月經相關變化</li></ul></div></section><section class="lb-section " id="section-4"><div class="lb-shell lb-narrow"><h2>哪些人需要更完整評估？</h2><p>疲倦持續數週、休息後沒有改善，或已影響工作與自我照顧時，應接受評估。若有慢性疾病、近期感染、手術、懷孕、月經量大，或正在使用可能造成嗜睡與疲倦的藥物，也要一併檢視。</p></div></section><section class="lb-section lb-section--soft" id="section-5"><div class="lb-shell lb-narrow"><h2>可以先記錄什麼？</h2><p>記錄疲倦開始時間、一天中最嚴重的時段、睡眠時間與品質、工作活動量、飲食、月經及情緒變化。也可記錄打鼾、夜間喘醒、心悸、體重、發燒、疼痛與目前用藥。</p>
+<p>不要自行停用處方藥，也不要用大量咖啡因或提神產品長期壓住疲倦。</p></div></section><section class="lb-section " id="section-6"><div class="lb-shell lb-narrow"><h2>什麼情況需要盡快就醫？</h2><p>疲倦若伴隨胸痛、呼吸困難、暈厥、意識混亂、單側無力、幾乎沒有尿量，或突然快速惡化，應立即就醫。若同時有持續發燒、不明原因體重下降、夜間盜汗、明顯出血、嚴重頭暈或傷害自己的念頭，也需要儘快尋求協助。</p>
+<p>疲倦持續數週、影響日常，或伴隨怕冷、便秘、體重變化、情緒低落與睡眠異常時，應安排門診評估。</p></div></section><section class="lb-section lb-section--soft" id="section-7"><div class="lb-shell lb-narrow"><h2>連邦中醫如何評估疲倦？</h2><p>醫師會先了解疲倦時間、睡眠、活動與恢復情況，再詢問食慾、排便、月經、情緒、疼痛、感染史與目前用藥。脈診辨證會和問診一起使用，評估適合的中醫內科方向。</p>
+<p>若懷疑貧血、甲狀腺、糖尿病、睡眠呼吸中止、感染或心肺疾病，會建議接受必要檢查，不把所有疲倦都歸因於體虛。</p><figure class="lb-figure lb-added-figure" data-article-image="assessment"><picture><source srcset="images/fatigue-assessment.webp" type="image/webp"></source><img src="images/fatigue-assessment.jpg" alt="疲倦就診評估與醫病討論情境插畫" width="1200" height="800" loading="lazy" decoding="async"></picture><figcaption>疲倦的評估會結合症狀、病史與日常影響，再討論適合的處理方向。（診療情境示意圖）</figcaption></figure></div></section><section class="lb-section " id="section-8"><div class="lb-shell lb-narrow"><h2>中醫診療方向</h2><p>中醫會依疲倦的時段、活動後反應、睡眠、食慾、怕冷怕熱、口乾、排便、月經與脈象辨證。常見方向包括：</p>
+<h3>脾氣不足</h3>
+<p>容易疲倦、食慾較差、飯後昏沉，並可能伴隨腹脹或排便偏軟。治療方向以健脾益氣、調整運化為主。</p>
+<h3>氣血兩虛</h3>
+<p>精神不足、頭暈、心悸、面色較淡，活動後更累，女性可能伴隨月經量或週期變化。治療會評估益氣養血的方向，並先排除貧血等原因。</p>
+<h3>肝鬱氣滯</h3>
+<p>疲倦與壓力或情緒明顯相關，伴隨胸悶、嘆氣、睡眠不穩或腸胃不適。治療方向以疏肝理氣、調和身心為主。</p>
+<h3>腎氣或腎陽不足</h3>
+<p>疲倦日久，伴隨怕冷、腰膝痠軟或恢復較慢時，會依整體狀況評估補益腎氣或溫陽的方向。</p></div></section><section class="lb-section lb-section--soft" id="section-9"><div class="lb-shell lb-narrow"><h2>連邦中醫的治療方式</h2><h3>問診與脈診辨證</h3>
+<p>先整理疲倦、睡眠、飲食、月經與活動後反應，再配合脈象判斷主要證型及是否需要檢查。</p>
+<h3>單味藥組方</h3>
+<p>依氣血、脾胃、肝鬱與其他兼證選擇藥味，回診時比較精神、睡眠、食慾與活動耐受度後調整。</p>
+<h3>需要時搭配針灸</h3>
+<p>若同時有睡眠不穩、肩頸緊繃或其他適合針灸評估的不適，可依患者狀況搭配。治療目標是改善影響疲倦的整體狀態，不能取代必要的疾病檢查。</p></div></section><section class="lb-section " id="section-10"><div class="lb-shell lb-narrow"><h2>日常照護</h2><ul><li>維持接近的睡眠與起床時間</li><li>規律進食，避免長時間只靠咖啡因支撐</li><li>依目前體力安排溫和活動，再逐步增加</li><li>長時間工作中安排短暫休息與走動</li><li>記錄活動後恢復時間，避免一次過度消耗</li><li>檢視酒精、抽菸、藥物與保健品是否影響睡眠與精神</li></ul><figure class="lb-figure lb-added-figure" data-article-image="daily-care"><picture><source srcset="images/fatigue-daily-care.webp" type="image/webp"></source><img src="images/fatigue-daily-care.jpg" alt="疲倦日常照護情境插畫" width="1200" height="800" loading="lazy" decoding="async"></picture><figcaption>疲倦的日常照護應配合個人狀況與醫師建議，並觀察症狀變化。（生活照護示意圖）</figcaption></figure></div></section><section class="lb-section lb-section--soft" id="section-11"><div class="lb-shell lb-narrow"><h2>常見問題</h2><div class="lb-faq"><details><summary>疲倦可以用中醫治療嗎？</summary><div class="lb-answer"><p>可以先由醫師評估。中醫會依睡眠、飲食、月經、壓力、活動後反應與脈象安排治療；持續疲倦仍需排除貧血、甲狀腺、感染與其他疾病。</p></div></details><details><summary>睡很久還是累，是睡眠不足嗎？</summary><div class="lb-answer"><p>不一定。除了睡眠時間，也要看睡眠品質、打鼾、呼吸中止、夜間醒來與白天功能，並評估其他身體原因。</p></div></details><details><summary>疲倦就是氣虛嗎？</summary><div class="lb-answer"><p>不能只依疲倦判定氣虛。中醫仍需結合食慾、排便、冷熱、月經與脈象辨證，西醫常見原因也要適時檢查。</p></div></details><details><summary>可以靠補品改善疲倦嗎？</summary><div class="lb-answer"><p>不建議在原因不明時自行長期進補。補品可能不適合目前狀態，也可能和藥物互相影響。</p></div></details><details><summary>什麼時候需要抽血檢查？</summary><div class="lb-answer"><p>疲倦持續數週、影響日常，或合併心悸、頭暈、體重變化、月經量大與其他症狀時，可由醫師評估是否檢查血球、血糖、甲狀腺、肝腎功能或其他項目。</p></div></details></div></div></section>  <section class="lb-cta">
+    <div class="lb-shell lb-cta-grid"><div><h2>🏥 讓專業團隊成為您的健康後盾</h2><p>就診前可先記錄症狀開始時間、最明顯的時段、誘發情境與伴隨症狀，並攜帶目前用藥及檢查資料。</p></div><div class="lb-actions"><a class="lb-btn lb-btn--gold" href="https://lin.ee/UWWKmse" target="_blank" rel="noopener noreferrer" data-conversion="line">立即預約評估 (LINE)</a><a class="lb-btn" href="tel:+886225795059" data-conversion="phone">02-2579-5059</a><a class="lb-btn" href="https://www.google.com/maps/dir/?api=1&amp;destination=105%E8%87%BA%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B569%E8%99%9F1%E6%A8%93" target="_blank" rel="noopener noreferrer" data-conversion="map">交通導航</a></div><p class="lb-clinic">105 臺北市松山區南京東路四段69號1樓</p></div>
+  </section>
+</article>
+<aside class="preview-related" aria-label="其他症狀文章"><a href="/symptoms/">常見症狀</a><a href="/symptoms/gerd/">胃食道逆流</a><a href="/symptoms/insomnia/">失眠</a><a href="/symptoms/neck-shoulder-pain/">肩頸痛</a><a href="/symptoms/low-back-pain/">腰背痛</a><a href="/symptoms/cough/">咳嗽</a><a href="/symptoms/allergic-rhinitis/">鼻過敏</a><a href="/symptoms/diarrhea/">腹瀉</a><a href="/symptoms/constipation/">便秘</a><a href="/symptoms/menstrual-pain/">經痛</a><a href="/symptoms/fatigue/">疲倦</a><a href="/symptoms/frozen-shoulder/">五十肩</a><a href="/symptoms/sciatica/">坐骨痛</a><a href="/symptoms/knee-pain/">膝痛</a><a href="/symptoms/tennis-elbow/">網球肘</a><a href="/symptoms/de-quervain/">媽媽手</a><a href="/symptoms/plantar-heel-pain/">足底痛</a></aside><link rel="stylesheet" href="/assets/site-shared.css?v=2"><link rel="stylesheet" href="/assets/site-editorial.css?v=1"><link rel="stylesheet" href="/assets/site-unified.css?v=1"><footer id="site-footer" class="global-footer"><div class="global-footer-main"><a class="global-footer-brand" href="/" aria-label="連邦中醫診所首頁"><img src="https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png" alt="連邦中醫診所" width="2362" height="470" loading="lazy"><p>從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。</p></a><section class="global-footer-links" aria-label="網站導覽"><h2>網站導覽</h2><nav><a href="/">首頁</a><a href="/about-lienbang/">關於連邦</a><a href="/services/">治療服務</a><a href="/symptoms/">常見症狀</a><a href="https://lienbangtcm.tw/team/">醫師團隊</a><a href="https://lienbangtcm.tw/health-blog/">衛教文章</a><a href="https://lienbangtcm.tw/support/">交通資訊</a></nav></section><section class="global-footer-contact" aria-label="預約與聯絡資訊"><h2>預約與門診資訊</h2><address>臺北市松山區南京東路四段69號1樓</address><a class="global-footer-phone" href="tel:+886225795059">02-2579-5059</a><br><a class="global-footer-line" href="https://lin.ee/UWWKmse">LINE 預約</a></section></div><div class="global-footer-bottom"><p>© 2026 連邦中醫診所 版權所有</p><p>LIEN BANG TRADITIONAL CHINESE MEDICINE</p></div></footer></body>
+</html>

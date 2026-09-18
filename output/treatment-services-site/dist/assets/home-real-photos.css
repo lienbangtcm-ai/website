@@ -1,0 +1,41 @@
+.lbh4 .home-real-hero{display:block;background:#f2eee6;padding:36px 0 42px;min-height:0}
+.home-hero-grid{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center}
+.home-hero-text{padding:32px 0}
+.home-hero-text .lbh4-actions{justify-content:flex-start}
+.home-eyebrow{font-size:12px;letter-spacing:.15em;color:#9a8168;margin:0 0 22px}
+.lbh4 .home-real-hero h1{color:#514035;font-size:clamp(36px,4vw,56px);line-height:1.45}
+.home-hero-lead{font-family:"Noto Serif TC","PMingLiU",serif;font-size:26px;line-height:1.8;color:#766655;margin:20px 0}
+.home-hero-description{color:#887866;font-size:16px;line-height:1.8}
+.home-address{color:#8c7c6c;font-size:13px;margin-top:28px}
+.home-hero-photo{position:relative;margin:0;height:480px;border-radius:24px;overflow:hidden}
+.home-hero-photo img{height:100%;object-fit:cover;object-position:center 40%}
+.home-hero-photo figcaption{position:absolute;bottom:16px;right:16px;background:#fffaf0e8;padding:8px 13px;border-radius:6px;color:#685444;font-size:12px}
+.lbh4 .lbh4-quick{background:#f2eee6}
+.lbh4 .lbh4-quick-grid{border-radius:20px;background:#faf8f3}
+.lbh4 .lbh4-btn{border-radius:9px}
+.lbh4 #common-symptoms .lbh4-head{display:flex;align-items:center;justify-content:space-between;gap:16px}
+.home-all-symptoms{color:#806b55;font-size:14px;white-space:nowrap}
+.lbh4 .lb-symptom-directory{display:grid;grid-template-columns:1fr;gap:28px}
+.lbh4 .lb-symptom-panel{border:0;padding:0;background:none}
+.lbh4 .lb-symptom-panel h3{font-size:20px;margin:0 0 6px;color:#6e5a48}
+.lbh4 .lb-symptom-panel>p{font-size:14px;color:#938371;margin:0 0 16px}
+.lbh4 .lb-symptom-options{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.lbh4 .lb-symptom-options a{display:flex;flex-direction:column;border:1px solid #e7dfd3;border-radius:22px;background:#f3eee5;padding:12px 18px 17px;gap:10px}
+.lbh4 .lb-symptom-options a:nth-child(3n+2){background:#f0f0e8}
+.lbh4 .lb-symptom-options a:nth-child(3n){background:#f5eee8}
+.lbh4 .lb-symptom-options a img{height:125px;object-fit:contain;width:100%;border-radius:10px}
+.home-symptom-label{display:flex;justify-content:space-between;align-items:center;gap:10px;width:100%;font-size:17px;font-weight:500;color:#5f4b3c}
+.home-symptom-label>span{color:#a58b70}
+.lbh4 .lbh4-service,.lbh4 .home-doctor-profile,.lbh4 .home-journal-row,.lbh4 .lbh4-info-card,.lbh4 .lbh4-map{border-radius:22px}
+.lbh4 .lbh4-about{display:grid;grid-template-columns:.8fr 1fr;border-radius:24px;background:#efe9df}
+.home-story-photo{margin:0;min-height:400px;max-height:500px}
+.home-story-photo img{height:100%;width:100%;object-fit:cover;object-position:center 52%}
+.lbh4 .lbh4-about-copy{padding:36px}
+.home-space-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.home-space-grid figure{margin:0;background:#f2eee6;border:1px solid #e7dfd3;border-radius:22px;overflow:hidden}
+.home-space-grid img{height:340px;object-fit:cover}
+.home-space-grid figcaption{padding:18px 22px;font-size:18px;color:#5b4839}
+.home-space-grid figcaption span{color:#ad9376;font-size:12px;margin-right:12px}
+.home-space-note{font-size:14px;line-height:1.8;color:#8c7b68;margin-top:22px}
+@media(max-width:900px){.home-hero-grid{gap:28px}.home-hero-photo{height:420px}.home-hero-lead{font-size:23px}.home-space-grid{gap:14px}.home-space-grid img{height:280px}}
+@media(max-width:650px){.lbh4 .home-real-hero{padding:12px 0 28px}.home-hero-grid{grid-template-columns:1fr;gap:20px}.home-hero-text{padding:18px 0 0}.home-eyebrow{margin-bottom:12px}.home-hero-lead{font-size:22px;margin:12px 0}.home-hero-photo{height:340px}.home-address{margin-top:18px}.lbh4 .lb-symptom-options{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.lbh4 .lb-symptom-options a{padding:10px 12px 14px}.lbh4 .lb-symptom-options a img{height:110px}.home-symptom-label{font-size:15px}.home-all-symptoms{font-size:12px}.lbh4 .lbh4-about{grid-template-columns:1fr}.home-story-photo{min-height:0;height:300px}.lbh4 .lbh4-about-copy{padding:26px}.home-space-grid{grid-template-columns:1fr}.home-space-grid img{height:360px}.home-space-grid figcaption{padding:14px 20px}.lbh4 #common-symptoms .lbh4-head h2{font-size:26px}}

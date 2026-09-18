@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 26 340 306" style="--cream:#f8f3e9;--sage:#c5b6a0;--sage_shadow:#ab9a84;--blue:#8c9da6;--terracotta:#c9856c;--mustard:#cbb27b;--brown:#655147;--pink:#c89e96;--skin:#e9c2a7;--skin_shadow:#d6ab90;--hair:#655247;--hair_light:#7c6655;--lavender:#b3abc3;--beige:#c5b6a0" aria-hidden="true" focusable="false" data-character="middle"><ellipse cx="202" cy="193" rx="121" ry="129" fill="var(--cream)" opacity="1"/><ellipse cx="199" cy="331" rx="92" ry="4" fill="#ded6c7" opacity="0.45"/>
+    <path d="M172 145Q143 149 132 167C122 185 119 205 118 221L143 231L153 210L150 318Q203 330 253 318L245 209L259 230L282 219Q276 181 258 164Q244 150 217 145Q198 164 172 145Z" fill="var(--sage)"/>
+    <path d="M173 145Q194 160 215 145L219 153Q194 174 169 153Z" fill="var(--cream)"/>
+    <path d="M249 171Q268 190 282 219L259 230L245 209L252 317L234 321Q239 272 232 243Q235 204 249 171Z" fill="var(--sage_shadow)" opacity=".65"/>
+    <path d="M145 186Q150 201 147 213M245 184Q241 197 245 210M166 283L163 308M224 286L227 313M154 314Q198 322 247 314" fill="none" stroke="var(--sage_shadow)" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M159 319L158 328H245L245 319Q202 331 159 319Z" fill="var(--blue)"/>
+    
+    <!-- Neck and consistent three-quarter adult face. -->
+    <path d="M181 111L180 149Q196 165 214 148L207 112Z" fill="var(--skin)"/>
+    <path d="M181 113L207 114L210 133Q195 143 181 135Z" fill="var(--skin_shadow)"/>
+    <path d="M168 79C167 54 181 44 201 48C225 50 233 66 227 87L229 98L224 101C222 120 214 131 202 132C187 131 176 117 173 102C162 103 158 91 163 87L170 88Z" fill="var(--skin)"/>
+    <path d="M166 88Q155 72 166 55Q177 43 191 44Q219 40 231 59L229 87L221 85L218 65Q202 62 191 56Q179 63 173 87L171 99L167 97Z" fill="var(--hair)"/>
+    <path d="M170 65Q180 47 199 51Q214 52 220 61Q200 57 187 58Q180 64 175 77Z" fill="#a08f80" opacity=".65"/>
+    <path d="M185 86Q190 84 195 85M211 85Q216 84 220 86" fill="none" stroke="var(--brown)" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M187 94Q191 92 195 94M212 94Q216 92 220 94" fill="none" stroke="var(--brown)" stroke-width="1.5" stroke-linecap="round"/>
+    <g><ellipse cx="191" cy="94" rx="1.25" ry="1.65" fill="var(--brown)" opacity="1"/><ellipse cx="216" cy="94" rx="1.25" ry="1.65" fill="var(--brown)" opacity="1"/></g><path d="M204 94L206 103Q204 105 201 104M198 115Q204 114 210 115M166 92Q170 91 170 96" fill="none" stroke="var(--brown)" stroke-width="1.3" stroke-linecap="round"/>
+    <ellipse cx="186" cy="105" rx="6" ry="3" fill="var(--pink)" opacity=".28"/>
+    <path d="M184 215Q173 216 175 230V254Q175 261 183 261Q190 261 190 254V231H219V254Q219 261 227 261Q235 261 235 253V227Q235 215 225 215Z" fill="#f3ddc9" stroke="#ba937b" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M195 237Q206 230 217 238Q225 246 204 246Q192 246 198 254L211 255" fill="none" stroke="#bc9983" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="198" cy="231" rx="3" ry="3" fill="var(--terracotta)" opacity="0.65"/><ellipse cx="210" cy="231" rx="3" ry="3" fill="var(--terracotta)" opacity="0.65"/><ellipse cx="222" cy="231" rx="3" ry="3" fill="var(--terracotta)" opacity="0.65"/><path d="M194 248h24" fill="none" stroke="var(--terracotta)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M258 226L276 220Q282 249 274 274Q270 289 255 300L243 308Q237 310 236 305Q236 301 242 296L248 290L241 293Q237 293 240 289L251 279Q261 267 261 252Z" fill="var(--skin)"/>
+    <path d="M273 227Q278 253 269 274L254 294L248 300Q264 292 274 274Q282 249 276 226Z" fill="var(--skin_shadow)"/>
+    
+    <path d="M121 220L143 228L145 252Q146 259 154 260L182 254L194 246Q199 242 201 246Q202 249 197 253L210 251Q215 250 216 253Q216 256 211 257L199 260L216 258Q222 258 221 262Q220 264 215 265L201 267L214 267Q220 268 217 271L201 275L186 274L153 281Q133 283 128 263Z" fill="var(--skin)"/>
+    <path d="M124 231L132 260Q137 277 153 276L185 270L201 271L213 270L201 275L186 274L153 281Q133 283 128 263Z" fill="var(--skin_shadow)"/>
+    <path d="M197 260L190 261M201 267L193 267M145 254Q146 260 153 261" fill="none" stroke="#b58e78" stroke-width="1.2" stroke-linecap="round"/>
+    </svg>
