@@ -26,3 +26,64 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
 @media(min-width:1051px){.booking-banner{grid-template-columns:76% 24%}.booking-banner>img{width:76%}.booking-shade{right:24%}.booking-banner blockquote{padding:42px clamp(28px,2.5vw,48px)}.booking-banner blockquote p{font-size:clamp(23px,1.75vw,28px);line-height:1.7;white-space:nowrap}}
 @media(min-width:681px) and (max-width:1050px){.booking-banner{grid-template-columns:70% 30%}.booking-banner>img{width:70%}.booking-shade{right:30%}.booking-banner blockquote{padding:34px 26px}.booking-banner blockquote p{font-size:21px;line-height:1.65;white-space:nowrap}}
 @media(max-width:680px){.booking-banner blockquote p{white-space:normal}}
+/* LB_HOME_MOBILE_POLISH_20260921 */
+@media(max-width:680px){
+  .hero{height:550px}
+  .hero-image{height:272px;object-position:center 44%}
+  .hero-overlay{background:linear-gradient(#3f2a1d 0 49%,rgba(63,42,29,.42) 61%,rgba(0,0,0,.08) 100%)}
+  .hero-content{top:25px;left:18px;right:18px}
+  .hero h1{font-size:32px;line-height:1.36;letter-spacing:.015em}
+  .hero-content>p{max-width:330px;margin-top:11px;font-size:13px;line-height:1.68}
+  .white-button{min-width:132px;height:41px;margin-top:16px}
+  .hero-features{display:grid;grid-template-columns:repeat(3,1fr);left:12px;right:12px;bottom:12px;padding:10px 5px;border:1px solid rgba(255,255,255,.16);border-radius:14px;background:rgba(48,31,22,.68);-webkit-backdrop-filter:blur(9px);backdrop-filter:blur(9px)}
+  .hero-features>div{width:100%;padding:0 7px;text-align:center}
+  .hero-features>div:first-child{padding-left:7px}
+  .hero-features strong{font-size:11px;letter-spacing:.02em}
+  .hero-features p{margin-top:3px;font-size:9.5px;line-height:1.4}
+  .showcase{padding:26px 0}
+  .showcase-inner{width:calc(100% - 28px)}
+  .section-intro{margin-bottom:18px}
+  .section-intro h2{font-size:27px}
+  .section-intro i{margin:10px 0 12px}
+  .section-intro a{margin-top:12px}
+  .service-cards{gap:9px}
+  .service-cards>a{min-height:238px;padding-bottom:36px;border-radius:44px 44px 7px 7px}
+  .service-cards img{height:116px;border-radius:44px 44px 0 0}
+  .service-cards h3{margin-top:11px;font-size:15px}
+  .service-cards p{margin-top:5px;font-size:10.5px;line-height:1.45}
+  .service-cards span{bottom:8px;width:25px;height:25px}
+  .doctor-cards{grid-template-columns:1fr;gap:12px}
+  .doctor-cards>a{display:grid;grid-template-columns:118px minmax(0,1fr);grid-template-rows:auto auto 1fr;min-height:138px;max-width:none;padding:0 38px 0 0;margin:0;border-radius:12px;text-align:left;align-items:center}
+  .doctor-photo{grid-row:1/4;width:118px;height:138px!important}
+  .doctor-photo img{height:100%!important;object-fit:cover!important;object-position:center 18%!important}
+  .doctor-cards h3{grid-column:2;margin:0 14px 2px;font-size:17px;align-self:end}
+  .doctor-cards p{grid-column:2;max-width:none;margin:0;padding:0 14px;color:var(--muted);font-size:12px;line-height:1.5;align-self:start}
+  .doctor-cards span{left:auto;right:10px;bottom:10px;transform:none}
+  .article-cards{grid-template-columns:1fr;gap:10px}
+  .article-cards>a{display:grid;grid-template-columns:118px minmax(0,1fr);grid-template-rows:auto 1fr auto;min-height:132px;padding:0 36px 0 0;border-radius:10px}
+  .article-cards img{grid-row:1/4;width:118px;height:132px;object-fit:cover}
+  .article-cards small{grid-column:2;margin:12px 12px 0;width:max-content;align-self:start}
+  .article-cards h3{grid-column:2;margin:6px 12px 0;font-size:15px;line-height:1.45}
+  .article-cards time{position:static;grid-column:2;margin:7px 12px 11px;color:#8a7d72;font-size:10.5px}
+  .article-cards span{right:9px;bottom:9px}
+  .booking-banner>img{height:220px}
+  .booking-shade{height:220px}
+  .booking-copy{top:27px;left:18px;right:18px}
+  .booking-copy h2{font-size:23px;line-height:1.45}
+  .booking-copy p{max-width:280px;font-size:12px;line-height:1.6}
+  .booking-banner blockquote{padding:22px 24px}
+  .booking-banner blockquote b{font-size:52px}
+  .booking-banner blockquote p{margin-top:6px;font-size:18px;line-height:1.55}
+  .float-line{right:12px;bottom:calc(12px + env(safe-area-inset-bottom));height:40px}
+}
+@media(max-width:380px){
+  .hero{height:535px}
+  .hero h1{font-size:30px}
+  .service-cards>a{min-height:228px}
+  .service-cards img{height:108px}
+  .service-cards h3{font-size:14px}
+  .doctor-cards>a{grid-template-columns:108px minmax(0,1fr)}
+  .doctor-photo{width:108px}
+  .article-cards>a{grid-template-columns:108px minmax(0,1fr)}
+  .article-cards img{width:108px}
+}
