@@ -72,3 +72,9 @@
   .global-footer-contact{margin-top:26px;padding-top:24px}
   .global-footer-bottom{width:calc(100% - 32px)}
 }
+/* LB_MOBILE_HIDE_HEADER_BOOKING_20260921 */
+@media(max-width:820px){
+  .global-header{grid-template-columns:1fr}
+  .global-booking{display:none!important}
+  .global-brand{justify-self:start}
+}
