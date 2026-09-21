@@ -1,0 +1,66 @@
+name: Deploy preview to GitHub Pages
+
+on:
+  push:
+    branches:
+      - sitewide-treatment-dropdown-20260918
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: lienbang-preview-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout preview branch
+        uses: actions/checkout@v4
+
+      - name: Prepare preview site
+        shell: bash
+        run: |
+          rm -rf _site
+          mkdir -p _site
+          cp -a output/site-preview/. _site/
+          rm -rf _site/dist
+          touch _site/.nojekyll
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path("_site")
+          for path in root.rglob("*"):
+              if not path.is_file() or path.suffix.lower() not in {".html", ".css", ".js"}:
+                  continue
+              text = path.read_text(encoding="utf-8")
+              text = re.sub(r'href="/(?!website/)', 'href="/website/', text)
+              text = re.sub(r"href='/(?!website/)", "href='/website/", text)
+              text = re.sub(r'src="/(?!website/)', 'src="/website/', text)
+              text = re.sub(r"src='/(?!website/)", "src='/website/", text)
+              text = re.sub(r"url\('/(?!website/)", "url('/website/", text)
+              text = re.sub(r'url\("/(?!website/)', 'url("/website/', text)
+              path.write_text(text, encoding="utf-8")
+          PY
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload preview artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy preview
+        id: deployment
+        uses: actions/deploy-pages@v4
