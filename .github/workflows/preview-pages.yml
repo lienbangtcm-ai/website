@@ -1,9 +1,6 @@
 name: Deploy preview to GitHub Pages
 
 on:
-  push:
-    branches:
-      - sitewide-treatment-dropdown-20260918
   workflow_dispatch:
 
 permissions:
