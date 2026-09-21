@@ -52,3 +52,25 @@ body{margin:0;color:var(--pd-ink);background:#fff;font-family:"Noto Sans TC","Pi
   .pd-benefits{grid-template-columns:1fr 1fr}.pd-benefits article{padding:22px 12px}.pd-benefits h2{font-size:17px}.pd-benefits p{font-size:12px;line-height:1.5}
   .pd-audience{grid-template-columns:1fr}.pd-audience figure{height:230px}.pd-audience-list{padding:28px 24px}.pd-audience blockquote{grid-column:auto;padding:28px 24px}.pd-audience blockquote p{font-size:18px}
 }
+/* LB_PULSE_MOBILE_POLISH_20260921 */
+@media(max-width:640px){
+  .pd-breadcrumb{height:38px;padding:0 16px;font-size:11px}
+  .pd-hero{min-height:610px}
+  .pd-hero-photo{height:46%;object-position:54% center}
+  .pd-hero-wash{background:linear-gradient(180deg,#f8f4ee 0%,#f8f4ee 55%,rgba(248,244,238,.74) 64%,rgba(248,244,238,.1) 84%,rgba(45,28,17,.1) 100%)}
+  .pd-hero-content{padding:30px 18px 20px}
+  .pd-eyebrow{margin-bottom:10px;font-size:11px}
+  .pd-hero h1{font-size:36px}
+  .pd-lead{margin-bottom:10px;font-size:19.5px;line-height:1.5}
+  .pd-intro{margin-bottom:16px;font-size:13.5px;line-height:1.65}
+  .pd-intro br{display:none}
+  .pd-button{width:min(100%,320px);min-width:0;justify-content:space-between;padding:12px 18px;font-size:14px}
+  .pd-benefits article{padding:19px 10px}
+  .pd-benefits h2{font-size:16px}
+  .pd-benefits p{font-size:11.5px}
+  .pd-audience figure{height:205px}
+  .pd-audience-list{padding:24px 20px}
+  .pd-audience-list h2{font-size:21px}
+  .pd-audience blockquote{padding:24px 20px}
+  .pd-audience blockquote p{font-size:17px;line-height:1.6}
+}
