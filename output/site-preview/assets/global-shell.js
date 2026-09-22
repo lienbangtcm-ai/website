@@ -1,5 +1,31 @@
 (function(){
+  function rewriteLegacyLinks(){
+    var fixed={
+      '/team/':'/#doctor-team',
+      '/health-blog/':'/symptoms/',
+      '/support/':'/#site-footer',
+      '/profile/':'/#doctor-team',
+      '/tsai-ru-hui/':'/#doctor-team',
+      '/zhang-you-ming/':'/#doctor-team'
+    };
+    document.querySelectorAll('a[href]').forEach(function(a){
+      var href=a.getAttribute('href');
+      if(!href || !/^https?:\/\/(?:www\.)?lienbangtcm\.tw\//i.test(href)) return;
+      try{
+        var u=new URL(href);
+        var path=u.pathname || '/';
+        var target=fixed[path] || path;
+        if(!fixed[path]){
+          if(u.search) target+=u.search;
+          if(u.hash) target+=u.hash;
+        }
+        a.setAttribute('href',target);
+      }catch(e){}
+    });
+  }
+
   function init(){
+    rewriteLegacyLinks();
     document.querySelectorAll('.global-header').forEach(function(header){
       if(header.dataset.mobileMenuReady==='1') return;
       header.dataset.mobileMenuReady='1';
