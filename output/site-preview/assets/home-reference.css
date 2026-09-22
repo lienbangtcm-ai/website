@@ -215,3 +215,35 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
     letter-spacing:.09em;
   }
 }
+/* LB_HERO_COMPACT_HEIGHT_20260921 */
+/* Compact the mobile homepage hero while preserving the approved photo, blur and feature strip. */
+.hero-brand-lockup strong{font-size:28px}
+.hero-brand-lockup span{font-size:12px}
+@media(max-width:680px){
+  .hero{
+    height:450px!important;
+  }
+  .hero-image{
+    width:100%!important;
+    height:100%!important;
+    object-fit:cover!important;
+    object-position:center 45%!important;
+  }
+  .hero-brand-lockup{
+    top:18px!important;
+  }
+  .hero-brand-lockup strong{
+    font-size:24px!important;
+  }
+  .hero-brand-lockup span{
+    font-size:11px!important;
+  }
+  .hero-features{
+    bottom:10px!important;
+  }
+}
+@media(max-width:380px){
+  .hero{
+    height:430px!important;
+  }
+}
