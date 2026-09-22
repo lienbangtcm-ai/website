@@ -247,3 +247,175 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
     height:430px!important;
   }
 }
+/* LB_HERO_EDITORIAL_FRAME_20260921 */
+/* Editorial clinic-photo treatment: real image first, restrained brand details, no marketing overlay. */
+.hero{
+  box-sizing:border-box;
+  background:#f5f0e8!important;
+  padding:18px 22px 30px;
+}
+.hero-image{
+  inset:18px 22px 30px!important;
+  width:calc(100% - 44px)!important;
+  height:calc(100% - 48px)!important;
+  border-radius:22px;
+  object-fit:cover!important;
+  object-position:center 45%!important;
+  box-shadow:0 16px 42px rgba(55,38,28,.10);
+}
+.hero-overlay{
+  display:none!important;
+}
+.hero-brand-lockup{
+  left:46px!important;
+  top:44px!important;
+  bottom:auto!important;
+  gap:6px!important;
+  padding-left:16px;
+  color:#fff;
+  text-shadow:0 2px 14px rgba(24,15,10,.30);
+}
+.hero-brand-lockup:before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:2px;
+  width:1px;
+  height:44px;
+  background:rgba(255,255,255,.72);
+}
+.hero-brand-lockup strong{
+  font-size:24px!important;
+  font-weight:700!important;
+  letter-spacing:.12em!important;
+}
+.hero-brand-lockup span{
+  font-size:11px!important;
+  font-weight:500!important;
+  letter-spacing:.15em!important;
+}
+.hero:after{
+  content:"LIEN BANG TCM";
+  position:absolute;
+  right:42px;
+  top:44px;
+  z-index:3;
+  color:rgba(255,255,255,.82);
+  font:500 10px/1 Georgia,"Times New Roman",serif;
+  letter-spacing:.22em;
+  writing-mode:vertical-rl;
+  text-orientation:mixed;
+  text-shadow:0 1px 8px rgba(20,12,8,.22);
+}
+.hero-features{
+  left:50%!important;
+  right:auto!important;
+  bottom:10px!important;
+  z-index:4!important;
+  width:min(760px,calc(100% - 100px));
+  transform:translateX(-50%);
+  display:grid!important;
+  grid-template-columns:repeat(3,1fr)!important;
+  padding:13px 10px!important;
+  border:1px solid rgba(255,255,255,.82)!important;
+  border-radius:14px!important;
+  background:rgba(250,247,242,.93)!important;
+  box-shadow:0 12px 28px rgba(59,39,27,.12)!important;
+  -webkit-backdrop-filter:blur(14px) saturate(.9)!important;
+  backdrop-filter:blur(14px) saturate(.9)!important;
+  color:#4a3429!important;
+}
+.hero-features>div{
+  width:100%!important;
+  box-sizing:border-box;
+  padding:0 18px!important;
+  border-right:1px solid rgba(92,70,56,.18)!important;
+  text-align:left!important;
+}
+.hero-features>div:first-child{padding-left:18px!important}
+.hero-features>div:last-child{border-right:0!important}
+.hero-features strong{
+  display:block;
+  color:#4a3429!important;
+  font-size:13px!important;
+  line-height:1.45!important;
+  letter-spacing:.08em!important;
+}
+.hero-features p{
+  margin-top:3px!important;
+  color:#8a7568!important;
+  font-size:10.5px!important;
+  line-height:1.45!important;
+  white-space:normal!important;
+}
+@media(max-width:680px){
+  .hero{
+    height:438px!important;
+    padding:10px 10px 42px!important;
+  }
+  .hero-image{
+    inset:10px 10px 42px!important;
+    width:calc(100% - 20px)!important;
+    height:calc(100% - 52px)!important;
+    border-radius:18px!important;
+    object-position:center 44%!important;
+    box-shadow:0 12px 30px rgba(55,38,28,.10)!important;
+  }
+  .hero-brand-lockup{
+    left:28px!important;
+    top:28px!important;
+    padding-left:12px!important;
+    gap:4px!important;
+  }
+  .hero-brand-lockup:before{
+    height:36px!important;
+  }
+  .hero-brand-lockup strong{
+    font-size:20px!important;
+    letter-spacing:.10em!important;
+  }
+  .hero-brand-lockup span{
+    font-size:9.5px!important;
+    letter-spacing:.11em!important;
+  }
+  .hero:after{
+    right:25px!important;
+    top:30px!important;
+    font-size:8px!important;
+    letter-spacing:.20em!important;
+  }
+  .hero-features{
+    width:calc(100% - 36px)!important;
+    bottom:12px!important;
+    padding:11px 5px!important;
+    border-radius:12px!important;
+  }
+  .hero-features>div{
+    padding:0 9px!important;
+    text-align:center!important;
+  }
+  .hero-features>div:first-child{padding-left:9px!important}
+  .hero-features strong{
+    font-size:10.5px!important;
+    letter-spacing:.02em!important;
+  }
+  .hero-features p{
+    margin-top:2px!important;
+    font-size:8.7px!important;
+    line-height:1.38!important;
+  }
+  .stair-blur{
+    left:13%!important;
+    top:62%!important;
+    width:17%!important;
+    height:18%!important;
+  }
+}
+@media(max-width:380px){
+  .hero{height:420px!important}
+  .hero-features{width:calc(100% - 28px)!important}
+  .hero-features>div{padding:0 6px!important}
+  .hero-features>div:first-child{padding-left:6px!important}
+  .hero-features strong{font-size:10px!important}
+  .hero-features p{font-size:8.2px!important}
+}
