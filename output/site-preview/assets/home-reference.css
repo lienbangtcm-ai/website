@@ -175,3 +175,41 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
     z-index:2!important;
   }
 }
+/* LB_HERO_BRAND_LOCKUP_20260921 */
+.hero-brand-lockup{
+  position:absolute;
+  left:max(54px,calc((100% - 1320px)/2));
+  bottom:92px;
+  z-index:3;
+  display:flex;
+  flex-direction:column;
+  gap:5px;
+  color:#fff;
+  text-shadow:0 2px 16px rgba(20,12,8,.35),0 1px 2px rgba(20,12,8,.28);
+}
+.hero-brand-lockup strong{
+  font:700 28px/1.25 "Noto Serif TC","PMingLiU",serif;
+  letter-spacing:.12em;
+}
+.hero-brand-lockup span{
+  font:500 12px/1.4 "Noto Sans TC","Microsoft JhengHei",sans-serif;
+  letter-spacing:.12em;
+}
+@media(max-width:1050px){
+  .hero-brand-lockup{left:36px}
+}
+@media(max-width:680px){
+  .hero-brand-lockup{
+    left:18px;
+    bottom:98px;
+    gap:4px;
+  }
+  .hero-brand-lockup strong{
+    font-size:24px;
+    letter-spacing:.09em;
+  }
+  .hero-brand-lockup span{
+    font-size:11px;
+    letter-spacing:.09em;
+  }
+}
