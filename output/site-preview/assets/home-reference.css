@@ -189,11 +189,11 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
   text-shadow:0 2px 16px rgba(20,12,8,.35),0 1px 2px rgba(20,12,8,.28);
 }
 .hero-brand-lockup strong{
-  font:700 28px/1.25 "Noto Serif TC","PMingLiU",serif;
+  font:700 24px/1.25 "Noto Serif TC","PMingLiU",serif;
   letter-spacing:.12em;
 }
 .hero-brand-lockup span{
-  font:500 12px/1.4 "Noto Sans TC","Microsoft JhengHei",sans-serif;
+  font:500 11px/1.4 "Noto Sans TC","Microsoft JhengHei",sans-serif;
   letter-spacing:.12em;
 }
 @media(max-width:1050px){
@@ -207,11 +207,11 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
     gap:4px;
   }
   .hero-brand-lockup strong{
-    font-size:24px;
+    font-size:20px;
     letter-spacing:.09em;
   }
   .hero-brand-lockup span{
-    font-size:11px;
+    font-size:10px;
     letter-spacing:.09em;
   }
 }
