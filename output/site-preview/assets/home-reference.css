@@ -419,3 +419,26 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
   .hero-features strong{font-size:10px!important}
   .hero-features p{font-size:8.2px!important}
 }
+/* LB_HERO_CROP_STAIRCASE_20260922 */
+/* Crop the rear staircase out of the hero image while preserving all approved layout details. */
+.hero-image{
+  object-position:64% 45%!important;
+  transform:scale(1.10);
+  transform-origin:center center;
+}
+.stair-blur{
+  display:none!important;
+}
+@media(max-width:680px){
+  .hero-image{
+    object-position:68% 44%!important;
+    transform:scale(1.14);
+    transform-origin:center center;
+  }
+}
+@media(max-width:380px){
+  .hero-image{
+    object-position:70% 44%!important;
+    transform:scale(1.16);
+  }
+}
