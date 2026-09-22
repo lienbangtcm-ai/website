@@ -712,3 +712,29 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
     margin:0;
   }
 }
+/* LB_DOCTOR_SECTION_UNIFIED_HEADING_20260922 */
+/* Keep the redesigned doctor cards, but use the same homepage section-heading system as Services and Articles. */
+.team-showcase>.team-editorial-head{display:none!important}
+.team-showcase>.doctor-editorial{width:auto!important;margin:0!important}
+.team-showcase .showcase-inner{
+  align-items:start;
+}
+.team-showcase .section-intro{
+  align-self:start;
+}
+.team-showcase .doctor-editorial{
+  width:100%!important;
+  margin:0!important;
+}
+@media(max-width:680px){
+  .team-showcase .showcase-inner{
+    display:block!important;
+    width:calc(100% - 28px)!important;
+  }
+  .team-showcase .section-intro{
+    margin-bottom:18px!important;
+  }
+  .team-showcase .doctor-editorial{
+    width:100%!important;
+  }
+}
