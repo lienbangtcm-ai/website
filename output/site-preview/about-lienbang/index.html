@@ -25,7 +25,7 @@
 .lb-about-principles{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:34px}.lb-about-principle{padding:26px 24px;border-top:2px solid #b89470;background:#fff}
 .lb-about-principle b{display:block;margin-bottom:8px;color:#9b7659;font:700 13px/1.4 Georgia,serif}.lb-about-principle h3{font-size:21px}.lb-about-principle p{margin-top:8px;font-size:14px;line-height:1.7}
 .lb-about-logo-band{display:grid;grid-template-columns:320px 1fr;gap:50px;align-items:center;padding:54px;border-radius:20px;background:#3c2b22;color:#fff}
-.lb-about-logo-band img{display:block;width:100%;height:auto}.lb-about-logo-band h2{color:#fff}.lb-about-logo-band p{margin-top:12px;color:#e7dbcf}.lb-about-logo-band a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;margin-top:20px;padding:0 20px;border-radius:999px;background:#f4eee5;color:#4d3427;font-weight:700}
+.lb-about-logo-band img{display:block;width:100%;height:auto}.lb-about-clinic-photo{overflow:hidden;border-radius:16px;background:#d8cec2}.lb-about-clinic-photo img{width:100%;aspect-ratio:1/1;object-fit:cover;object-position:center center}.lb-about-logo-band h2{color:#fff}.lb-about-logo-band p{margin-top:12px;color:#e7dbcf}.lb-about-logo-band a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;margin-top:20px;padding:0 20px;border-radius:999px;background:#f4eee5;color:#4d3427;font-weight:700}
 .lb-float-line{position:fixed;right:18px;bottom:calc(16px + env(safe-area-inset-bottom));z-index:99999;display:flex;align-items:center;justify-content:center;min-width:108px;min-height:42px;padding:0 18px;border-radius:999px;background:#279544;color:#fff!important;font-weight:800;box-shadow:0 10px 26px rgba(36,74,44,.2)}
 @media(max-width:900px){.lb-about-hero{grid-template-columns:1fr 42%;min-height:520px}.lb-about-hero-copy{padding:56px 30px}.lb-about-hero-photo{min-height:520px}.lb-about-story{gap:36px}.lb-about-logo-band{grid-template-columns:250px 1fr;padding:42px}}
 @media(max-width:700px){
@@ -39,7 +39,7 @@
  .lb-about-timeline{grid-template-columns:1fr;gap:10px}.lb-about-milestone{display:grid;grid-template-columns:70px 1fr;padding:20px 18px}.lb-about-milestone strong{grid-row:1/3;align-self:start;padding-top:4px}.lb-about-milestone h3{margin:0;font-size:19px}.lb-about-milestone p{margin-top:5px;font-size:13px}
  .lb-about-dual{grid-template-columns:1fr;gap:10px}.lb-about-card{padding:22px 20px;border-radius:14px}.lb-about-card h3{font-size:22px}.lb-about-card p{font-size:14px}
  .lb-about-principles{grid-template-columns:1fr;gap:8px;margin-top:24px}.lb-about-principle{padding:20px 18px}.lb-about-principle h3{font-size:20px}
- .lb-about-logo-band{display:block;padding:30px 22px;border-radius:16px;text-align:left}.lb-about-logo-band img{width:210px;margin-bottom:24px}.lb-about-logo-band h2{font-size:27px}.lb-about-logo-band p{font-size:14px;line-height:1.75}.lb-about-logo-band a{width:100%}
+ .lb-about-logo-band{display:block;padding:30px 22px;border-radius:16px;text-align:left}.lb-about-logo-band img{width:100%;margin-bottom:0}.lb-about-clinic-photo{margin-bottom:24px}.lb-about-logo-band h2{font-size:27px}.lb-about-logo-band p{font-size:14px;line-height:1.75}.lb-about-logo-band a{width:100%}
  .lb-float-line{right:12px;min-width:104px;min-height:40px;font-size:13px}
 }
 </style>
@@ -109,8 +109,10 @@
 
   <section class="lb-about-section soft">
     <div class="lb-about-wrap">
-      <div class="lb-about-logo-band">
-        <img src="https://lienbangtcm.tw/storage/twyuting10210314859/2021/07/%E9%80%A3%E9%82%A6%E4%B8%AD%E9%86%AB%E7%99%BDlogo.png" alt="連邦中醫診所 Logo" width="2362" height="470" loading="lazy">
+      <div class="lb-about-logo-band lb-about-logo-band--photo">
+        <div class="lb-about-clinic-photo">
+          <img src="/assets/about-lienbang-reception.jpg" alt="連邦中醫診所櫃台實景" width="520" height="519" loading="lazy">
+        </div>
         <div>
           <h2>2026，連邦中醫在台北松山成立</h2>
           <p>對我們來說，「連邦」不是單純把中醫與物理治療放在同一個品牌下面，而是把多年來對臨床分工、評估與照護流程的想法真正做出來。</p>
