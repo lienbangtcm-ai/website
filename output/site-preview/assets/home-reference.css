@@ -179,7 +179,8 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
 .hero-brand-lockup{
   position:absolute;
   left:max(54px,calc((100% - 1320px)/2));
-  bottom:92px;
+  top:54px;
+  bottom:auto;
   z-index:3;
   display:flex;
   flex-direction:column;
@@ -196,12 +197,13 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
   letter-spacing:.12em;
 }
 @media(max-width:1050px){
-  .hero-brand-lockup{left:36px}
+  .hero-brand-lockup{left:36px;top:42px}
 }
 @media(max-width:680px){
   .hero-brand-lockup{
     left:18px;
-    bottom:98px;
+    top:22px;
+    bottom:auto;
     gap:4px;
   }
   .hero-brand-lockup strong{
