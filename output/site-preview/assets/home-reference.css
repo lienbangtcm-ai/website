@@ -134,3 +134,48 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
   .section-intro h2{font-size:27px}
   .section-intro i{margin:9px 0 6px}
 }
+/* LB_HOME_RESTORE_HERO_20260921 */
+.hero{
+  position:relative;
+  height:510px;
+  overflow:hidden;
+  color:#fff;
+  background:#3e2b20;
+}
+.hero-image{
+  position:absolute!important;
+  inset:0!important;
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:center 42%!important;
+}
+.hero-overlay{display:block!important}
+.stair-blur{display:block!important}
+.hero-content{display:block!important}
+.hero-features,.hero-mark,.hero-index,.hero-english{display:none!important}
+.hero-content>p{display:none!important}
+@media(min-width:1051px){
+  .hero{height:600px}
+}
+@media(max-width:680px){
+  .hero{height:520px!important}
+  .hero-image{
+    height:100%!important;
+    top:0!important;
+    bottom:auto!important;
+    object-position:center 42%!important;
+  }
+  .hero-overlay{
+    background:linear-gradient(#3f2a1d 0 38%,rgba(63,42,29,.42) 56%,rgba(0,0,0,.05) 100%)!important;
+  }
+  .hero-content{top:28px;left:18px;right:18px}
+  .hero h1{font-size:32px;line-height:1.36;letter-spacing:.015em}
+  .hero-content .white-button{margin-top:18px}
+  .stair-blur{
+    left:12%!important;top:68%!important;width:18%!important;height:20%!important;
+    border-radius:45%!important;
+    -webkit-backdrop-filter:blur(3px) saturate(.85)!important;
+    backdrop-filter:blur(3px) saturate(.85)!important;
+  }
+}
