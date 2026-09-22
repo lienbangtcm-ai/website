@@ -87,3 +87,50 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
   .article-cards>a{grid-template-columns:108px minmax(0,1fr)}
   .article-cards img{width:108px}
 }
+/* LB_HOME_IMAGE_ONLY_20260921 */
+.hero.hero--image-only{
+  position:relative;
+  height:auto!important;
+  min-height:0!important;
+  overflow:hidden;
+  background:#f3eee7!important;
+  color:inherit;
+}
+.hero.hero--image-only .hero-image{
+  position:relative!important;
+  inset:auto!important;
+  top:auto!important;
+  bottom:auto!important;
+  width:100%!important;
+  height:auto!important;
+  max-height:none!important;
+  object-fit:cover!important;
+  object-position:center 48%!important;
+}
+.hero.hero--image-only .hero-overlay,
+.hero.hero--image-only .stair-blur,
+.hero.hero--image-only .hero-content,
+.hero.hero--image-only .hero-features,
+.hero.hero--image-only .hero-mark,
+.hero.hero--image-only .hero-index,
+.hero.hero--image-only .hero-english{display:none!important}
+
+.services-showcase .section-intro p,
+.team-showcase .section-intro p,
+.article-showcase .section-intro p{display:none!important}
+
+.services-showcase .section-intro a,
+.team-showcase .section-intro a,
+.article-showcase .section-intro a{margin-top:8px!important}
+
+@media(max-width:680px){
+  .hero.hero--image-only .hero-image{
+    aspect-ratio:4/3;
+    object-fit:cover!important;
+    object-position:center 50%!important;
+  }
+  .showcase{padding:24px 0}
+  .section-intro{margin-bottom:16px}
+  .section-intro h2{font-size:27px}
+  .section-intro i{margin:9px 0 6px}
+}
