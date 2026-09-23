@@ -4,9 +4,9 @@
       '/team/':'/team/',
       '/health-blog/':'/symptoms/',
       '/support/':'/#site-footer',
-      '/profile/':'/team/#zhang-yu',
-      '/tsai-ru-hui/':'/team/#tsai-ru-hui',
-      '/zhang-you-ming/':'/team/#zhang-you-ming'
+      '/profile/':'/team/zhang-yu/',
+      '/tsai-ru-hui/':'/team/tsai-ru-hui/',
+      '/zhang-you-ming/':'/team/zhang-you-ming/'
     };
     document.querySelectorAll('a[href]').forEach(function(a){
       var href=a.getAttribute('href');
