@@ -1,0 +1,83 @@
+:root{--coffee:#4d3427;--deep:#2c211b;--cream:#f4eee5;--paper:#fffdf9;--gold:#b89470;--muted:#74675d;--line:#e2d8cc}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--deep);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.doctor-page a{text-decoration:none;color:inherit}
+.doctor-wrap{width:min(1180px,calc(100% - 64px));margin:auto}
+.doctor-hero{padding:28px 0 54px;background:var(--cream);border-bottom:1px solid var(--line)}
+.doctor-back{display:inline-flex;align-items:center;gap:8px;margin-bottom:24px;color:#8b7568;font-size:12px}
+.doctor-hero-grid{display:grid;grid-template-columns:minmax(360px,.92fr) minmax(0,1.08fr);gap:54px;align-items:stretch}
+.doctor-hero-photo{overflow:hidden;border-radius:22px;background:#e8ded2;box-shadow:0 20px 48px rgba(60,42,30,.09)}
+.doctor-hero-photo img{display:block;width:100%;height:100%;min-height:560px;object-fit:cover;object-position:center 14%}
+.doctor-hero-copy{display:flex;flex-direction:column;justify-content:center;padding:22px 0}
+.doctor-kicker{margin:0 0 10px;color:#9b7659;font:700 11px/1.3 Georgia,serif;letter-spacing:.22em}
+.doctor-hero-copy h1{margin:0;color:var(--coffee);font:700 clamp(40px,5vw,62px)/1.22 "Noto Serif TC","PMingLiU",serif;letter-spacing:.04em}
+.doctor-role{margin:10px 0 0;color:#9a8170;font-size:14px;letter-spacing:.08em}
+.doctor-tags{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 0}
+.doctor-tags span{padding:8px 12px;border:1px solid var(--line);border-radius:999px;background:#fff;color:#6f5a4d;font-size:12px}
+.doctor-lead{max-width:650px;margin:22px 0 0;color:var(--muted);font-size:16px;line-height:1.95}
+.doctor-quote{margin-top:30px;padding:18px 22px;border-left:2px solid var(--gold);background:#fff9f2;color:#5f4a3e;font-size:14px;line-height:1.8}
+.doctor-body{padding:68px 0 76px}
+.doctor-body-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,.72fr);gap:52px}
+.doctor-section+.doctor-section{margin-top:46px}
+.doctor-section small{display:block;margin-bottom:8px;color:#9b7659;font:700 10px/1.2 Georgia,serif;letter-spacing:.22em}
+.doctor-section h2{margin:0;color:var(--coffee);font:700 30px/1.4 "Noto Serif TC","PMingLiU",serif}
+.doctor-section p{margin:14px 0 0;color:var(--muted);font-size:15px;line-height:1.9}
+.doctor-points{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:22px}
+.doctor-point{padding:20px;border:1px solid var(--line);border-radius:14px;background:#fff}
+.doctor-point b{display:block;color:#5b4337;font-size:14px}
+.doctor-point p{margin:7px 0 0;font-size:13px;line-height:1.7}
+.doctor-side{align-self:start;padding:28px;border:1px solid var(--line);border-radius:18px;background:#f7f2eb;position:sticky;top:110px}
+.doctor-side h3{margin:0;color:var(--coffee);font:700 22px/1.4 "Noto Serif TC","PMingLiU",serif}
+.doctor-side ul{margin:18px 0 0;padding:0;list-style:none}
+.doctor-side li{padding:12px 0;border-bottom:1px solid var(--line);color:#6f5a4d;font-size:13px;line-height:1.6}
+.doctor-side li:last-child{border-bottom:0}
+.doctor-side a{display:flex;min-height:44px;margin-top:22px;align-items:center;justify-content:center;border-radius:999px;background:#4d3427;color:#fff;font-weight:700}
+.doctor-next{padding:52px 0;background:#3c2b22;color:#fff}
+.doctor-next-inner{display:flex;align-items:center;justify-content:space-between;gap:28px}
+.doctor-next h2{margin:0;font:700 28px/1.4 "Noto Serif TC","PMingLiU",serif}
+.doctor-next p{margin:8px 0 0;color:#e7dbcf;font-size:14px}
+.doctor-next a{display:inline-flex;min-height:44px;align-items:center;justify-content:center;padding:0 20px;border-radius:999px;background:#f4eee5;color:#4d3427;font-weight:700;white-space:nowrap}
+.lb-float-line{position:fixed;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:99999;display:flex;align-items:center;justify-content:center;min-width:104px;min-height:40px;padding:0 16px;border-radius:999px;background:#279544;color:#fff!important;font-weight:800;box-shadow:0 10px 26px rgba(36,74,44,.2)}
+@media(max-width:800px){.doctor-wrap{width:calc(100% - 32px)}.doctor-hero{padding:20px 0 34px}.doctor-back{margin-bottom:16px}.doctor-hero-grid{grid-template-columns:1fr;gap:22px}.doctor-hero-photo{border-radius:16px}.doctor-hero-photo img{min-height:0;aspect-ratio:4/4.8;object-position:center 13%}.doctor-hero-copy{padding:0}.doctor-hero-copy h1{font-size:36px}.doctor-role{font-size:12px}.doctor-tags{margin-top:16px}.doctor-lead{margin-top:16px;font-size:14px;line-height:1.8}.doctor-quote{margin-top:20px;font-size:13px}.doctor-body{padding:42px 0 48px}.doctor-body-grid{grid-template-columns:1fr;gap:30px}.doctor-section+.doctor-section{margin-top:34px}.doctor-section h2{font-size:26px}.doctor-section p{font-size:14px;line-height:1.8}.doctor-points{grid-template-columns:1fr;gap:9px}.doctor-point{padding:17px}.doctor-side{position:static;padding:22px}.doctor-next{padding:36px 0}.doctor-next-inner{display:block}.doctor-next h2{font-size:24px}.doctor-next a{width:100%;margin-top:20px}}
+/* LB_DOCTOR_SYMPTOM_GRID_20260922 */
+.doctor-symptom-intro{max-width:760px}
+.doctor-symptom-note{margin-top:10px!important;color:#9a887d!important;font-size:12px!important;line-height:1.7!important}
+.doctor-symptom-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:22px}
+.doctor-symptom-grid>a,.doctor-symptom-grid>span{
+  position:relative;
+  display:flex;
+  min-height:54px;
+  align-items:center;
+  padding:13px 38px 13px 15px;
+  border:1px solid var(--line);
+  border-radius:12px;
+  background:#fff;
+  color:#5f4a3e;
+  font-size:13px;
+  line-height:1.45;
+}
+.doctor-symptom-grid>a:after{
+  content:"→";
+  position:absolute;
+  right:14px;
+  top:50%;
+  transform:translateY(-50%);
+  color:#b39179;
+  font-size:13px;
+}
+.doctor-symptom-grid>a{transition:transform .2s ease,border-color .2s ease,background .2s ease}
+.doctor-symptom-grid>a:hover{transform:translateY(-2px);border-color:#c9b5a5;background:#fffaf5}
+.doctor-symptom-grid>span:after{
+  content:"";
+  position:absolute;
+  right:16px;
+  width:5px;
+  height:5px;
+  border-radius:50%;
+  background:#c2a58f;
+}
+@media(max-width:800px){
+  .doctor-symptom-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:18px}
+  .doctor-symptom-grid>a,.doctor-symptom-grid>span{min-height:48px;padding:11px 30px 11px 12px;font-size:12px;border-radius:10px}
+  .doctor-symptom-grid>a:after{right:11px}
+}

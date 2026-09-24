@@ -33,3 +33,25 @@
 @media(max-width:1000px){.lbsym-wrap{width:calc(100% - 48px)}.lbsym-list{gap:14px}.lbsym-list a{padding:16px}.lbsym-list svg{height:150px}.symptom-caption{font-size:18px}.lbsym-cta-grid{display:block}.lbsym-actions{margin-top:20px}}
 @media(max-width:700px){.lbsym-wrap{width:calc(100% - 32px)}.lbsym-hero-content{padding:34px 0 18px}.lbsym-nav{padding-bottom:18px}.lbsym-nav .lbsym-wrap{gap:22px}.lbsym-nav a{font-size:14px}.lbsym-content{padding:30px 0 38px}.lbsym h2{font-size:24px;margin-bottom:18px}.lbsym-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.lbsym-list a{padding:12px 14px 16px;border-radius:12px}.lbsym-list svg{height:140px;margin-bottom:10px}.symptom-caption{font-size:18px}.lbsym-block{margin-bottom:34px}.lbsym-actions{display:flex}.lbsym-button{width:auto;font-size:14px}.lbsym-cta p{font-size:15px}}
 @media(prefers-reduced-motion:reduce){.lbsym-list a{transition:none}.lbsym-list a:hover{transform:none}}
+/* LB_SYMPTOM_MOBILE_POLISH_20260921 */
+@media(max-width:700px){
+  .lbsym-hero-content{padding:28px 0 14px}
+  .lbsym h1{font-size:34px}
+  .lbsym-nav{padding-bottom:14px}
+  .lbsym-nav .lbsym-wrap{gap:14px;justify-content:flex-start;overflow-x:auto;scrollbar-width:none}
+  .lbsym-nav .lbsym-wrap::-webkit-scrollbar{display:none}
+  .lbsym-nav a{min-width:max-content;padding:7px 2px;font-size:13.5px}
+  .lbsym-content{padding:26px 0 34px}
+  .lbsym h2{margin-bottom:15px;font-size:23px}
+  .lbsym-list{gap:9px}
+  .lbsym-list a{padding:10px 10px 13px;border-radius:11px}
+  .lbsym-list .reference-crop-card img{height:116px;margin-bottom:10px}
+  .symptom-caption{font-size:16px}
+  .symptom-caption>span{font-size:17px}
+  .lbsym-block{margin-bottom:28px}
+  .lbsym-cta{padding:32px 0}
+}
+@media(max-width:520px){
+  .lbsym-actions{display:grid!important;grid-template-columns:1fr;gap:9px}
+  .lbsym-button{width:100%!important;min-height:44px}
+}

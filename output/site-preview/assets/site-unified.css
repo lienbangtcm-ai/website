@@ -57,3 +57,21 @@ body .preview-related a{color:#78624e}
  .lb-article .lb-toc{padding:14px 0}
  .lb-article .lb-toc a{font-size:13px}
 }
+/* LB_INTERNAL_MOBILE_POLISH_20260921 */
+@media(max-width:720px){
+  .lb-herb .lb-hero__content,.lbnr .lbnr-hero__content{width:calc(100% - 36px);margin-inline:auto;padding-top:30px;padding-bottom:26px}
+  .lb-about .lb-about-hero{padding:30px 18px 26px}
+  .lb-herb .lb-hero h1,.lbnr .lbnr-hero h1,.lb-about .lb-about-title,.lb-article .lb-hero h1{font-size:32px!important;line-height:1.38!important}
+  .lb-herb .lb-hero p,.lbnr .lbnr-hero p,.lb-about .lb-about-hero p{font-size:14px!important;line-height:1.75!important}
+  .lb-herb .lb-section,.lbnr .lbnr-section,.lb-about .lb-about-section,.lb-article .lb-section{padding-top:30px;padding-bottom:30px}
+  .lb-herb .lb-section h2,.lbnr .lbnr-section h2,.lb-about .lb-about-section h2{font-size:24px!important;line-height:1.45}
+  .lb-article .lb-hero{padding:28px 18px}
+  .lb-article .lb-toc{overflow-x:auto;padding:10px 0;scrollbar-width:none}
+  .lb-article .lb-toc::-webkit-scrollbar{display:none}
+  .lb-article .lb-toc ul{display:flex;flex-wrap:nowrap;width:max-content;min-width:100%;gap:6px 18px;padding-inline:18px}
+  .lb-article .lb-toc a{font-size:12.5px;white-space:nowrap}
+  .lb-article .lb-card{border-radius:14px}
+  body .preview-related{display:flex;gap:8px;overflow-x:auto;padding:12px 14px;scrollbar-width:none}
+  body .preview-related::-webkit-scrollbar{display:none}
+  body .preview-related a{min-width:max-content}
+}
