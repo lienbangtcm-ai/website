@@ -1,109 +1,113 @@
-:root{
-  --dp-coffee:#4a2f20;--dp-deep:#241b16;--dp-cream:#f6f0e8;--dp-paper:#fffdf9;
-  --dp-soft:#faf6f0;--dp-line:#e5d9cb;--dp-gold:#aa8464;--dp-muted:#76675d;
-}
+:root{--dp-coffee:#4b2f1f;--dp-dark:#332015;--dp-ink:#1d1612;--dp-cream:#f6efe7;--dp-paper:#fffdf9;--dp-line:#e3d7c8;--dp-gold:#9a7356;--dp-muted:#6f6258;--dp-green:#239745}
 *{box-sizing:border-box}
-body{margin:0;background:var(--dp-paper);color:var(--dp-deep);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+body{margin:0;background:#f1efeb;color:var(--dp-ink);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.dp-page{width:min(1440px,calc(100% - 34px));margin:0 auto 24px;background:var(--dp-paper);box-shadow:0 14px 42px rgba(58,38,25,.08)}
 .dp-page a{text-decoration:none;color:inherit}
-.dp-wrap{width:min(1280px,calc(100% - 56px));margin:auto}
+.dp-wrap{width:calc(100% - 56px);margin:auto}
 
 /* HERO */
-.dp-hero{background:var(--dp-cream);border-bottom:1px solid var(--dp-line)}
-.dp-hero-grid{display:grid;grid-template-columns:46% 54%;min-height:440px}
-.dp-hero-copy{display:flex;flex-direction:column;justify-content:center;padding:48px clamp(28px,5vw,72px)}
-.dp-kicker{margin:0 0 12px;color:#8e684d;font:600 11px/1.3 Georgia,"Times New Roman",serif;letter-spacing:.24em}
-.dp-hero h1{margin:0;color:#1d1713;font:700 clamp(48px,5vw,72px)/1.08 "Noto Serif TC","PMingLiU",serif;letter-spacing:.03em}
-.dp-role{margin:14px 0 0;color:#5f493c;font-size:17px;line-height:1.65;font-weight:600}
-.dp-tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
-.dp-tags span{padding:7px 11px;border:1px solid #d9cabb;border-radius:999px;background:rgba(255,255,255,.68);color:#654e40;font-size:12px}
-.dp-actions{display:flex;gap:10px;margin-top:28px}
-.dp-btn{display:inline-flex;min-height:44px;align-items:center;justify-content:center;padding:0 20px;border-radius:999px;font-size:13px;font-weight:700}
+.dp-hero{position:relative;overflow:hidden;background:#f7f2ea;border-bottom:1px solid #eadfd1}
+.dp-hero-grid{display:grid;grid-template-columns:43% 57%;min-height:405px}
+.dp-hero-copy{position:relative;z-index:3;display:flex;flex-direction:column;justify-content:center;padding:34px 42px 34px 64px;background:linear-gradient(90deg,rgba(249,245,238,.98) 0%,rgba(249,245,238,.96) 74%,rgba(249,245,238,.52) 100%)}
+.dp-kicker{margin:0 0 12px;color:#684735;font:500 13px/1 Georgia,"Times New Roman",serif;letter-spacing:.22em}
+.dp-hero h1{margin:0;color:#0f0d0c;font:700 clamp(52px,5vw,76px)/1.08 "Noto Serif TC","PMingLiU",serif;letter-spacing:.03em}
+.dp-role{margin:12px 0 0;color:#2f241d;font:700 20px/1.55 "Noto Serif TC","PMingLiU",serif;letter-spacing:.04em}
+.dp-divider{width:30px;height:1px;margin:17px 0;background:#8d664c}
+.dp-intro{max-width:530px;margin:0;color:#66584e;font-size:15px;line-height:1.9}
+.dp-tags{display:none}
+.dp-actions{display:flex;gap:12px;margin-top:20px}
+.dp-btn{display:inline-flex;min-height:43px;align-items:center;justify-content:center;padding:0 22px;border-radius:999px;font-size:13px;font-weight:800}
 .dp-btn.primary{background:var(--dp-coffee);color:#fff}
-.dp-btn.secondary{border:1px solid #bda58f;background:rgba(255,255,255,.7);color:var(--dp-coffee)}
-.dp-hero-media{position:relative;min-height:440px;overflow:hidden;background:linear-gradient(135deg,#d8c5ae 0%,#efe5d7 52%,#bba083 100%)}
-.dp-hero-media:before{content:"";position:absolute;inset:0;background-image:url("/assets/clinic-photos/reception-wide.webp");background-size:cover;background-position:center;opacity:.28;filter:saturate(.7)}
-.dp-hero-media:after{content:"LIEN BANG TCM  /  DOCTOR";position:absolute;right:20px;top:30px;bottom:30px;width:44px;display:flex;align-items:center;justify-content:center;border-left:1px solid rgba(255,255,255,.34);color:#fff;font:500 9px/1.5 Georgia,serif;letter-spacing:.2em;writing-mode:vertical-rl;text-shadow:0 1px 5px rgba(0,0,0,.2)}
-.dp-hero-media img{position:absolute;z-index:1;left:4%;bottom:0;width:88%;height:96%;object-fit:contain;object-position:center bottom;filter:drop-shadow(0 16px 24px rgba(49,31,20,.18))}
+.dp-btn.secondary{border:1px solid #8f6a50;background:#fffaf5;color:var(--dp-coffee)}
+.dp-hero-media{position:relative;min-height:405px;overflow:hidden;background:#bba185}
+.dp-hero-media:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(247,242,234,.28),rgba(247,242,234,.02) 44%,rgba(40,24,15,.08)),url("/assets/clinic-photos/home-hero-reception-v2.png") center 46%/cover no-repeat;filter:saturate(.82) sepia(.08)}
+.dp-hero-media img{position:absolute;z-index:2;left:2%;bottom:-2px;width:79%;height:97%;object-fit:contain;object-position:center bottom;filter:drop-shadow(0 12px 20px rgba(36,23,14,.16))}
+.dp-hero-aside{position:absolute;z-index:4;right:0;top:0;bottom:0;width:132px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(180deg,rgba(77,45,28,.94),rgba(48,28,18,.98));color:#fff}
+.dp-hero-aside .zh{writing-mode:vertical-rl;text-orientation:upright;font:500 15px/2 "Noto Serif TC","PMingLiU",serif;letter-spacing:.12em}
+.dp-hero-aside i{display:block;width:1px;height:36px;margin:14px 0;background:rgba(255,255,255,.45)}
+.dp-hero-aside .en{writing-mode:vertical-rl;color:rgba(255,255,255,.72);font:500 9px/1.5 Georgia,serif;letter-spacing:.13em}
 
-/* three information cards */
-.dp-summary{padding:14px 0;background:#fff}
-.dp-summary-grid{display:grid;grid-template-columns:1fr 1fr 1.15fr;gap:10px}
-.dp-summary-card{min-height:178px;padding:24px 26px;border:1px solid var(--dp-line);border-radius:14px;background:linear-gradient(180deg,#fffdf9,#fbf6ef)}
-.dp-summary-head{display:flex;align-items:center;gap:12px;margin-bottom:14px}
-.dp-summary-icon{display:grid;width:38px;height:38px;place-items:center;border:1px solid #ad8b6d;border-radius:50%;color:#7a5b45;font:600 11px/1 Georgia,serif}
-.dp-summary-card h2{margin:0;color:#2f241d;font:700 21px/1.3 "Noto Serif TC","PMingLiU",serif}
-.dp-summary-card small{display:block;margin-top:3px;color:#9d806b;font:600 9px/1.2 Georgia,serif;letter-spacing:.18em}
-.dp-checks{display:grid;gap:7px;margin:0;padding:0;list-style:none}
-.dp-checks li{position:relative;padding-left:18px;color:#604e43;font-size:13px;line-height:1.5}
-.dp-checks li:before{content:"✓";position:absolute;left:0;color:#8d6548;font-weight:700}
-.dp-booking-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
-.dp-booking-grid a{display:flex;min-height:92px;flex-direction:column;align-items:center;justify-content:center;gap:7px;border:1px solid #decfbe;border-radius:10px;background:#fff;color:#50392c;text-align:center;font-size:12px;font-weight:700}
-.dp-booking-grid b{font-size:18px}
+/* 3 INFO CARDS */
+.dp-summary{padding:12px 0 8px;background:#fff}
+.dp-summary-grid{display:grid;grid-template-columns:1fr 1.06fr 1.28fr;gap:10px}
+.dp-summary-card{min-height:178px;padding:18px 22px;border:1px solid #e8ddd0;border-radius:9px;background:linear-gradient(180deg,#fffdfa,#fbf7f0)}
+.dp-summary-head{display:flex;align-items:center;gap:12px;margin-bottom:11px}
+.dp-summary-icon{display:grid;width:44px;height:44px;place-items:center;flex:0 0 44px;border:1.4px solid #9c7658;border-radius:50%;color:#6a4937;font:700 16px/1 Georgia,serif}
+.dp-summary-card h2{margin:0;color:#261c16;font:700 22px/1.2 "Noto Serif TC","PMingLiU",serif;letter-spacing:.04em}
+.dp-summary-card small{display:block;margin-top:4px;color:#916e55;font:600 9px/1.2 Georgia,serif;letter-spacing:.2em}
+.dp-checks{display:grid;gap:5px;margin:0;padding:0;list-style:none}
+.dp-checks li{position:relative;padding-left:19px;color:#5d4d43;font-size:13px;line-height:1.55}
+.dp-checks li:before{content:"✓";position:absolute;left:0;color:#6d4d39;font-weight:800}
+.dp-booking-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.dp-booking-grid a{display:flex;min-height:100px;flex-direction:column;align-items:center;justify-content:center;gap:7px;border:1px solid #d9c7b5;border-radius:7px;background:#fff;color:#422c1e;text-align:center;font-size:12px;font-weight:800}
+.dp-booking-grid b{display:grid;min-width:34px;height:34px;padding:0 5px;place-items:center;border-radius:50%;font-size:15px}
+.dp-booking-grid span{line-height:1.4}
 
-/* symptoms + profile */
-.dp-main{padding:18px 0 34px}
-.dp-main-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:18px;align-items:start}
-.dp-section-head{display:flex;align-items:end;justify-content:space-between;gap:18px;margin-bottom:14px}
-.dp-section-head h2{margin:0;color:#211914;font:700 29px/1.2 "Noto Serif TC","PMingLiU",serif}
-.dp-section-head small{margin-left:8px;color:#9a7760;font:600 9px/1 Georgia,serif;letter-spacing:.18em}
-.dp-symptoms{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}
-.dp-symptom{overflow:hidden;border:1px solid var(--dp-line);border-radius:8px;background:#fff;transition:transform .2s ease,box-shadow .2s ease}
-.dp-symptom:hover{transform:translateY(-2px);box-shadow:0 8px 18px rgba(64,42,28,.08)}
-.dp-symptom img{display:block;width:100%;aspect-ratio:1.24/1;object-fit:cover;background:#eee5da}
-.dp-symptom span{display:flex;min-height:42px;align-items:center;justify-content:space-between;padding:8px 10px;color:#4f3c31;font-size:12px;font-weight:700}
-.dp-symptom span:after{content:"›";color:#9c785d;font-size:16px}
+/* SYMPTOMS + PROFILE */
+.dp-main{padding:4px 0 10px;background:#fff}
+.dp-main-grid{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:14px;align-items:start}
+.dp-section-head{display:flex;align-items:end;justify-content:space-between;gap:18px;margin:0 0 10px}
+.dp-section-head h2{margin:0;color:#16110d;font:700 27px/1.2 "Noto Serif TC","PMingLiU",serif;letter-spacing:.04em}
+.dp-section-head small{margin-left:10px;color:#8d6a51;font:600 9px/1 Georgia,serif;letter-spacing:.2em}
+.dp-symptoms{display:grid;grid-template-columns:repeat(6,1fr);gap:7px}
+.dp-symptom{overflow:hidden;border:1px solid #ddd0c1;border-radius:7px;background:#fff}
+.dp-symptom img{display:block;width:100%;aspect-ratio:1.38/1;object-fit:cover;background:#eee5da}
+.dp-symptom span{display:flex;min-height:33px;align-items:center;justify-content:center;gap:4px;padding:5px 7px;color:#38271d;font-size:11.5px;font-weight:800;text-align:center}
+.dp-symptom span:after{content:"›";color:#826249;font-size:15px}
 .dp-symptom.plain span:after{content:""}
-.dp-profile-card{overflow:hidden;border:1px solid var(--dp-line);border-radius:12px;background:#fff}
-.dp-profile-card-head{padding:18px 18px 10px}
-.dp-profile-card-head h3{margin:0;color:#2c211b;font:700 21px/1.3 "Noto Serif TC","PMingLiU",serif}
-.dp-profile-card-head small{display:block;margin-bottom:5px;color:#9a7760;font:600 9px/1 Georgia,serif;letter-spacing:.16em}
-.dp-avatar{margin:0 18px;overflow:hidden;border-radius:9px;background:#eadfD2}
-.dp-avatar img{display:block;width:100%;height:172px;object-fit:cover;object-position:center 14%}
-.dp-profile-list{margin:14px 18px 0;padding:0 0 0 18px;color:#5f4c41;font-size:12px;line-height:1.8}
-.dp-profile-actions{display:grid;gap:8px;padding:16px 18px 18px}
-.dp-profile-actions a{display:flex;min-height:40px;align-items:center;justify-content:center;border-radius:999px;background:var(--dp-coffee);color:#fff;font-size:12px;font-weight:700}
-.dp-profile-actions a.secondary{border:1px solid #cdb9a6;background:#fff;color:var(--dp-coffee)}
+.dp-profile-card{overflow:hidden;border:1px solid #e5d9cb;border-radius:8px;background:linear-gradient(180deg,#fffdf9,#f9f4ed)}
+.dp-profile-card-head{display:flex;align-items:end;gap:10px;padding:10px 14px 8px}
+.dp-profile-card-head h3{order:1;margin:0;color:#1f1712;font:700 24px/1.2 "Noto Serif TC","PMingLiU",serif}
+.dp-profile-card-head small{order:2;margin:0 0 2px;color:#8e6a51;font:600 9px/1 Georgia,serif;letter-spacing:.18em}
+.dp-profile-body{display:grid;grid-template-columns:126px 1fr;gap:12px;padding:0 14px 12px}
+.dp-avatar{margin:0;overflow:hidden;border-radius:5px;background:#eadfd2}
+.dp-avatar img{display:block;width:100%;height:164px;object-fit:cover;object-position:center 12%}
+.dp-profile-list{margin:6px 0 0;padding:0 0 0 17px;color:#4d3b30;font-size:11.5px;line-height:1.75}
+.dp-profile-sign{border-top:1px solid #dfd2c3;margin:0 14px;padding:10px 0 11px;color:#6b594d;font:500 11px/1.7 "Noto Serif TC","PMingLiU",serif;text-align:center}
+.dp-profile-actions{display:none}
 
-/* bottom booking */
-.dp-bottom{background:#49301f;color:#fff}
-.dp-bottom-inner{min-height:80px;display:flex;align-items:center;justify-content:space-between;gap:28px}
-.dp-bottom strong{font:700 22px/1.35 "Noto Serif TC","PMingLiU",serif;letter-spacing:.05em}
+/* BOTTOM */
+.dp-bottom{position:relative;overflow:hidden;background:linear-gradient(90deg,rgba(74,44,28,.96),rgba(53,31,20,.99)),url("/assets/clinic-photos/home-hero-reception-v2.png") center 56%/cover no-repeat;color:#fff}
+.dp-bottom-inner{position:relative;z-index:1;min-height:74px;display:flex;align-items:center;justify-content:space-between;gap:26px}
+.dp-bottom-copy strong{display:block;font:500 20px/1.35 "Noto Serif TC","PMingLiU",serif;letter-spacing:.12em}
+.dp-bottom-copy small{display:block;margin-top:5px;color:rgba(255,255,255,.63);font:500 9px/1 Georgia,serif;letter-spacing:.18em}
 .dp-bottom-actions{display:flex;gap:10px}
 .dp-bottom-actions a{display:inline-flex;min-height:40px;align-items:center;justify-content:center;padding:0 19px;border-radius:999px;background:#fff;color:#4b3325;font-size:12px;font-weight:800}
-.dp-bottom-actions a.line{background:#2da04d;color:#fff}
+.dp-bottom-actions a.line{background:var(--dp-green);color:#fff}
 
-/* phone */
+/* PHONE */
 @media(max-width:800px){
+  body{background:#fff}
+  .dp-page{width:100%;margin:0;box-shadow:none}
   .dp-wrap{width:calc(100% - 28px)}
-  .dp-hero-grid{grid-template-columns:1fr;min-height:0}
-  .dp-hero-copy{order:2;padding:26px 18px 30px}
-  .dp-kicker{font-size:9px;margin-bottom:8px}
-  .dp-hero h1{font-size:38px}
-  .dp-role{margin-top:9px;font-size:14px}
-  .dp-tags{margin-top:15px;gap:6px}.dp-tags span{font-size:10.5px;padding:6px 9px}
-  .dp-actions{margin-top:20px}.dp-btn{flex:1;padding:0 12px;font-size:12px}
+  .dp-hero-grid{grid-template-columns:1fr}
   .dp-hero-media{order:1;min-height:305px}
-  .dp-hero-media img{left:5%;width:90%;height:96%}
-  .dp-hero-media:after{right:10px;top:16px;bottom:16px;width:30px;font-size:7px}
+  .dp-hero-media img{left:2%;width:87%;height:96%}
+  .dp-hero-aside{width:58px}.dp-hero-aside .zh{font-size:11px;line-height:1.8}.dp-hero-aside .en{display:none}.dp-hero-aside i{height:24px;margin:10px 0}
+  .dp-hero-copy{order:2;padding:24px 20px 28px}
+  .dp-kicker{font-size:9px;margin-bottom:8px}
+  .dp-hero h1{font-size:39px}
+  .dp-role{font-size:15px;margin-top:8px}
+  .dp-divider{margin:13px 0}
+  .dp-intro{font-size:13px;line-height:1.7}
+  .dp-actions{margin-top:17px}.dp-btn{flex:1;padding:0 10px;font-size:11px}
   .dp-summary{padding:10px 0}
   .dp-summary-grid{grid-template-columns:1fr;gap:8px}
-  .dp-summary-card{min-height:0;padding:18px}
+  .dp-summary-card{min-height:0;padding:16px}
   .dp-summary-card h2{font-size:19px}
-  .dp-booking-grid a{min-height:74px;font-size:11px}
-  .dp-main{padding:18px 0 28px}
-  .dp-main-grid{grid-template-columns:1fr;gap:16px}
+  .dp-summary-icon{width:38px;height:38px;flex-basis:38px;font-size:13px}
+  .dp-booking-grid a{min-height:78px;font-size:11px}
+  .dp-main{padding:4px 0 20px}
+  .dp-main-grid{grid-template-columns:1fr;gap:12px}
   .dp-section-head h2{font-size:25px}
-  .dp-symptoms{grid-template-columns:repeat(2,1fr);gap:8px}
-  .dp-symptom span{font-size:11px;min-height:38px;padding:7px 9px}
-  .dp-profile-card{display:grid;grid-template-columns:112px 1fr;grid-template-rows:auto auto}
-  .dp-profile-card-head{grid-column:2;padding:16px 14px 4px}
-  .dp-profile-card-head h3{font-size:18px}
-  .dp-avatar{grid-column:1;grid-row:1/3;margin:0;border-radius:0}
-  .dp-avatar img{height:100%;min-height:150px}
-  .dp-profile-list{grid-column:2;margin:8px 14px 0;padding-left:16px;font-size:11px}
-  .dp-profile-actions{grid-column:1/3;grid-template-columns:1fr 1fr;padding:12px}
-  .dp-bottom-inner{min-height:0;display:block;padding:24px 0}
-  .dp-bottom strong{font-size:19px}
-  .dp-bottom-actions{margin-top:14px}
-  .dp-bottom-actions a{flex:1;padding:0 10px}
+  .dp-symptoms{grid-template-columns:repeat(2,1fr);gap:7px}
+  .dp-symptom span{font-size:11px;min-height:34px}
+  .dp-profile-card{margin-top:4px}
+  .dp-profile-body{grid-template-columns:110px 1fr}
+  .dp-avatar img{height:145px}
+  .dp-profile-card-head h3{font-size:21px}
+  .dp-profile-list{font-size:11px}
+  .dp-bottom-inner{min-height:0;display:block;padding:20px 0}
+  .dp-bottom-copy strong{font-size:18px}
+  .dp-bottom-actions{margin-top:13px}.dp-bottom-actions a{flex:1;padding:0 8px}
 }
