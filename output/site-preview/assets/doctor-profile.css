@@ -1,83 +1,109 @@
-:root{--coffee:#4d3427;--deep:#2c211b;--cream:#f4eee5;--paper:#fffdf9;--gold:#b89470;--muted:#74675d;--line:#e2d8cc}
+:root{
+  --dp-coffee:#4a2f20;--dp-deep:#241b16;--dp-cream:#f6f0e8;--dp-paper:#fffdf9;
+  --dp-soft:#faf6f0;--dp-line:#e5d9cb;--dp-gold:#aa8464;--dp-muted:#76675d;
+}
 *{box-sizing:border-box}
-body{margin:0;background:var(--paper);color:var(--deep);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
-.doctor-page a{text-decoration:none;color:inherit}
-.doctor-wrap{width:min(1180px,calc(100% - 64px));margin:auto}
-.doctor-hero{padding:28px 0 54px;background:var(--cream);border-bottom:1px solid var(--line)}
-.doctor-back{display:inline-flex;align-items:center;gap:8px;margin-bottom:24px;color:#8b7568;font-size:12px}
-.doctor-hero-grid{display:grid;grid-template-columns:minmax(360px,.92fr) minmax(0,1.08fr);gap:54px;align-items:stretch}
-.doctor-hero-photo{overflow:hidden;border-radius:22px;background:#e8ded2;box-shadow:0 20px 48px rgba(60,42,30,.09)}
-.doctor-hero-photo img{display:block;width:100%;height:100%;min-height:560px;object-fit:cover;object-position:center 14%}
-.doctor-hero-copy{display:flex;flex-direction:column;justify-content:center;padding:22px 0}
-.doctor-kicker{margin:0 0 10px;color:#9b7659;font:700 11px/1.3 Georgia,serif;letter-spacing:.22em}
-.doctor-hero-copy h1{margin:0;color:var(--coffee);font:700 clamp(40px,5vw,62px)/1.22 "Noto Serif TC","PMingLiU",serif;letter-spacing:.04em}
-.doctor-role{margin:10px 0 0;color:#9a8170;font-size:14px;letter-spacing:.08em}
-.doctor-tags{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 0}
-.doctor-tags span{padding:8px 12px;border:1px solid var(--line);border-radius:999px;background:#fff;color:#6f5a4d;font-size:12px}
-.doctor-lead{max-width:650px;margin:22px 0 0;color:var(--muted);font-size:16px;line-height:1.95}
-.doctor-quote{margin-top:30px;padding:18px 22px;border-left:2px solid var(--gold);background:#fff9f2;color:#5f4a3e;font-size:14px;line-height:1.8}
-.doctor-body{padding:68px 0 76px}
-.doctor-body-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,.72fr);gap:52px}
-.doctor-section+.doctor-section{margin-top:46px}
-.doctor-section small{display:block;margin-bottom:8px;color:#9b7659;font:700 10px/1.2 Georgia,serif;letter-spacing:.22em}
-.doctor-section h2{margin:0;color:var(--coffee);font:700 30px/1.4 "Noto Serif TC","PMingLiU",serif}
-.doctor-section p{margin:14px 0 0;color:var(--muted);font-size:15px;line-height:1.9}
-.doctor-points{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:22px}
-.doctor-point{padding:20px;border:1px solid var(--line);border-radius:14px;background:#fff}
-.doctor-point b{display:block;color:#5b4337;font-size:14px}
-.doctor-point p{margin:7px 0 0;font-size:13px;line-height:1.7}
-.doctor-side{align-self:start;padding:28px;border:1px solid var(--line);border-radius:18px;background:#f7f2eb;position:sticky;top:110px}
-.doctor-side h3{margin:0;color:var(--coffee);font:700 22px/1.4 "Noto Serif TC","PMingLiU",serif}
-.doctor-side ul{margin:18px 0 0;padding:0;list-style:none}
-.doctor-side li{padding:12px 0;border-bottom:1px solid var(--line);color:#6f5a4d;font-size:13px;line-height:1.6}
-.doctor-side li:last-child{border-bottom:0}
-.doctor-side a{display:flex;min-height:44px;margin-top:22px;align-items:center;justify-content:center;border-radius:999px;background:#4d3427;color:#fff;font-weight:700}
-.doctor-next{padding:52px 0;background:#3c2b22;color:#fff}
-.doctor-next-inner{display:flex;align-items:center;justify-content:space-between;gap:28px}
-.doctor-next h2{margin:0;font:700 28px/1.4 "Noto Serif TC","PMingLiU",serif}
-.doctor-next p{margin:8px 0 0;color:#e7dbcf;font-size:14px}
-.doctor-next a{display:inline-flex;min-height:44px;align-items:center;justify-content:center;padding:0 20px;border-radius:999px;background:#f4eee5;color:#4d3427;font-weight:700;white-space:nowrap}
-.lb-float-line{position:fixed;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:99999;display:flex;align-items:center;justify-content:center;min-width:104px;min-height:40px;padding:0 16px;border-radius:999px;background:#279544;color:#fff!important;font-weight:800;box-shadow:0 10px 26px rgba(36,74,44,.2)}
-@media(max-width:800px){.doctor-wrap{width:calc(100% - 32px)}.doctor-hero{padding:20px 0 34px}.doctor-back{margin-bottom:16px}.doctor-hero-grid{grid-template-columns:1fr;gap:22px}.doctor-hero-photo{border-radius:16px}.doctor-hero-photo img{min-height:0;aspect-ratio:4/4.8;object-position:center 13%}.doctor-hero-copy{padding:0}.doctor-hero-copy h1{font-size:36px}.doctor-role{font-size:12px}.doctor-tags{margin-top:16px}.doctor-lead{margin-top:16px;font-size:14px;line-height:1.8}.doctor-quote{margin-top:20px;font-size:13px}.doctor-body{padding:42px 0 48px}.doctor-body-grid{grid-template-columns:1fr;gap:30px}.doctor-section+.doctor-section{margin-top:34px}.doctor-section h2{font-size:26px}.doctor-section p{font-size:14px;line-height:1.8}.doctor-points{grid-template-columns:1fr;gap:9px}.doctor-point{padding:17px}.doctor-side{position:static;padding:22px}.doctor-next{padding:36px 0}.doctor-next-inner{display:block}.doctor-next h2{font-size:24px}.doctor-next a{width:100%;margin-top:20px}}
-/* LB_DOCTOR_SYMPTOM_GRID_20260922 */
-.doctor-symptom-intro{max-width:760px}
-.doctor-symptom-note{margin-top:10px!important;color:#9a887d!important;font-size:12px!important;line-height:1.7!important}
-.doctor-symptom-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:22px}
-.doctor-symptom-grid>a,.doctor-symptom-grid>span{
-  position:relative;
-  display:flex;
-  min-height:54px;
-  align-items:center;
-  padding:13px 38px 13px 15px;
-  border:1px solid var(--line);
-  border-radius:12px;
-  background:#fff;
-  color:#5f4a3e;
-  font-size:13px;
-  line-height:1.45;
-}
-.doctor-symptom-grid>a:after{
-  content:"→";
-  position:absolute;
-  right:14px;
-  top:50%;
-  transform:translateY(-50%);
-  color:#b39179;
-  font-size:13px;
-}
-.doctor-symptom-grid>a{transition:transform .2s ease,border-color .2s ease,background .2s ease}
-.doctor-symptom-grid>a:hover{transform:translateY(-2px);border-color:#c9b5a5;background:#fffaf5}
-.doctor-symptom-grid>span:after{
-  content:"";
-  position:absolute;
-  right:16px;
-  width:5px;
-  height:5px;
-  border-radius:50%;
-  background:#c2a58f;
-}
+body{margin:0;background:var(--dp-paper);color:var(--dp-deep);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.dp-page a{text-decoration:none;color:inherit}
+.dp-wrap{width:min(1280px,calc(100% - 56px));margin:auto}
+
+/* HERO */
+.dp-hero{background:var(--dp-cream);border-bottom:1px solid var(--dp-line)}
+.dp-hero-grid{display:grid;grid-template-columns:46% 54%;min-height:440px}
+.dp-hero-copy{display:flex;flex-direction:column;justify-content:center;padding:48px clamp(28px,5vw,72px)}
+.dp-kicker{margin:0 0 12px;color:#8e684d;font:600 11px/1.3 Georgia,"Times New Roman",serif;letter-spacing:.24em}
+.dp-hero h1{margin:0;color:#1d1713;font:700 clamp(48px,5vw,72px)/1.08 "Noto Serif TC","PMingLiU",serif;letter-spacing:.03em}
+.dp-role{margin:14px 0 0;color:#5f493c;font-size:17px;line-height:1.65;font-weight:600}
+.dp-tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
+.dp-tags span{padding:7px 11px;border:1px solid #d9cabb;border-radius:999px;background:rgba(255,255,255,.68);color:#654e40;font-size:12px}
+.dp-actions{display:flex;gap:10px;margin-top:28px}
+.dp-btn{display:inline-flex;min-height:44px;align-items:center;justify-content:center;padding:0 20px;border-radius:999px;font-size:13px;font-weight:700}
+.dp-btn.primary{background:var(--dp-coffee);color:#fff}
+.dp-btn.secondary{border:1px solid #bda58f;background:rgba(255,255,255,.7);color:var(--dp-coffee)}
+.dp-hero-media{position:relative;min-height:440px;overflow:hidden;background:linear-gradient(135deg,#d8c5ae 0%,#efe5d7 52%,#bba083 100%)}
+.dp-hero-media:before{content:"";position:absolute;inset:0;background-image:url("/assets/clinic-photos/reception-wide.webp");background-size:cover;background-position:center;opacity:.28;filter:saturate(.7)}
+.dp-hero-media:after{content:"LIEN BANG TCM  /  DOCTOR";position:absolute;right:20px;top:30px;bottom:30px;width:44px;display:flex;align-items:center;justify-content:center;border-left:1px solid rgba(255,255,255,.34);color:#fff;font:500 9px/1.5 Georgia,serif;letter-spacing:.2em;writing-mode:vertical-rl;text-shadow:0 1px 5px rgba(0,0,0,.2)}
+.dp-hero-media img{position:absolute;z-index:1;left:4%;bottom:0;width:88%;height:96%;object-fit:contain;object-position:center bottom;filter:drop-shadow(0 16px 24px rgba(49,31,20,.18))}
+
+/* three information cards */
+.dp-summary{padding:14px 0;background:#fff}
+.dp-summary-grid{display:grid;grid-template-columns:1fr 1fr 1.15fr;gap:10px}
+.dp-summary-card{min-height:178px;padding:24px 26px;border:1px solid var(--dp-line);border-radius:14px;background:linear-gradient(180deg,#fffdf9,#fbf6ef)}
+.dp-summary-head{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.dp-summary-icon{display:grid;width:38px;height:38px;place-items:center;border:1px solid #ad8b6d;border-radius:50%;color:#7a5b45;font:600 11px/1 Georgia,serif}
+.dp-summary-card h2{margin:0;color:#2f241d;font:700 21px/1.3 "Noto Serif TC","PMingLiU",serif}
+.dp-summary-card small{display:block;margin-top:3px;color:#9d806b;font:600 9px/1.2 Georgia,serif;letter-spacing:.18em}
+.dp-checks{display:grid;gap:7px;margin:0;padding:0;list-style:none}
+.dp-checks li{position:relative;padding-left:18px;color:#604e43;font-size:13px;line-height:1.5}
+.dp-checks li:before{content:"✓";position:absolute;left:0;color:#8d6548;font-weight:700}
+.dp-booking-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.dp-booking-grid a{display:flex;min-height:92px;flex-direction:column;align-items:center;justify-content:center;gap:7px;border:1px solid #decfbe;border-radius:10px;background:#fff;color:#50392c;text-align:center;font-size:12px;font-weight:700}
+.dp-booking-grid b{font-size:18px}
+
+/* symptoms + profile */
+.dp-main{padding:18px 0 34px}
+.dp-main-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:18px;align-items:start}
+.dp-section-head{display:flex;align-items:end;justify-content:space-between;gap:18px;margin-bottom:14px}
+.dp-section-head h2{margin:0;color:#211914;font:700 29px/1.2 "Noto Serif TC","PMingLiU",serif}
+.dp-section-head small{margin-left:8px;color:#9a7760;font:600 9px/1 Georgia,serif;letter-spacing:.18em}
+.dp-symptoms{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}
+.dp-symptom{overflow:hidden;border:1px solid var(--dp-line);border-radius:8px;background:#fff;transition:transform .2s ease,box-shadow .2s ease}
+.dp-symptom:hover{transform:translateY(-2px);box-shadow:0 8px 18px rgba(64,42,28,.08)}
+.dp-symptom img{display:block;width:100%;aspect-ratio:1.24/1;object-fit:cover;background:#eee5da}
+.dp-symptom span{display:flex;min-height:42px;align-items:center;justify-content:space-between;padding:8px 10px;color:#4f3c31;font-size:12px;font-weight:700}
+.dp-symptom span:after{content:"›";color:#9c785d;font-size:16px}
+.dp-symptom.plain span:after{content:""}
+.dp-profile-card{overflow:hidden;border:1px solid var(--dp-line);border-radius:12px;background:#fff}
+.dp-profile-card-head{padding:18px 18px 10px}
+.dp-profile-card-head h3{margin:0;color:#2c211b;font:700 21px/1.3 "Noto Serif TC","PMingLiU",serif}
+.dp-profile-card-head small{display:block;margin-bottom:5px;color:#9a7760;font:600 9px/1 Georgia,serif;letter-spacing:.16em}
+.dp-avatar{margin:0 18px;overflow:hidden;border-radius:9px;background:#eadfD2}
+.dp-avatar img{display:block;width:100%;height:172px;object-fit:cover;object-position:center 14%}
+.dp-profile-list{margin:14px 18px 0;padding:0 0 0 18px;color:#5f4c41;font-size:12px;line-height:1.8}
+.dp-profile-actions{display:grid;gap:8px;padding:16px 18px 18px}
+.dp-profile-actions a{display:flex;min-height:40px;align-items:center;justify-content:center;border-radius:999px;background:var(--dp-coffee);color:#fff;font-size:12px;font-weight:700}
+.dp-profile-actions a.secondary{border:1px solid #cdb9a6;background:#fff;color:var(--dp-coffee)}
+
+/* bottom booking */
+.dp-bottom{background:#49301f;color:#fff}
+.dp-bottom-inner{min-height:80px;display:flex;align-items:center;justify-content:space-between;gap:28px}
+.dp-bottom strong{font:700 22px/1.35 "Noto Serif TC","PMingLiU",serif;letter-spacing:.05em}
+.dp-bottom-actions{display:flex;gap:10px}
+.dp-bottom-actions a{display:inline-flex;min-height:40px;align-items:center;justify-content:center;padding:0 19px;border-radius:999px;background:#fff;color:#4b3325;font-size:12px;font-weight:800}
+.dp-bottom-actions a.line{background:#2da04d;color:#fff}
+
+/* phone */
 @media(max-width:800px){
-  .doctor-symptom-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:18px}
-  .doctor-symptom-grid>a,.doctor-symptom-grid>span{min-height:48px;padding:11px 30px 11px 12px;font-size:12px;border-radius:10px}
-  .doctor-symptom-grid>a:after{right:11px}
+  .dp-wrap{width:calc(100% - 28px)}
+  .dp-hero-grid{grid-template-columns:1fr;min-height:0}
+  .dp-hero-copy{order:2;padding:26px 18px 30px}
+  .dp-kicker{font-size:9px;margin-bottom:8px}
+  .dp-hero h1{font-size:38px}
+  .dp-role{margin-top:9px;font-size:14px}
+  .dp-tags{margin-top:15px;gap:6px}.dp-tags span{font-size:10.5px;padding:6px 9px}
+  .dp-actions{margin-top:20px}.dp-btn{flex:1;padding:0 12px;font-size:12px}
+  .dp-hero-media{order:1;min-height:305px}
+  .dp-hero-media img{left:5%;width:90%;height:96%}
+  .dp-hero-media:after{right:10px;top:16px;bottom:16px;width:30px;font-size:7px}
+  .dp-summary{padding:10px 0}
+  .dp-summary-grid{grid-template-columns:1fr;gap:8px}
+  .dp-summary-card{min-height:0;padding:18px}
+  .dp-summary-card h2{font-size:19px}
+  .dp-booking-grid a{min-height:74px;font-size:11px}
+  .dp-main{padding:18px 0 28px}
+  .dp-main-grid{grid-template-columns:1fr;gap:16px}
+  .dp-section-head h2{font-size:25px}
+  .dp-symptoms{grid-template-columns:repeat(2,1fr);gap:8px}
+  .dp-symptom span{font-size:11px;min-height:38px;padding:7px 9px}
+  .dp-profile-card{display:grid;grid-template-columns:112px 1fr;grid-template-rows:auto auto}
+  .dp-profile-card-head{grid-column:2;padding:16px 14px 4px}
+  .dp-profile-card-head h3{font-size:18px}
+  .dp-avatar{grid-column:1;grid-row:1/3;margin:0;border-radius:0}
+  .dp-avatar img{height:100%;min-height:150px}
+  .dp-profile-list{grid-column:2;margin:8px 14px 0;padding-left:16px;font-size:11px}
+  .dp-profile-actions{grid-column:1/3;grid-template-columns:1fr 1fr;padding:12px}
+  .dp-bottom-inner{min-height:0;display:block;padding:24px 0}
+  .dp-bottom strong{font-size:19px}
+  .dp-bottom-actions{margin-top:14px}
+  .dp-bottom-actions a{flex:1;padding:0 10px}
 }
