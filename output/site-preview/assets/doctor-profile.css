@@ -19,9 +19,9 @@ body{margin:0;background:#f1efeb;color:var(--dp-ink);font-family:"Noto Sans TC",
 .dp-btn{display:inline-flex;min-height:43px;align-items:center;justify-content:center;padding:0 22px;border-radius:999px;font-size:13px;font-weight:800}
 .dp-btn.primary{background:var(--dp-coffee);color:#fff}
 .dp-btn.secondary{border:1px solid #8f6a50;background:#fffaf5;color:var(--dp-coffee)}
-.dp-hero-media{position:relative;min-height:405px;overflow:hidden;background:#bba185}
-.dp-hero-media:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(247,242,234,.28),rgba(247,242,234,.02) 44%,rgba(40,24,15,.08)),url("/assets/clinic-photos/home-hero-reception-v2.png") center 46%/cover no-repeat;filter:saturate(.82) sepia(.08)}
-.dp-hero-media img{position:absolute;z-index:2;left:2%;bottom:-2px;width:79%;height:97%;object-fit:contain;object-position:center bottom;filter:drop-shadow(0 12px 20px rgba(36,23,14,.16))}
+.dp-hero-media{position:relative;min-height:405px;overflow:hidden;background:#eadfd2}
+.dp-hero-media:before{display:none!important;content:none!important}
+.dp-hero-media img{position:absolute;z-index:2;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 28%;filter:none}
 .dp-hero-aside{position:absolute;z-index:4;right:0;top:0;bottom:0;width:132px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(180deg,rgba(77,45,28,.94),rgba(48,28,18,.98));color:#fff}
 .dp-hero-aside .zh{writing-mode:vertical-rl;text-orientation:upright;font:500 15px/2 "Noto Serif TC","PMingLiU",serif;letter-spacing:.12em}
 .dp-hero-aside i{display:block;width:1px;height:36px;margin:14px 0;background:rgba(255,255,255,.45)}
@@ -82,7 +82,7 @@ body{margin:0;background:#f1efeb;color:var(--dp-ink);font-family:"Noto Sans TC",
   .dp-wrap{width:calc(100% - 28px)}
   .dp-hero-grid{grid-template-columns:1fr}
   .dp-hero-media{order:1;min-height:305px}
-  .dp-hero-media img{left:2%;width:87%;height:96%}
+  .dp-hero-media img{inset:0;width:100%;height:100%;object-fit:cover;object-position:center 24%}
   .dp-hero-aside{width:58px}.dp-hero-aside .zh{font-size:11px;line-height:1.8}.dp-hero-aside .en{display:none}.dp-hero-aside i{height:24px;margin:10px 0}
   .dp-hero-copy{order:2;padding:24px 20px 28px}
   .dp-kicker{font-size:9px;margin-bottom:8px}
