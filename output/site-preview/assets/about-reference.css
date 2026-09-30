@@ -1,0 +1,335 @@
+:root{
+ --ab-coffee:#4b2f1f;--ab-ink:#18120f;--ab-paper:#fffdf9;--ab-soft:#faf6ef;
+ --ab-line:#e6dacb;--ab-gold:#9b7659;--ab-muted:#675b52;--ab-green:#239745
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:#fff;color:var(--ab-ink);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.lb-about,.lb-about *{box-sizing:border-box}
+.lb-about{width:100%;max-width:100%;margin:0;background:var(--ab-paper);overflow:hidden}
+.lb-about a{text-decoration:none;color:inherit}.lb-about img{display:block;width:100%}
+.ab-wrap{width:min(1130px,calc(100% - 56px));margin:0 auto}
+.ab-kicker{margin:0 0 7px;color:#8c684f;font:500 10px/1.2 Georgia,serif;letter-spacing:.22em}
+.ab-title,.ab-section-title{margin:0;color:#15110e;font-family:"Noto Serif TC","PMingLiU",serif;font-weight:700;letter-spacing:.035em}
+
+/* About only: the two opening sections share one alignment and content-driven height. */
+.lb-about .ab-hero,.lb-about .ab-story{
+ display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:center;
+ gap:clamp(28px,4vw,56px);height:auto;min-height:0;
+ padding:48px max(28px,calc((100% - 1130px)/2));overflow:visible;
+}
+.lb-about .ab-hero{background:#f8f3ec}
+.lb-about .ab-hero-copy,.lb-about .ab-story-copy{min-width:0;padding:0;background:none}
+.lb-about .ab-hero-inner{width:100%;max-width:500px}
+.lb-about .ab-hero .ab-kicker,.lb-about .ab-story .ab-kicker{margin:0 0 14px;font-size:11px;line-height:1.5}
+.lb-about .ab-title{font-size:clamp(38px,4vw,52px);line-height:1.2}
+.lb-about .ab-hero-sub{margin:12px 0 0;color:#241b16;font:700 clamp(19px,1.8vw,24px)/1.55 "Noto Serif TC","PMingLiU",serif}
+.lb-about .ab-hero-copy p:not(.ab-kicker):not(.ab-hero-sub){margin:18px 0 0;max-width:460px;color:#5c5047;font-size:15px;line-height:1.9}
+.lb-about .ab-hero-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:26px}
+.lb-about .ab-btn{display:inline-flex;min-height:44px;align-items:center;justify-content:center;padding:10px 20px;border-radius:999px;font-size:14px;line-height:1.5;font-weight:700}
+.lb-about .ab-btn.primary{background:var(--ab-coffee);color:#fff}
+.lb-about .ab-btn.line{border:1px solid #8f6b50;background:#fff;color:#4b2f1f}
+.lb-about .ab-hero-photo,.lb-about .ab-story-photo{position:static;min-width:0;height:auto;margin:0;background:transparent;overflow:visible}
+.lb-about .ab-hero-photo img{
+ width:100%;height:auto;aspect-ratio:5/4;object-fit:cover;object-position:center top;
+ border-radius:12px;filter:none;box-shadow:none;
+}
+.lb-about .ab-hero-photo::before,.lb-about .ab-hero-photo::after,
+.lb-about .ab-story-photo::before,.lb-about .ab-story-photo::after{content:none;display:none}
+.lb-about .ab-photo-caption{
+ display:block;position:static;margin:0;padding:12px 2px 0;
+ color:#78695d;font:400 13px/1.8 "Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;
+ letter-spacing:.02em;transform:none;text-shadow:none;
+}
+.lb-about .ab-story{padding-block:56px;background:var(--ab-paper);border-bottom:1px solid var(--ab-line)}
+.ab-section-title{font-size:29px;line-height:1.16}
+.lb-about .ab-story .ab-section-title{font-size:clamp(27px,2.4vw,34px);line-height:1.4}
+.lb-about .ab-story-copy p:not(.ab-kicker){max-width:520px;margin:16px 0 0;color:#5c5047;font-size:15px;line-height:1.9}
+.lb-about .ab-story-photo img{width:100%;height:auto;aspect-ratio:8/5;object-fit:cover;object-position:center;border-radius:12px}
+.lb-about #our-beliefs{scroll-margin-top:100px}
+.lb-about a:focus-visible{outline:3px solid #b8906d;outline-offset:4px}
+
+/* BELIEFS */
+.ab-beliefs{padding:14px 0 15px;border-bottom:1px solid var(--ab-line);background:#fffdf9}
+.ab-beliefs-grid{display:grid;grid-template-columns:245px repeat(4,1fr);align-items:stretch}
+.ab-beliefs-head{display:flex;flex-direction:column;justify-content:center;padding-right:20px}
+.ab-beliefs-head .ab-section-title{font-size:27px}
+.ab-belief{padding:9px 16px;text-align:center;border-left:1px solid var(--ab-line)}
+.ab-icon{display:grid;width:46px;height:46px;margin:0 auto 6px;place-items:center;border-radius:50%;background:#f2e8dc;color:#72513c}
+.ab-icon svg{width:25px;height:25px;stroke:currentColor;fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.ab-belief h3{margin:0;color:#3a2b22;font:700 13.5px/1.35 "Noto Serif TC","PMingLiU",serif}
+.ab-belief p{margin:4px 0 0;color:#6c6057;font-size:10.5px;line-height:1.45}
+
+/* JOURNEY */
+.ab-journey{padding:10px 0 12px;border-bottom:1px solid var(--ab-line);background:#fff}
+.ab-journey-grid{display:grid;grid-template-columns:160px 1fr;gap:14px;align-items:center}
+.ab-journey-head .ab-section-title{font-size:27px}
+.ab-timeline{position:relative;display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.ab-timeline:before{content:"";position:absolute;left:6%;right:6%;top:34px;height:1px;background:#b49375}
+.ab-step{position:relative;z-index:1;display:grid;grid-template-columns:68px 1fr;gap:9px;align-items:center;min-width:0}
+.ab-step-img{width:68px;height:68px;overflow:hidden;border:4px solid #fff;border-radius:50%;box-shadow:0 0 0 1px #d7c7b7;background:#eadfd4}
+.ab-step-img img{width:100%;height:100%;object-fit:cover}
+.ab-step h3{margin:0;color:#36291f;font:700 12px/1.3 "Noto Serif TC","PMingLiU",serif}
+.ab-step p{margin:3px 0 0;color:#75685e;font-size:9.5px;line-height:1.35}
+
+/* TEAM */
+.ab-team{display:grid;grid-template-columns:31% 69%;height:148px;min-height:148px;overflow:hidden;background:#fffdf9}
+.ab-team-copy{display:flex;flex-direction:column;justify-content:center;padding:13px 22px 13px max(48px,calc((100vw - 1130px)/2))}
+.ab-team-copy .ab-section-title{font-size:27px}.ab-team-copy p{margin:5px 0 0;color:#5c5047;font-size:10.5px;line-height:1.45}
+.ab-team-copy a{display:inline-flex;width:max-content;min-height:32px;align-items:center;margin-top:8px;padding:0 15px;border-radius:999px;background:#4b2f1f;color:#fff;font-size:10px;font-weight:800}
+.ab-mosaic{display:grid;grid-template-columns:1.05fr 1fr .9fr 1.35fr;height:148px;min-width:0}
+.ab-mosaic figure{margin:0;min-width:0;overflow:hidden}.ab-mosaic img{width:100%;height:100%;object-fit:cover;object-position:center 42%}
+
+/* Page CTA stays inside main. The shared global-footer follows it unchanged. */
+.ab-cta{position:relative;overflow:hidden;background:#452b1c;color:#fff}
+.ab-cta:before{content:"";position:absolute;inset:0;background:url("/services/images/herbs.webp") 40% 55%/300px auto no-repeat;opacity:.23}
+.ab-cta-inner{position:relative;z-index:1;display:flex;min-height:78px;align-items:center;justify-content:space-between;gap:22px}
+.ab-cta-copy strong{display:block;font:500 18px/1.35 "Noto Serif TC","PMingLiU",serif;letter-spacing:.1em}
+.ab-cta-copy small{display:block;margin-top:4px;color:rgba(255,255,255,.65);font:500 8px/1 Georgia,serif;letter-spacing:.2em}
+.ab-cta-actions{display:flex;gap:9px}.ab-cta-actions a{display:inline-flex;min-height:36px;align-items:center;justify-content:center;padding:0 17px;border-radius:999px;background:#fff;color:#4b3325;font-size:10.5px;font-weight:800}.ab-cta-actions a.line{background:var(--ab-green);color:#fff}
+
+@media(max-width:820px){
+ .lb-about .ab-hero,.lb-about .ab-story{grid-template-columns:1fr;gap:26px;padding:32px 20px}
+ .lb-about .ab-hero-copy,.lb-about .ab-story-copy{padding:0}
+ .lb-about .ab-hero-inner,.lb-about .ab-hero-copy p:not(.ab-kicker):not(.ab-hero-sub),.lb-about .ab-story-copy p:not(.ab-kicker){max-width:none}
+ .lb-about .ab-title{font-size:38px}
+ .lb-about .ab-hero-sub{font-size:20px}
+ .lb-about .ab-hero-actions{margin-top:22px}
+ .lb-about .ab-hero-photo{max-width:560px;width:100%;justify-self:center}
+ .lb-about .ab-hero-photo img{aspect-ratio:5/4}
+ .lb-about .ab-story-photo{max-width:640px;width:100%;justify-self:center}
+ .lb-about .ab-photo-caption{font-size:12px;padding-top:10px}
+ .lb-about .ab-story{padding-block:36px}
+
+ .ab-wrap{width:calc(100% - 28px)}
+ .ab-beliefs{padding:22px 0}.ab-beliefs-grid{grid-template-columns:1fr 1fr}.ab-beliefs-head{grid-column:1/-1;padding:0 0 12px}.ab-belief{border-top:1px solid var(--ab-line);border-left:0;padding:13px 10px}.ab-belief:nth-child(even){border-right:1px solid var(--ab-line)}
+ .ab-journey{padding:22px 0}.ab-journey-grid{grid-template-columns:1fr}.ab-timeline{grid-template-columns:1fr 1fr;gap:14px}.ab-timeline:before{display:none}
+ .ab-team{grid-template-columns:1fr;height:auto}.ab-team-copy{padding:24px 18px}.ab-mosaic{height:250px;grid-template-columns:1fr 1fr}.ab-mosaic figure:nth-child(n+3){display:none}
+ .ab-cta-inner{display:block;padding:20px 0}.ab-cta-actions{margin-top:12px}.ab-cta-actions a{flex:1}
+}
+@media(max-width:480px){
+ .lb-about .ab-hero,.lb-about .ab-story{padding-inline:18px}
+ .lb-about .ab-title{font-size:34px}
+ .lb-about .ab-hero-sub{font-size:19px}
+ .lb-about .ab-hero-actions{gap:10px}
+ .lb-about .ab-btn{flex:1 1 140px;padding-inline:14px}
+ .ab-beliefs-grid{grid-template-columns:1fr}.ab-belief{border-right:0!important}
+ .ab-timeline{grid-template-columns:1fr}
+ .ab-cta-actions{display:grid;grid-template-columns:1fr}
+}
+
+/* About-page lower sections: natural photo ratios, wider columns, no shared-shell overrides. */
+.lb-about .ab-beliefs,
+.lb-about .ab-journey{
+ padding:40px 0;
+}
+.lb-about .ab-beliefs>.ab-wrap,
+.lb-about .ab-journey>.ab-wrap{
+ width:min(1320px,calc(100% - 56px));
+}
+.lb-about .ab-beliefs-grid{
+ grid-template-columns:280px repeat(4,minmax(0,1fr));
+}
+.lb-about .ab-beliefs-head{
+ padding-right:24px;
+}
+.lb-about .ab-beliefs-head .ab-section-title,
+.lb-about .ab-journey-head .ab-section-title,
+.lb-about .ab-team-copy .ab-section-title{
+ font-size:clamp(27px,2.3vw,32px);
+ line-height:1.4;
+}
+.lb-about .ab-belief{
+ min-width:0;
+ padding:18px 20px;
+}
+.lb-about .ab-icon{
+ width:56px;height:56px;margin-bottom:12px;
+}
+.lb-about .ab-icon svg{width:28px;height:28px}
+.lb-about .ab-belief h3{font-size:16px;line-height:1.5}
+.lb-about .ab-belief p{margin-top:9px;font-size:14px;line-height:1.8}
+.lb-about .ab-journey-grid{
+ grid-template-columns:200px minmax(0,1fr);
+ gap:28px;
+}
+.lb-about .ab-timeline{gap:20px}
+.lb-about .ab-timeline::before{top:48px}
+.lb-about .ab-step{
+ grid-template-columns:88px minmax(0,1fr);
+ gap:12px;
+}
+.lb-about .ab-step-img{
+ display:flex;align-items:center;justify-content:center;
+ width:88px;height:88px;padding:0;
+ background:#fff;border:4px solid #fff;border-radius:50%;
+ overflow:visible;
+}
+/* Keep the complete rectangular photo within the circular timeline frame. */
+.lb-about .ab-step-img img{
+ width:70%;height:70%;object-fit:contain;object-position:center;
+ border-radius:0;transform:none;
+}
+.lb-about .ab-step h3{font-size:15px;line-height:1.6}
+.lb-about .ab-step p{margin-top:6px;font-size:13px;line-height:1.7}
+.lb-about .ab-team{
+ display:grid;grid-template-columns:240px minmax(0,1fr);
+ gap:32px;align-items:center;
+ height:auto;min-height:0;
+ padding:44px max(28px,calc((100% - 1600px)/2));
+ overflow:visible;background:#fffdf9;
+}
+.lb-about .ab-team-copy{min-width:0;padding:0}
+.lb-about .ab-team-copy .ab-kicker{margin:0 0 12px;font-size:11px;line-height:1.5}
+.lb-about .ab-team-copy p{margin-top:14px;font-size:14px;line-height:1.85}
+.lb-about .ab-team-copy a{
+ max-width:100%;min-height:44px;height:auto;margin-top:22px;
+ padding:10px 20px;font-size:14px;line-height:1.5;white-space:normal;
+}
+.lb-about .ab-mosaic{
+ display:grid;grid-template-columns:repeat(4,minmax(0,1fr));
+ align-items:start;gap:14px;
+ height:auto;min-height:0;min-width:0;
+}
+.lb-about .ab-mosaic figure,
+.lb-about .ab-mosaic figure:nth-child(n+3){
+ display:block;min-width:0;height:auto;min-height:0;margin:0;
+ padding:0;overflow:visible;background:transparent;
+}
+/* Intrinsic dimensions replace the old 148px crop; no image is zoomed or clipped. */
+.lb-about .ab-mosaic img{
+ display:block;position:static;width:100%;height:auto;min-height:0;max-height:none;
+ aspect-ratio:auto;object-fit:contain;object-position:center;
+ border-radius:8px;transform:none;filter:none;box-shadow:none;
+}
+@media(max-width:1200px){
+ .lb-about .ab-beliefs-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+ .lb-about .ab-beliefs-head{grid-column:1/-1;padding:0 0 24px}
+ .lb-about .ab-belief:first-of-type{border-left:0}
+ .lb-about .ab-journey-grid{grid-template-columns:1fr;gap:24px}
+ .lb-about .ab-team{grid-template-columns:1fr;gap:26px}
+ .lb-about .ab-team-copy{max-width:660px}
+}
+@media(max-width:820px){
+ .lb-about .ab-beliefs,.lb-about .ab-journey{padding:32px 0}
+ .lb-about .ab-beliefs>.ab-wrap,.lb-about .ab-journey>.ab-wrap{width:calc(100% - 40px)}
+ .lb-about .ab-beliefs-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .lb-about .ab-belief{padding:22px 16px;border-left:0}
+ .lb-about .ab-belief:nth-child(even){border-right:1px solid var(--ab-line)}
+ .lb-about .ab-timeline{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 20px}
+ .lb-about .ab-timeline::before{display:none}
+ .lb-about .ab-team{padding:36px 20px;gap:26px}
+ .lb-about .ab-mosaic{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+}
+@media(max-width:480px){
+ .lb-about .ab-beliefs>.ab-wrap,.lb-about .ab-journey>.ab-wrap{width:calc(100% - 36px)}
+ .lb-about .ab-beliefs-grid{grid-template-columns:1fr}
+ .lb-about .ab-belief{padding:22px 14px;border-right:0!important}
+ .lb-about .ab-timeline{grid-template-columns:1fr;gap:22px}
+ .lb-about .ab-step{grid-template-columns:96px minmax(0,1fr);gap:18px}
+ .lb-about .ab-step-img{width:96px;height:96px}
+ .lb-about .ab-step h3{font-size:16px}
+ .lb-about .ab-step p{font-size:14px}
+ .lb-about .ab-team{padding:36px 18px}
+ .lb-about .ab-mosaic{grid-template-columns:1fr;gap:22px}
+}
+/* LB_ABOUT_TOP_REFERENCE_LOCK_20260930 */
+/* Match the supplied About-page reference: flush split panels, no card treatment. */
+@media(min-width:821px){
+  .lb-about .ab-hero{
+    display:grid!important;
+    grid-template-columns:41% 59%!important;
+    gap:0!important;
+    padding:0!important;
+    min-height:0!important;
+    height:420px!important;
+    align-items:stretch!important;
+    overflow:hidden!important;
+    background:#f8f3ec!important;
+  }
+  .lb-about .ab-hero-copy{
+    display:flex!important;
+    align-items:center!important;
+    padding:34px 48px 34px max(54px,calc((100vw - 1536px)/2 + 54px))!important;
+    background:#f8f3ec!important;
+  }
+  .lb-about .ab-hero-inner{max-width:560px!important}
+  .lb-about .ab-title{font-size:58px!important;line-height:1.05!important}
+  .lb-about .ab-hero-sub{font-size:23px!important;line-height:1.45!important;margin-top:7px!important}
+  .lb-about .ab-hero-copy p:not(.ab-kicker):not(.ab-hero-sub){
+    margin-top:13px!important;font-size:14px!important;line-height:1.65!important
+  }
+  .lb-about .ab-hero-actions{margin-top:17px!important;gap:10px!important}
+  .lb-about .ab-btn{min-height:38px!important;padding:0 18px!important;font-size:12px!important}
+  .lb-about .ab-hero-photo{
+    position:relative!important;
+    width:100%!important;height:420px!important;max-width:none!important;
+    margin:0!important;overflow:hidden!important;border-radius:0!important
+  }
+  .lb-about .ab-hero-photo img{
+    width:100%!important;height:100%!important;
+    aspect-ratio:auto!important;object-fit:cover!important;object-position:center 34%!important;
+    border-radius:0!important;box-shadow:none!important
+  }
+  .lb-about .ab-hero-photo .ab-photo-caption{
+    position:absolute!important;right:34px!important;top:64px!important;z-index:2!important;
+    width:170px!important;margin:0!important;padding:0!important;
+    color:#fff!important;font:500 18px/1.72 "Noto Serif TC","PMingLiU",serif!important;
+    letter-spacing:.05em!important;text-shadow:0 2px 8px rgba(40,25,16,.35)!important;
+  }
+
+  .lb-about .ab-story{
+    display:grid!important;
+    grid-template-columns:46% 54%!important;
+    gap:0!important;padding:0!important;
+    min-height:0!important;height:280px!important;
+    align-items:stretch!important;overflow:hidden!important;
+    background:#fffdf9!important
+  }
+  .lb-about .ab-story-copy{
+    display:flex!important;flex-direction:column!important;justify-content:center!important;
+    padding:28px 42px 28px max(54px,calc((100vw - 1536px)/2 + 54px))!important;
+    background:#fffdf9!important
+  }
+  .lb-about .ab-story .ab-kicker{margin-bottom:7px!important}
+  .lb-about .ab-story .ab-section-title{font-size:31px!important;line-height:1.25!important}
+  .lb-about .ab-story-copy p:not(.ab-kicker){
+    margin-top:8px!important;max-width:590px!important;
+    font-size:13px!important;line-height:1.65!important
+  }
+  .lb-about .ab-story-photo{
+    position:relative!important;width:100%!important;height:280px!important;max-width:none!important;
+    margin:0!important;overflow:hidden!important;border-radius:0!important
+  }
+  .lb-about .ab-story-photo img{
+    width:100%!important;height:100%!important;aspect-ratio:auto!important;
+    object-fit:cover!important;object-position:center 50%!important;border-radius:0!important;
+  }
+  .lb-about .ab-story-photo .ab-photo-caption{
+    position:absolute!important;right:32px!important;top:34px!important;z-index:2!important;
+    width:250px!important;margin:0!important;padding:0!important;color:#fff!important;
+    font:500 15px/1.8 "Noto Serif TC","PMingLiU",serif!important;
+    letter-spacing:.05em!important;text-shadow:0 2px 8px rgba(40,25,16,.45)!important;
+  }
+}
+@media(max-width:820px){
+  .lb-about .ab-hero,.lb-about .ab-story{gap:0!important;padding:0!important}
+  .lb-about .ab-hero-copy,.lb-about .ab-story-copy{padding:28px 20px!important}
+  .lb-about .ab-hero-photo,.lb-about .ab-story-photo{
+    width:100%!important;max-width:none!important;margin:0!important;position:relative!important;
+    overflow:hidden!important;border-radius:0!important
+  }
+  .lb-about .ab-hero-photo{height:330px!important}
+  .lb-about .ab-story-photo{height:230px!important}
+  .lb-about .ab-hero-photo img,.lb-about .ab-story-photo img{
+    width:100%!important;height:100%!important;aspect-ratio:auto!important;object-fit:cover!important;
+    border-radius:0!important
+  }
+  .lb-about .ab-hero-photo img{object-position:center 30%!important}
+  .lb-about .ab-story-photo img{object-position:center!important}
+  .lb-about .ab-photo-caption{
+    position:absolute!important;right:18px!important;top:22px!important;z-index:2!important;
+    width:170px!important;margin:0!important;padding:0!important;color:#fff!important;
+    font:500 13px/1.7 "Noto Serif TC","PMingLiU",serif!important;
+    text-shadow:0 2px 7px rgba(40,25,16,.45)!important;
+  }
+}
