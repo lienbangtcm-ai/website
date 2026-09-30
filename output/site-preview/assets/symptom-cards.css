@@ -55,3 +55,20 @@
   .lbsym-actions{display:grid!important;grid-template-columns:1fr;gap:9px}
   .lbsym-button{width:100%!important;min-height:44px}
 }
+/* LB_SPACING_CROP_FIX_20260929 */
+.lbsym-hero-content{padding-top:68px!important;padding-bottom:38px!important}
+.lbsym-nav{padding-bottom:38px!important}
+.lbsym-content{padding-top:64px!important;padding-bottom:80px!important}
+.lbsym-block{margin-bottom:58px!important}
+.lbsym-list a{padding-top:22px!important;padding-bottom:24px!important}
+.lbsym-list .reference-crop-card img{height:auto!important;aspect-ratio:4/3!important;object-fit:cover!important;object-position:center 42%!important}
+.lbsym-cta{padding-top:52px!important;padding-bottom:52px!important}
+@media(max-width:700px){
+ .lbsym-hero-content{padding-top:42px!important;padding-bottom:24px!important}
+ .lbsym-nav{padding-bottom:24px!important}
+ .lbsym-content{padding-top:40px!important;padding-bottom:48px!important}
+ .lbsym-block{margin-bottom:38px!important}
+ .lbsym-list a{padding-top:14px!important;padding-bottom:17px!important}
+ .lbsym-list .reference-crop-card img{height:auto!important;aspect-ratio:4/3!important}
+ .lbsym-cta{padding-top:40px!important;padding-bottom:40px!important}
+}
