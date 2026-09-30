@@ -74,3 +74,20 @@ body{margin:0;color:var(--pd-ink);background:#fff;font-family:"Noto Sans TC","Pi
   .pd-audience blockquote{padding:24px 20px}
   .pd-audience blockquote p{font-size:17px;line-height:1.6}
 }
+/* LB_SPACING_CROP_FIX_20260929 */
+.pd-hero{min-height:540px!important}
+.pd-hero-content{padding-top:82px!important;padding-bottom:72px!important}
+.pd-hero-photo{object-position:58% 44%!important}
+.pd-benefits{min-height:200px!important}
+.pd-benefits article{padding-top:36px!important;padding-bottom:32px!important}
+.pd-audience{min-height:310px!important}
+.pd-audience figure img{object-position:center 50%!important}
+.pd-audience-list{padding-top:44px!important;padding-bottom:44px!important}
+@media(max-width:640px){
+ .pd-hero{min-height:700px!important}
+ .pd-hero-photo{height:49%!important;object-position:54% 46%!important}
+ .pd-hero-content{padding-top:42px!important;padding-bottom:30px!important}
+ .pd-benefits article{padding-top:26px!important;padding-bottom:24px!important}
+ .pd-audience figure{height:260px!important}
+ .pd-audience-list{padding-top:32px!important;padding-bottom:32px!important}
+}
