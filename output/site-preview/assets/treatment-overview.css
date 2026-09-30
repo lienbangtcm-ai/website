@@ -45,3 +45,28 @@
   .to-step{min-height:116px;padding:22px 24px}
   .to-cta .to-wrap{min-height:300px;gap:22px}
 }
+/* LB_SPACING_CROP_FIX_20260929 */
+.to-hero,.to-hero-inner{min-height:560px!important}
+.to-hero-copy{padding-top:70px!important;padding-bottom:70px!important}
+.to-hero-photo{object-position:center 44%!important}
+.to-service-strip{padding-top:38px!important;padding-bottom:44px!important}
+.to-service-card img{height:185px!important;object-position:center 42%!important}
+.to-intro{padding-top:100px!important;padding-bottom:64px!important}
+.to-path,.to-path-media{min-height:600px!important}
+.to-path-copy{padding-top:88px!important;padding-bottom:88px!important}
+.to-path-media img{object-position:center 45%!important}
+.to-selfpay{padding-top:88px!important;padding-bottom:88px!important}
+.to-visit{padding-top:82px!important;padding-bottom:82px!important}
+@media(max-width:760px){
+ .to-hero,.to-hero-inner{min-height:680px!important}
+ .to-hero-photo{height:49%!important;object-position:62% 44%!important}
+ .to-hero-copy{padding-top:42px!important;padding-bottom:20px!important}
+ .to-service-strip{padding-top:26px!important;padding-bottom:32px!important}
+ .to-service-card img{height:145px!important}
+ .to-intro{padding-top:68px!important;padding-bottom:46px!important}
+ .to-path{min-height:0!important}
+ .to-path-media{height:310px!important;min-height:310px!important}
+ .to-path-copy{padding-top:46px!important;padding-bottom:56px!important}
+ .to-selfpay{padding-top:64px!important;padding-bottom:64px!important}
+ .to-visit{padding-top:62px!important;padding-bottom:62px!important}
+}
