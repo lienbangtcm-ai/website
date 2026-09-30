@@ -738,3 +738,25 @@ footer{padding:25px 0 18px;background:#fff}.footer-inner{display:grid;width:min(
     width:100%!important;
   }
 }
+/* LB_SPACING_CROP_FIX_20260929 */
+.hero{height:590px!important}
+.showcase{padding-top:58px!important;padding-bottom:62px!important}
+.booking-banner{height:330px!important}
+.service-cards>a{min-height:335px!important}
+.service-cards img{height:185px!important;object-position:center 42%!important}
+.article-cards>a{min-height:305px!important}
+.article-cards img{height:160px!important;object-position:center 42%!important}
+.doctor-editorial .doctor-featured{min-height:560px!important}
+.doctor-editorial .doctor-featured .doctor-photo{min-height:560px!important}
+.doctor-editorial .doctor-featured .doctor-photo img{object-position:center 12%!important}
+.doctor-editorial .doctor-compact{min-height:275px!important}
+.doctor-editorial .doctor-compact .doctor-photo{min-height:275px!important}
+.doctor-editorial .doctor-compact .doctor-photo img{object-position:center 12%!important}
+@media(max-width:680px){
+ .hero{height:600px!important}
+ .showcase{padding-top:42px!important;padding-bottom:46px!important}
+ .doctor-editorial .doctor-featured .doctor-photo{height:330px!important;min-height:330px!important}
+ .doctor-editorial .doctor-compact{min-height:148px!important}
+ .doctor-editorial .doctor-compact .doctor-photo{height:148px!important;min-height:148px!important}
+ .booking-banner{height:auto!important;min-height:390px!important}
+}
