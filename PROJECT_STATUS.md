@@ -93,3 +93,6 @@
 
 ### 關於頁桌面文字放大
 依使用者要求，1024px 以上桌面版主視覺內文調為 20px、故事／團隊內文 19px、理念文字 18px、時間軸描述 17px，增加行距並調整文字欄寬與區塊留白。標題與按鈕同步放大，手機保持原閱讀尺寸。1440/768/390px 三組檢查通過，證據 output/visual-qa/about-desktop-type/report.json。
+
+### 關於頁文案精簡
+依使用者確認，移除主視覺重複介紹與英文小標，故事合併為一段並保留台大相識及兩種專業背景；四項理念各留一句，時間軸保留照片與事件名稱，團隊介紹縮短為一句。保留原照片、重要背景、較大的桌面字體及預約入口。1440/768/390px 三組瀏覽器檢查通過，完整前後截圖分別位於 output/visual-qa/about-desktop-type 與 about-concise，後者 report.json 無失敗。舊 /review/about-update/ 為前一輪排版對照，最新文案請看 /about-lienbang/?revision=concise-copy。正式 WordPress 未修改。

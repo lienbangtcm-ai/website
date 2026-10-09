@@ -1,0 +1,293 @@
+[
+  {
+    "route": "about-lienbang",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "ab-hero",
+        "x": 0,
+        "y": 73,
+        "w": 1440,
+        "h": 455
+      },
+      {
+        "class": "ab-story",
+        "x": 86.40625,
+        "y": 528,
+        "w": 1267.1875,
+        "h": 380
+      },
+      {
+        "class": "ab-beliefs",
+        "x": 0,
+        "y": 908,
+        "w": 1440,
+        "h": 303.59375
+      },
+      {
+        "class": "ab-journey",
+        "x": 0,
+        "y": 1211.59375,
+        "w": 1440,
+        "h": 226
+      },
+      {
+        "class": "ab-team",
+        "x": 0,
+        "y": 1437.59375,
+        "w": 1440,
+        "h": 353
+      }
+    ],
+    "photos": [],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "認識醫師團隊 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "about-lienbang",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "ab-hero",
+        "x": 0,
+        "y": 64,
+        "w": 768,
+        "h": 607.890625
+      },
+      {
+        "class": "ab-story",
+        "x": 46.078125,
+        "y": 671.890625,
+        "w": 675.828125,
+        "h": 474.1875
+      },
+      {
+        "class": "ab-beliefs",
+        "x": 0,
+        "y": 1146.078125,
+        "w": 768,
+        "h": 546.78125
+      },
+      {
+        "class": "ab-journey",
+        "x": 0,
+        "y": 1692.859375,
+        "w": 768,
+        "h": 452
+      },
+      {
+        "class": "ab-team",
+        "x": 0,
+        "y": 2144.859375,
+        "w": 768,
+        "h": 712.59375
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "about-lienbang",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "ab-hero",
+        "x": 0,
+        "y": 64,
+        "w": 390,
+        "h": 607.890625
+      },
+      {
+        "class": "ab-story",
+        "x": 23.40625,
+        "y": 671.890625,
+        "w": 343.1875,
+        "h": 533.375
+      },
+      {
+        "class": "ab-beliefs",
+        "x": 0,
+        "y": 1205.265625,
+        "w": 390,
+        "h": 598.5625
+      },
+      {
+        "class": "ab-journey",
+        "x": 0,
+        "y": 1803.828125,
+        "w": 390,
+        "h": 452
+      },
+      {
+        "class": "ab-team",
+        "x": 0,
+        "y": 2255.828125,
+        "w": 390,
+        "h": 742.1875
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  }
+]
