@@ -82,3 +82,5 @@
 .reference-design .lb-about .ab-story-copy{padding:0!important;align-self:center}
 .reference-design .lb-about .ab-section-title:after{content:"";display:block;width:28px;height:1px;background:#b88d6c;margin-top:14px}
 .reference-design .lb-about .ab-hero-copy p.ab-hero-sub:after{content:"";display:block;width:28px;height:1px;background:#b88d6c;margin-top:16px}
+
+.reference-design .lb-about .ab-step:nth-child(2) .ab-step-img img{object-position:60% 38%!important}

@@ -87,3 +87,6 @@
 - 三輪完整截圖與報告位於 output/visual-qa/about-polish、about-polish-2、about-polish-3；每輪 1440/768/390px 三組檢查通過（H1、圖片、水平溢出、選單/Escape、內部連結狀態）。
 - 最新頁面 /about-lienbang/；前後對照與設計圖疊圖 /review/about-update/；tools/about-qa.cjs 和 about-review.py 可重跑。
 - 仍待素材：合照背景與原參考不同，品牌影片未提供；不新增虛構照片或假的播放功能。未變更正式 WordPress。
+
+### 小巨蛋總院門面照片替換
+已依使用者提供的真實門面照，替換關於頁「第一家物理治療所」時間軸圖片為 assets/clinic-photos/ptc-arena-exterior.webp，補正 alt 並調整圓形焦點。保留標題與文字。1440/768/390px 三組檢查通過，證據 output/visual-qa/about-arena-photo/report.json 與同目錄截圖。正式 WordPress 未修改。
