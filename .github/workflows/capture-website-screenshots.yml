@@ -50,13 +50,10 @@ jobs:
                 desktop:{width:1440,height:900},mobile:{width:390,height:844}
               })){
                 const page=await browser.newPage({viewport});
-                const response=await page.goto('http://127.0.0.1:8765'+path,{waitUntil:'networkidle',timeout:45000});
-                await page.evaluate(async()=>{
-                  await document.fonts.ready;
-                  await Promise.all(Array.from(document.images).map(i=>i.decode().catch(()=>{})));
-                });
+                const response=await page.goto('http://127.0.0.1:8765'+path,{waitUntil:'domcontentloaded',timeout:12000}).catch(e=>{console.warn(name,mode,e.message);return null});
+                await page.waitForTimeout(1000);
                 const dest='website-screenshots/'+name+'-'+mode+'.png';
-                await page.screenshot({path:dest,fullPage:true,animations:'disabled'});
+                await page.screenshot({path:dest,fullPage:true,animations:'disabled',timeout:12000}).catch(e=>console.warn('screenshot failed',name,mode,e.message));
                 manifest.push({path,mode,status:response?.status(),file:dest});
                 await page.close();
               }
