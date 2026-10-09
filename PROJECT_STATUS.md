@@ -76,3 +76,6 @@
 - 本機預覽 http://127.0.0.1:8876/；醫師頁 /team/；對照頁 /review/。若伺服器停止，從 repository 執行 python -m http.server 8876 --bind 127.0.0.1 --directory output/site-preview。
 - 尚未一致：個別醫師原照白底、16 張症狀照片未補、關於頁主圖背景與品牌影片未補、部分專屬療程照片未補、整合治療保留六步原內容。不能把 AI 情境素材視為實際診所／醫師紀實照片。
 - 使用者已授權完成後提交並推送開發分支。GitHub Pages workflow 只接受 workflow_dispatch；本次不啟動 Actions、不合併 main、不改正式網站。提交和 push 結果以後續 Git 紀錄為準。
+
+### 本次 GitHub 同步結果
+程式與驗收資料提交 fd28cac（Refine eight reference pages with local visual QA and review gallery）已成功推送 origin/sitewide-treatment-dropdown-20260918。對照頁 /review/ 已由 Playwright 檢查：8 個頁面、48 張前後截圖全部載入正常。下一次先看 /review/ 與尚未一致清單，再接續替換缺少素材。本段為同步後交接紀錄。
