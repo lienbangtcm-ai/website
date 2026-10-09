@@ -1,0 +1,5 @@
+# Full-resolution visual evidence stays local; compact review assets are versioned.
+/output/visual-qa/**/*.png
+/output/visual-qa/**/*.jpg
+/output/reference-design-qa/*.png
+__pycache__/

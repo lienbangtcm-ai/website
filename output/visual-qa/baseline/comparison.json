@@ -1,0 +1,194 @@
+[
+  {
+    "route": "home",
+    "width": 1440,
+    "actualHeight": 2838,
+    "scaledReferenceHeight": 2160,
+    "heightRatio": 1.314,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "home",
+    "width": 768,
+    "actualHeight": 2399,
+    "scaledReferenceHeight": 1152,
+    "heightRatio": 2.082,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "actualHeight": 2140,
+    "scaledReferenceHeight": 1170,
+    "heightRatio": 1.829,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "services",
+    "width": 1440,
+    "actualHeight": 1455,
+    "scaledReferenceHeight": 1342,
+    "heightRatio": 1.084,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "services",
+    "width": 768,
+    "actualHeight": 2199,
+    "scaledReferenceHeight": 715,
+    "heightRatio": 3.076,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "services",
+    "width": 390,
+    "actualHeight": 2562,
+    "scaledReferenceHeight": 363,
+    "heightRatio": 7.058,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "symptoms",
+    "width": 1440,
+    "actualHeight": 2382,
+    "scaledReferenceHeight": 2558,
+    "heightRatio": 0.931,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "symptoms",
+    "width": 768,
+    "actualHeight": 4634,
+    "scaledReferenceHeight": 1364,
+    "heightRatio": 3.397,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "symptoms",
+    "width": 390,
+    "actualHeight": 3803,
+    "scaledReferenceHeight": 692,
+    "heightRatio": 5.496,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "team",
+    "width": 1440,
+    "actualHeight": 7081,
+    "scaledReferenceHeight": 3617,
+    "heightRatio": 1.958,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "team",
+    "width": 768,
+    "actualHeight": 8561,
+    "scaledReferenceHeight": 1929,
+    "heightRatio": 4.438,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "team",
+    "width": 390,
+    "actualHeight": 8362,
+    "scaledReferenceHeight": 979,
+    "heightRatio": 8.541,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "about-lienbang",
+    "width": 1440,
+    "actualHeight": 1812,
+    "scaledReferenceHeight": 1978,
+    "heightRatio": 0.916,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "about-lienbang",
+    "width": 768,
+    "actualHeight": 4541,
+    "scaledReferenceHeight": 1055,
+    "heightRatio": 4.304,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "about-lienbang",
+    "width": 390,
+    "actualHeight": 5320,
+    "scaledReferenceHeight": 535,
+    "heightRatio": 9.944,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "acupuncture",
+    "width": 1440,
+    "actualHeight": 4499,
+    "scaledReferenceHeight": 4320,
+    "heightRatio": 1.041,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "acupuncture",
+    "width": 768,
+    "actualHeight": 6398,
+    "scaledReferenceHeight": 2304,
+    "heightRatio": 2.777,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "acupuncture",
+    "width": 390,
+    "actualHeight": 6870,
+    "scaledReferenceHeight": 1170,
+    "heightRatio": 5.872,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 1440,
+    "actualHeight": 2212,
+    "scaledReferenceHeight": 1516,
+    "heightRatio": 1.459,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 768,
+    "actualHeight": 3930,
+    "scaledReferenceHeight": 808,
+    "heightRatio": 4.864,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 390,
+    "actualHeight": 3990,
+    "scaledReferenceHeight": 410,
+    "heightRatio": 9.732,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 1440,
+    "actualHeight": 4854,
+    "scaledReferenceHeight": 4320,
+    "heightRatio": 1.124,
+    "comparison": "proportional reference at same width; differing assets/content affect pixel differences"
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 768,
+    "actualHeight": 6719,
+    "scaledReferenceHeight": 2304,
+    "heightRatio": 2.916,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 390,
+    "actualHeight": 8040,
+    "scaledReferenceHeight": 1170,
+    "heightRatio": 6.872,
+    "comparison": "reference scaled proportionally; phone/tablet adaptation lacks separate reference"
+  }
+]

@@ -1,0 +1,1204 @@
+{
+  "clicks": [
+    {
+      "from": "home",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/pulse-diagnosis/",
+      "url": "http://127.0.0.1:8876//",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/acupuncture/",
+      "url": "http://127.0.0.1:8876//",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/acupuncture-physical-therapy/",
+      "url": "http://127.0.0.1:8876//",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "url": "http://127.0.0.1:8876//",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "url": "http://127.0.0.1:8876//",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "url": "http://127.0.0.1:8876//",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/美顏針/",
+      "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/埋線/",
+      "url": "http://127.0.0.1:8876/%E5%9F%8B%E7%B7%9A/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/team/zhang-yu/",
+      "url": "http://127.0.0.1:8876/team/zhang-yu/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/team/tsai-ru-hui/",
+      "url": "http://127.0.0.1:8876/team/tsai-ru-hui/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/team/zhang-you-ming/",
+      "url": "http://127.0.0.1:8876/team/zhang-you-ming/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "status": 200
+    },
+    {
+      "from": "home",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/pulse-diagnosis/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/acupuncture/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/acupuncture-physical-therapy/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "services",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/pulse-diagnosis/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/acupuncture/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/acupuncture-physical-therapy/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "status": 200
+    },
+    {
+      "from": "symptoms",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/pulse-diagnosis/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/acupuncture/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/acupuncture-physical-therapy/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/team/zhang-yu/",
+      "url": "http://127.0.0.1:8876/team/zhang-yu/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/team/tsai-ru-hui/",
+      "url": "http://127.0.0.1:8876/team/tsai-ru-hui/",
+      "status": 200
+    },
+    {
+      "from": "team",
+      "href": "/team/zhang-you-ming/",
+      "url": "http://127.0.0.1:8876/team/zhang-you-ming/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/pulse-diagnosis/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/acupuncture/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/acupuncture-physical-therapy/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "about-lienbang",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/pulse-diagnosis/",
+      "url": "http://127.0.0.1:8876/acupuncture/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/acupuncture/",
+      "url": "http://127.0.0.1:8876/acupuncture/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/acupuncture-physical-therapy/",
+      "url": "http://127.0.0.1:8876/acupuncture/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "url": "http://127.0.0.1:8876/acupuncture/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "url": "http://127.0.0.1:8876/acupuncture/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "url": "http://127.0.0.1:8876/acupuncture/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/pulse-diagnosis/",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/acupuncture/",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/acupuncture-physical-therapy/",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "pulse-diagnosis",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/pulse-diagnosis/",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/acupuncture/",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/acupuncture-physical-therapy/",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "status": 200
+    },
+    {
+      "from": "acupuncture-physical-therapy",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "status": 200
+    }
+  ],
+  "extraPages": [
+    {
+      "route": "dist/about-lienbang",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/acupuncture",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/acupuncture-physical-therapy",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/pulse-diagnosis",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/services",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/allergic-rhinitis",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/constipation",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/cough",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/de-quervain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/diarrhea",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/fatigue",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/frozen-shoulder",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/gerd",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/insomnia",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/knee-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/low-back-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/menstrual-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/neck-shoulder-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/plantar-heel-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/sciatica",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/symptoms/tennis-elbow",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/埋線",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/浮針",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/美顏針",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "dist/針刀",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/allergic-rhinitis",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/constipation",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/cough",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/de-quervain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/diarrhea",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/fatigue",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/frozen-shoulder",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/gerd",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/insomnia",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/knee-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/low-back-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/menstrual-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/neck-shoulder-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/plantar-heel-pain",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/sciatica",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "symptoms/tennis-elbow",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "team/tsai-ru-hui",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "team/zhang-you-ming",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "team/zhang-yu",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "埋線",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "浮針",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "美顏針",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "針刀",
+      "overflow": false,
+      "h1": 1
+    }
+  ]
+}

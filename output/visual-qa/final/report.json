@@ -1,0 +1,2903 @@
+[
+  {
+    "route": "home",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 68.53125,
+        "w": 1440,
+        "h": 522.71875
+      },
+      {
+        "class": "showcase services-showcase",
+        "x": 0,
+        "y": 591.25,
+        "w": 1440,
+        "h": 429.640625
+      },
+      {
+        "class": "showcase team-showcase",
+        "x": 0,
+        "y": 1020.890625,
+        "w": 1440,
+        "h": 468.609375
+      },
+      {
+        "class": "showcase article-showcase",
+        "x": 0,
+        "y": 1489.5,
+        "w": 1440,
+        "h": 373.234375
+      },
+      {
+        "class": "booking-banner",
+        "x": 0,
+        "y": 1862.734375,
+        "w": 1440,
+        "h": 267.25
+      }
+    ],
+    "photos": [],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "了解更多治療服務　→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診問診加減・辨證與體質調理→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸疼痛、筋膜與活動評估→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估、動作控制與訓練→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/針刀/",
+        "text": "針刀／浮針沾黏評估、緩解緊繃→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/美顏針/",
+        "text": "美顏針臉部狀態與個別評估→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/埋線/",
+        "text": "埋線長期調理與個別評估→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "了解更多醫師介紹　→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/zhang-yu/",
+        "text": "01張豫 醫師脈診辨證・個別處方與針灸評估→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/tsai-ru-hui/",
+        "text": "02蔡如慧 醫師女性健康・體質調理與美顏針→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/zhang-you-ming/",
+        "text": "03張祐銘 醫師中醫內科與婦兒體質評估→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "前往所有文章　→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/gerd/",
+        "text": "消化系統胃食道逆流反覆不適，如何從體質理解？常見症狀→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/insomnia/",
+        "text": "睡眠調理總是睡不好？從身體狀態理解失眠常見症狀→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/allergic-rhinitis/",
+        "text": "過敏體質鼻過敏反覆不適，日常可以如何調理？常見症狀→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/neck-shoulder-pain/",
+        "text": "疼痛評估肩頸緊繃與疼痛，何時適合進一步評估？常見症狀→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "home",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 64,
+        "w": 768,
+        "h": 414.71875
+      },
+      {
+        "class": "showcase services-showcase",
+        "x": 0,
+        "y": 478.71875,
+        "w": 768,
+        "h": 675.53125
+      },
+      {
+        "class": "showcase team-showcase",
+        "x": 0,
+        "y": 1154.25,
+        "w": 768,
+        "h": 364.9375
+      },
+      {
+        "class": "showcase article-showcase",
+        "x": 0,
+        "y": 1519.1875,
+        "w": 768,
+        "h": 506.1875
+      },
+      {
+        "class": "booking-banner",
+        "x": 0,
+        "y": 2025.375,
+        "w": 768,
+        "h": 203.515625
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 64,
+        "w": 390,
+        "h": 300
+      },
+      {
+        "class": "showcase services-showcase",
+        "x": 0,
+        "y": 364,
+        "w": 390,
+        "h": 559.875
+      },
+      {
+        "class": "showcase team-showcase",
+        "x": 0,
+        "y": 923.875,
+        "w": 390,
+        "h": 281.640625
+      },
+      {
+        "class": "showcase article-showcase",
+        "x": 0,
+        "y": 1205.515625,
+        "w": 390,
+        "h": 428.59375
+      },
+      {
+        "class": "booking-banner",
+        "x": 0,
+        "y": 1634.109375,
+        "w": 390,
+        "h": 175
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "services",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "to-hero",
+        "x": 0,
+        "y": 73,
+        "w": 1440,
+        "h": 560
+      }
+    ],
+    "photos": [],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・快速放鬆→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・體態改善→",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "services",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "to-hero",
+        "x": 0,
+        "y": 64,
+        "w": 768,
+        "h": 470
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "services",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "to-hero",
+        "x": 0,
+        "y": 64,
+        "w": 390,
+        "h": 470
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "symptoms",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbsym-cta",
+        "x": 0,
+        "y": 1774,
+        "w": 1425,
+        "h": 192.296875
+      }
+    ],
+    "photos": [],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/gerd/",
+        "text": "胃食道逆流↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/cough/",
+        "text": "咳嗽↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/insomnia/",
+        "text": "失眠↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/allergic-rhinitis/",
+        "text": "鼻過敏↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/diarrhea/",
+        "text": "腹瀉↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/constipation/",
+        "text": "便秘↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/menstrual-pain/",
+        "text": "經痛↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/fatigue/",
+        "text": "疲倦↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/frozen-shoulder/",
+        "text": "五十肩↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/neck-shoulder-pain/",
+        "text": "肩頸痛↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/low-back-pain/",
+        "text": "腰背痛↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/sciatica/",
+        "text": "坐骨痛↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/knee-pain/",
+        "text": "膝痛↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/tennis-elbow/",
+        "text": "網球肘↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/de-quervain/",
+        "text": "媽媽手↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/plantar-heel-pain/",
+        "text": "足底痛↗",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "門診與交通",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/gerd/",
+        "text": "胃食道逆流",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/insomnia/",
+        "text": "失眠",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/neck-shoulder-pain/",
+        "text": "肩頸痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/low-back-pain/",
+        "text": "腰背痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/cough/",
+        "text": "咳嗽",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/allergic-rhinitis/",
+        "text": "鼻過敏",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/diarrhea/",
+        "text": "腹瀉",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/constipation/",
+        "text": "便秘",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/menstrual-pain/",
+        "text": "經痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/fatigue/",
+        "text": "疲倦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/frozen-shoulder/",
+        "text": "五十肩",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/sciatica/",
+        "text": "坐骨痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/knee-pain/",
+        "text": "膝痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/tennis-elbow/",
+        "text": "網球肘",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/de-quervain/",
+        "text": "媽媽手",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/plantar-heel-pain/",
+        "text": "足底痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "symptoms",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbsym-cta",
+        "x": 0,
+        "y": 1723.125,
+        "w": 753,
+        "h": 240.046875
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "symptoms",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbsym-cta",
+        "x": 0,
+        "y": 2681.25,
+        "w": 375,
+        "h": 349
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "team",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "team-hero",
+        "x": 0,
+        "y": 73,
+        "w": 1440,
+        "h": 440
+      },
+      {
+        "class": "team-list",
+        "x": 0,
+        "y": 513,
+        "w": 1440,
+        "h": 2382.53125
+      },
+      {
+        "class": "team-cta",
+        "x": 0,
+        "y": 2895.53125,
+        "w": 1440,
+        "h": 286.1875
+      }
+    ],
+    "photos": [
+      {
+        "w": 570.234375,
+        "h": 678.84375
+      },
+      {
+        "w": 570.234375,
+        "h": 678.84375
+      },
+      {
+        "w": 570.234375,
+        "h": 678.84375
+      }
+    ],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/zhang-yu/",
+        "text": "01 / LIEN BANG TCM張豫 醫師中醫內科脈診針灸以問診、脈診與整體狀態評估為核心，依個別情況安排中藥處方與針灸治療，重視每次看診前後身體變化的連續性。主要方向內科脈診、體質調理、個別處方、針灸與疼痛評估。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/tsai-ru-hui/",
+        "text": "02 / LIEN BANG TCM蔡如慧 醫師女性健康體質調理美顏針從女性不同生命階段的身體變化出發，評估經期、體質與日常狀態，也提供美顏針等個別化治療選擇。主要方向女性健康、經期與更年期調理、體質評估、美顏針。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/zhang-you-ming/",
+        "text": "03 / LIEN BANG TCM張祐銘 醫師中醫內科婦兒針灸傷科具有藥學背景，從用藥理解與中醫辨證兩端整合評估，涵蓋成人內科、婦兒調理與針灸傷科需求。主要方向中醫內科、婦兒調理、針灸、傷科與體質評估。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "team",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "team-hero",
+        "x": 0,
+        "y": 64,
+        "w": 768,
+        "h": 344.59375
+      },
+      {
+        "class": "team-list",
+        "x": 0,
+        "y": 408.59375,
+        "w": 768,
+        "h": 2809.484375
+      },
+      {
+        "class": "team-cta",
+        "x": 0,
+        "y": 3218.078125,
+        "w": 768,
+        "h": 286.1875
+      }
+    ],
+    "photos": [
+      {
+        "w": 480,
+        "h": 505.25
+      },
+      {
+        "w": 480,
+        "h": 505.25
+      },
+      {
+        "w": 480,
+        "h": 505.25
+      }
+    ],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "team",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "team-hero",
+        "x": 0,
+        "y": 64,
+        "w": 390,
+        "h": 330
+      },
+      {
+        "class": "team-list",
+        "x": 0,
+        "y": 394,
+        "w": 390,
+        "h": 2481.265625
+      },
+      {
+        "class": "team-cta",
+        "x": 0,
+        "y": 2875.265625,
+        "w": 390,
+        "h": 252.984375
+      }
+    ],
+    "photos": [
+      {
+        "w": 343.1875,
+        "h": 361.25
+      },
+      {
+        "w": 343.1875,
+        "h": 361.25
+      },
+      {
+        "w": 343.1875,
+        "h": 361.25
+      }
+    ],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "about-lienbang",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "ab-hero",
+        "x": 0,
+        "y": 73,
+        "w": 1440,
+        "h": 420
+      },
+      {
+        "class": "ab-story",
+        "x": 57.59375,
+        "y": 493,
+        "w": 1324.796875,
+        "h": 280
+      },
+      {
+        "class": "ab-beliefs",
+        "x": 0,
+        "y": 773,
+        "w": 1440,
+        "h": 256.375
+      },
+      {
+        "class": "ab-journey",
+        "x": 0,
+        "y": 1029.375,
+        "w": 1440,
+        "h": 157
+      },
+      {
+        "class": "ab-team",
+        "x": 0,
+        "y": 1186.375,
+        "w": 1440,
+        "h": 338
+      }
+    ],
+    "photos": [],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "認識醫師團隊 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "about-lienbang",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "ab-hero",
+        "x": 0,
+        "y": 64,
+        "w": 768,
+        "h": 1477.140625
+      },
+      {
+        "class": "ab-story",
+        "x": 30.71875,
+        "y": 1541.140625,
+        "w": 706.546875,
+        "h": 569
+      },
+      {
+        "class": "ab-beliefs",
+        "x": 0,
+        "y": 2110.140625,
+        "w": 768,
+        "h": 558.5625
+      },
+      {
+        "class": "ab-journey",
+        "x": 0,
+        "y": 2668.703125,
+        "w": 768,
+        "h": 485.1875
+      },
+      {
+        "class": "ab-team",
+        "x": 0,
+        "y": 3153.890625,
+        "w": 768,
+        "h": 722.390625
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "about-lienbang",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "ab-hero",
+        "x": 0,
+        "y": 64,
+        "w": 390,
+        "h": 944.4375
+      },
+      {
+        "class": "ab-story",
+        "x": 15.59375,
+        "y": 1008.4375,
+        "w": 358.796875,
+        "h": 626
+      },
+      {
+        "class": "ab-beliefs",
+        "x": 0,
+        "y": 1634.4375,
+        "w": 390,
+        "h": 634.125
+      },
+      {
+        "class": "ab-journey",
+        "x": 0,
+        "y": 2268.5625,
+        "w": 390,
+        "h": 515.578125
+      },
+      {
+        "class": "ab-team",
+        "x": 0,
+        "y": 2784.140625,
+        "w": 390,
+        "h": 748.28125
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "acupuncture",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbnr-hero",
+        "x": 0,
+        "y": 73,
+        "w": 1425,
+        "h": 447.546875
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 576.140625,
+        "w": 1425,
+        "h": 316.59375
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 892.734375,
+        "w": 1425,
+        "h": 476.96875
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 1369.703125,
+        "w": 1425,
+        "h": 593
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 1962.703125,
+        "w": 1425,
+        "h": 445.359375
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 2408.0625,
+        "w": 1425,
+        "h": 699.5
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 3107.5625,
+        "w": 1425,
+        "h": 420.5
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 3528.0625,
+        "w": 1425,
+        "h": 279.390625
+      },
+      {
+        "class": "lbnr-section lbnr-section--coffee lbnr-final",
+        "x": 0,
+        "y": 3807.453125,
+        "w": 1425,
+        "h": 275.78125
+      }
+    ],
+    "photos": [],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "01針刀依軟組織與活動表現進行評估，實際操作範圍由醫師說明。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E6%B5%AE%E9%87%9D/",
+        "text": "02浮針使用專用針具進行操作，評估方式與一般針灸不同。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "03埋線使用可吸收線材，操作前需個別評估並說明後續照護。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "04美顏針依臉部肌肉、筋膜與個別需求評估操作位置及方式。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "單味藥組方 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "物理治療整合評估 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/gerd/",
+        "text": "胃食道逆流",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/insomnia/",
+        "text": "失眠",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/neck-shoulder-pain/",
+        "text": "肩頸痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/low-back-pain/",
+        "text": "腰背痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/cough/",
+        "text": "咳嗽",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/allergic-rhinitis/",
+        "text": "鼻過敏",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/diarrhea/",
+        "text": "腹瀉",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/constipation/",
+        "text": "便秘",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/menstrual-pain/",
+        "text": "經痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/fatigue/",
+        "text": "疲倦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/frozen-shoulder/",
+        "text": "五十肩",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/sciatica/",
+        "text": "坐骨痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/knee-pain/",
+        "text": "膝痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/tennis-elbow/",
+        "text": "網球肘",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/de-quervain/",
+        "text": "媽媽手",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/plantar-heel-pain/",
+        "text": "足底痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "acupuncture",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbnr-hero",
+        "x": 0,
+        "y": 64,
+        "w": 753,
+        "h": 440
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 559.59375,
+        "w": 753,
+        "h": 447.96875
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 1007.5625,
+        "w": 753,
+        "h": 489.96875
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 1497.53125,
+        "w": 753,
+        "h": 1069.96875
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 2567.5,
+        "w": 753,
+        "h": 631.71875
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 3199.21875,
+        "w": 753,
+        "h": 1014.3125
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 4213.53125,
+        "w": 753,
+        "h": 612
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 4825.53125,
+        "w": 753,
+        "h": 235.390625
+      },
+      {
+        "class": "lbnr-section lbnr-section--coffee lbnr-final",
+        "x": 0,
+        "y": 5060.921875,
+        "w": 753,
+        "h": 275.78125
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "acupuncture",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbnr-hero",
+        "x": 0,
+        "y": 64,
+        "w": 375,
+        "h": 445.4375
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 565.03125,
+        "w": 375,
+        "h": 534.640625
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 1099.671875,
+        "w": 375,
+        "h": 912.328125
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 2012,
+        "w": 375,
+        "h": 952.796875
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 2964.796875,
+        "w": 375,
+        "h": 655.703125
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 3620.5,
+        "w": 375,
+        "h": 1197.984375
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 4818.484375,
+        "w": 375,
+        "h": 630.296875
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 5448.78125,
+        "w": 375,
+        "h": 317.578125
+      },
+      {
+        "class": "lbnr-section lbnr-section--coffee lbnr-final",
+        "x": 0,
+        "y": 5766.359375,
+        "w": 375,
+        "h": 330.765625
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "pd-hero",
+        "x": 0,
+        "y": 121,
+        "w": 1440,
+        "h": 450
+      },
+      {
+        "class": "pd-benefits",
+        "x": 57.59375,
+        "y": 571,
+        "w": 1324.796875,
+        "h": 205
+      },
+      {
+        "class": "rd-approach",
+        "x": 0,
+        "y": 776,
+        "w": 1440,
+        "h": 342.578125
+      },
+      {
+        "class": "pd-audience",
+        "x": 57.59375,
+        "y": 1118.578125,
+        "w": 1324.796875,
+        "h": 190
+      },
+      {
+        "class": "rd-booking",
+        "x": 0,
+        "y": 1308.578125,
+        "w": 1440,
+        "h": 181.5
+      }
+    ],
+    "photos": [],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "pd-hero",
+        "x": 0,
+        "y": 112,
+        "w": 768,
+        "h": 540
+      },
+      {
+        "class": "pd-benefits",
+        "x": 30.71875,
+        "y": 652,
+        "w": 706.546875,
+        "h": 494
+      },
+      {
+        "class": "rd-approach",
+        "x": 0,
+        "y": 1146,
+        "w": 768,
+        "h": 1081.59375
+      },
+      {
+        "class": "pd-audience",
+        "x": 30.71875,
+        "y": 2227.59375,
+        "w": 706.546875,
+        "h": 707
+      },
+      {
+        "class": "rd-booking",
+        "x": 0,
+        "y": 2934.59375,
+        "w": 768,
+        "h": 347.59375
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "pd-hero",
+        "x": 0,
+        "y": 102,
+        "w": 390,
+        "h": 700
+      },
+      {
+        "class": "pd-benefits",
+        "x": 15.59375,
+        "y": 802,
+        "w": 358.796875,
+        "h": 514
+      },
+      {
+        "class": "rd-approach",
+        "x": 0,
+        "y": 1316,
+        "w": 390,
+        "h": 902.9375
+      },
+      {
+        "class": "pd-audience",
+        "x": 15.59375,
+        "y": 2218.9375,
+        "w": 358.796875,
+        "h": 693
+      },
+      {
+        "class": "rd-booking",
+        "x": 0,
+        "y": 2911.9375,
+        "w": 390,
+        "h": 376.09375
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbnr-hero",
+        "x": 0,
+        "y": 73,
+        "w": 1425,
+        "h": 447.546875
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 576.140625,
+        "w": 1425,
+        "h": 316.59375
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 892.734375,
+        "w": 1425,
+        "h": 589.484375
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 1482.21875,
+        "w": 1425,
+        "h": 646.59375
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 2128.8125,
+        "w": 1425,
+        "h": 802.90625
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 2931.71875,
+        "w": 1425,
+        "h": 343.671875
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 3275.390625,
+        "w": 1425,
+        "h": 577.5
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 3852.890625,
+        "w": 1425,
+        "h": 279.390625
+      },
+      {
+        "class": "lbnr-section lbnr-section--coffee lbnr-final",
+        "x": 0,
+        "y": 4132.28125,
+        "w": 1425,
+        "h": 306.171875
+      }
+    ],
+    "photos": [],
+    "faq": true,
+    "links": [
+      {
+        "href": "/",
+        "text": "",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務 ⌄",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "查看全部治療服務 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・疼痛評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "埋線長期調理・個別評估",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "單味藥組方 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "不留針手法 →",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/gerd/",
+        "text": "胃食道逆流",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/insomnia/",
+        "text": "失眠",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/neck-shoulder-pain/",
+        "text": "肩頸痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/low-back-pain/",
+        "text": "腰背痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/cough/",
+        "text": "咳嗽",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/allergic-rhinitis/",
+        "text": "鼻過敏",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/diarrhea/",
+        "text": "腹瀉",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/constipation/",
+        "text": "便秘",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/menstrual-pain/",
+        "text": "經痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/fatigue/",
+        "text": "疲倦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/frozen-shoulder/",
+        "text": "五十肩",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/sciatica/",
+        "text": "坐骨痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/knee-pain/",
+        "text": "膝痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/tennis-elbow/",
+        "text": "網球肘",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/de-quervain/",
+        "text": "媽媽手",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/plantar-heel-pain/",
+        "text": "足底痛",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "從問診、辨證到治療評估，陪你理解身體，找回生活的節奏。",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/",
+        "text": "首頁",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/about-lienbang/",
+        "text": "關於連邦",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/services/",
+        "text": "治療服務",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "常見症狀",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/team/",
+        "text": "醫師團隊",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/symptoms/",
+        "text": "衛教文章",
+        "status": 200,
+        "valid": true
+      },
+      {
+        "href": "/#site-footer",
+        "text": "交通資訊",
+        "status": 200,
+        "valid": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbnr-hero",
+        "x": 0,
+        "y": 64,
+        "w": 753,
+        "h": 440
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 559.59375,
+        "w": 753,
+        "h": 447.96875
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 1007.5625,
+        "w": 753,
+        "h": 630.984375
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 1638.546875,
+        "w": 753,
+        "h": 1249.59375
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 2888.140625,
+        "w": 753,
+        "h": 819.6875
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 3707.828125,
+        "w": 753,
+        "h": 501.84375
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 4209.671875,
+        "w": 753,
+        "h": 533.5
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 4743.171875,
+        "w": 753,
+        "h": 235.390625
+      },
+      {
+        "class": "lbnr-section lbnr-section--coffee lbnr-final",
+        "x": 0,
+        "y": 4978.5625,
+        "w": 753,
+        "h": 306.171875
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missing": [],
+    "sections": [
+      {
+        "class": "lbnr-hero",
+        "x": 0,
+        "y": 64,
+        "w": 375,
+        "h": 469.9375
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 589.53125,
+        "w": 375,
+        "h": 615.03125
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 1204.5625,
+        "w": 375,
+        "h": 1358.25
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 2562.8125,
+        "w": 375,
+        "h": 1420.984375
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 3983.796875,
+        "w": 375,
+        "h": 1411.984375
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 5395.78125,
+        "w": 375,
+        "h": 582.8125
+      },
+      {
+        "class": "lbnr-section lbnr-section--ivory",
+        "x": 0,
+        "y": 5978.59375,
+        "w": 375,
+        "h": 551.796875
+      },
+      {
+        "class": "lbnr-section",
+        "x": 0,
+        "y": 6530.390625,
+        "w": 375,
+        "h": 409.96875
+      },
+      {
+        "class": "lbnr-section lbnr-section--coffee lbnr-final",
+        "x": 0,
+        "y": 6940.359375,
+        "w": 375,
+        "h": 326.359375
+      }
+    ],
+    "photos": [],
+    "menu": true,
+    "escape": true,
+    "faq": true,
+    "errors": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "route": "about-lienbang",
+    "allOriginalLinksPreserved": true,
+    "h1": 1,
+    "faq": 0
+  },
+  {
+    "route": "services",
+    "allOriginalLinksPreserved": true,
+    "h1": 1,
+    "faq": 0
+  },
+  {
+    "route": "symptoms",
+    "allOriginalLinksPreserved": true,
+    "h1": 1,
+    "faq": 0
+  },
+  {
+    "route": "team",
+    "allOriginalLinksPreserved": true,
+    "h1": 1,
+    "faq": 0
+  },
+  {
+    "route": "acupuncture",
+    "allOriginalLinksPreserved": true,
+    "h1": 1,
+    "faq": 6
+  },
+  {
+    "route": "pulse-diagnosis",
+    "allOriginalLinksPreserved": true,
+    "h1": 1,
+    "faq": 0
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "allOriginalLinksPreserved": true,
+    "h1": 1,
+    "faq": 5
+  }
+]

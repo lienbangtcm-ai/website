@@ -52,3 +52,27 @@
 - 保留目前頁面內容、醫師資料、真實照片、Logo、既有 CTA 和 WordPress 設定。
 - 不捏造治療療效、患者評價、醫師資歷或看診時間。
 - 不要未經確認就合併 PR、對正式站推送、修改 DNS、批次刪頁或執行轉址。
+
+## 2026-10-09 本機參考圖改版進度
+- 工作目錄：C:/Users/yutin/Documents/網站相關/website；分支 sitewide-treatment-dropdown-20260918；基礎提交 c06b77d09b3d58caee1b0b68a231ccd90234cfc5。
+- 首頁已調整字級、區塊留白、導覽比例、主視覺文字及預約區間距，三位醫師改用使用者提供原照並統一首頁卡片大小。已複製至本機 repository 預覽；複製後首頁仍需再驗證。
+- 關於連邦、治療服務、常見症狀、醫師團隊、針灸、中醫內科／脈診、中醫×物理治療七頁已加入參考圖版面樣式，保留既有連結與醫療內容。這是本機預覽修改，沒有重建 WordPress／Elementor／Astra。
+- 七頁在 390px 與 1440px 共 14 組瀏覽器檢查通過：無水平溢出、每頁一個 H1、圖片正常載入、無 JavaScript 或 HTTP 錯誤；手機選單及存在的 FAQ 鍵盤操作正常。證據：output/reference-design-qa/browser-checks.json 與同目錄截圖。
+- 尚未完全符合參考圖：各頁乾淨主圖、16 張症狀照片、部分治療圖片、創辦人合照及品牌影片待補；使用者已回覆正在準備。整合治療等部分區塊仍保留原內容數量，待逐項視覺驗收。
+- 下一步優先順序：1. 驗證 repository 內首頁與手機實際排版；2. 收到素材後替換並逐頁對照；3. 圖片壓縮與載入速度量測；4. 正式站 SEO、LINE 預約目的地與發布驗收。
+- 尚未 commit、push、合併 PR 或上線。不可把本機預覽測試描述為正式站測試或完全一致。
+
+### 素材套用與可操作預覽
+已收到 12 張圖片，轉為 WebP 保存於 assets/user-20261009，套用服務、脈診、針灸、整合治療、醫師團隊及症狀頁主視覺與部分療程卡片；保留真實診所首頁與個別醫師原照。七頁 14 組測試再次通過，首頁 390/1440px 兩組另行通過，證據 home-browser-checks.json。本機伺服器 http://127.0.0.1:8876/；停止後需於 output/site-preview 執行 python -m http.server 8876 --bind 127.0.0.1。仍待症狀原圖、專屬療程照片及關於頁素材，尚未完全符合參考圖，尚未 push 或上線。
+
+## 2026-10-09 本機自主開發與視覺驗收
+- 保留原有未提交修改，在 sitewide-treatment-dropdown-20260918 工作；未重建網站、刪除重要內容或變更正式 WordPress。
+- 修正醫師圖片 HTML 原始高度與 CSS 比例衝突，統一容器、左右交錯排列、原照裁切與字級；移除重複「主要方向」文字。
+- 修正首頁過大的卡片、留白與文章列表排版；修正手機頁首對齊、LINE 按鈕換行、服務主視覺半高圖片與下方空白、症狀／整合治療主視覺對比、關於頁手機卡片与圖片排列、脈診頁過高區塊。依路徑標示導覽 active，保留預約入口。
+- 八頁依首頁、服務、症狀、醫師、關於、針灸、脈診、整合順序，於 1440/768/390px 保存 baseline、round-1、round-2、round-3 和 final 完整截圖與各輪 report.json。最後 24 組檢查包含圖片、H1、水平溢出、手機選單／Escape、FAQ 與內部連結狀態。
+- 實際點擊 158 個內部連結無 404，另外 50 個既有 HTML 子頁在 390px 無水平溢出；這是 smoke checks，不代表其所有操作與視覺都已完整驗收。LINE／電話只核對入口，沒有傳訊或撥號。
+- 參考圖等比縮放至相同寬度，保存並排、疊圖與差異圖；比較無法排除原照片與文字差異，不宣稱 100% 還原。除首頁外沒有獨立手機參考圖。
+- 原始完整證據 output/visual-qa/ 留在本機（圖片 gitignored）；可攜式壓縮前後截圖與對照頁位於 output/site-preview/review/。工具位於 tools/visual-qa.cjs、click-regression.cjs、compare-visuals.py、build-review.py；操作與每輪變更見 output/visual-qa/CHANGELOG.md。
+- 本機預覽 http://127.0.0.1:8876/；醫師頁 /team/；對照頁 /review/。若伺服器停止，從 repository 執行 python -m http.server 8876 --bind 127.0.0.1 --directory output/site-preview。
+- 尚未一致：個別醫師原照白底、16 張症狀照片未補、關於頁主圖背景與品牌影片未補、部分專屬療程照片未補、整合治療保留六步原內容。不能把 AI 情境素材視為實際診所／醫師紀實照片。
+- 使用者已授權完成後提交並推送開發分支。GitHub Pages workflow 只接受 workflow_dispatch；本次不啟動 Actions、不合併 main、不改正式網站。提交和 push 結果以後續 Git 紀錄為準。

@@ -27,6 +27,12 @@
 
   function init(){
     rewriteLegacyLinks();
+    var activePath=window.location.pathname.replace(/\/$/,'')||'/';
+    document.querySelectorAll('.global-header > nav > a,.global-treatment-trigger').forEach(function(a){
+      var path=(a.getAttribute('href')||'').replace(/\/$/,'')||'/';
+      a.removeAttribute('aria-current');
+      if(path===activePath || (path==='/services' && ['/acupuncture','/pulse-diagnosis','/acupuncture-physical-therapy'].indexOf(activePath)!==-1)) a.setAttribute('aria-current','page');
+    });
     document.querySelectorAll('.global-header').forEach(function(header){
       if(header.dataset.mobileMenuReady==='1') return;
       header.dataset.mobileMenuReady='1';
