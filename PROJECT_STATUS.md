@@ -107,3 +107,7 @@
 使用者確認關於頁 expanded-story，要求每頁套用。新增 editorial-expanded-20261009.css，套用全部 31 個可操作內容頁及其 dist 副本（58 個 HTML 檔）：主視覺 520px、主要段落約 19px、主區塊標題約 40px、區塊留白 64px；首頁與服務卡片改桌面三欄、症狀列表三欄，保留手機雙欄／單欄適配。醫師原照 contain 避免裁切；脈診理念照片放大，療程流程與 FAQ 增加閱讀空間。沿用既有較完整醫療內容，沒有新增療效說法或刪除功能。關於頁已確認版保留。
 八個主頁 1440/768/390px 共 24 組檢查通過，證據 output/visual-qa/sitewide-expanded-final；前一輪 sitewide-expanded。前後桌面／手機對照 /review/expanded/，較早的 /review/ 不代表最新實作。其餘子頁另執行 click-regression.cjs。第一次並行測試曾有 localhost 短暫拒絕連線，改單獨重跑完成後以 click-regression.json 為準。未修改正式 WordPress、不合併 main。
 驗收完成：158 個內部連結實際點擊無 404；53 個其他本機頁（含 dist 與對照頁）390px 無水平溢出。tools/expanded-desktop-qa.cjs 另外對全部 31 個實際內容頁保存 1440px 截圖，無水平溢出，report 位於 output/visual-qa/sitewide-subpages/report.json。八主頁仍以完整圖片／選單／FAQ／H1 檢查為準，子頁桌面檢查僅代表溢出與截圖驗證，未宣稱所有子頁像素級還原。
+
+### 全站頁首與頁尾放大及統一
+依使用者要求，31 個內容頁與 dist 副本共 58 個 HTML 共用同一份頁首／頁尾結構與 shell-unified-20261009.css。桌面頁首固定 96px、Logo 240px、導航 16px；820px 以下頁首 76px、Logo 175px、選單展開位置同步修正。頁尾 Logo 260px，導航／段落 17px、電話 24px；桌面頁尾總高 372px、手機／平板 818px，格式與聯絡內容一致，依路徑標示 active。保留較窄桌面適配、手機 LINE 入口與 Escape 選單操作。
+tools/shell-dimensions-qa.cjs 對 31 頁 × 1440/768/390px 共 93 組檢查：頁首／頁尾實際尺寸一致且無水平溢出，report 位於 output/visual-qa/shell-dimensions。第一輪發現捲軸寬度與繼承行高不同，已修正並重跑通過。八主頁完整截圖與互動驗證見 output/visual-qa/shell-unified-final。正式 WordPress 未修改。

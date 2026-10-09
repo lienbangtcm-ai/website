@@ -1,0 +1,54 @@
+/* One shell specification for every content page. */
+body.shell-unified .global-header{height:96px!important;min-height:96px!important;grid-template-columns:250px minmax(0,1fr) 160px!important;gap:24px!important;padding:0 max(28px,calc((100% - 1320px)/2))!important;background:#fffdf9!important}
+body.shell-unified .global-brand,body.shell-unified .global-brand img{width:240px!important;height:48px!important;max-width:100%!important}
+body.shell-unified .global-header>nav{gap:20px!important;margin:0!important;padding:0!important}
+body.shell-unified .global-header nav>a,body.shell-unified .global-treatment-trigger{font-size:16px!important;line-height:1.5!important}
+body.shell-unified .global-treatment{height:96px!important}
+body.shell-unified .global-booking{display:inline-flex!important;min-width:160px!important;min-height:48px!important;font-size:16px!important;white-space:nowrap;background:#269546!important;box-shadow:none!important}
+body.shell-unified .global-footer-main{width:min(1320px,88%)!important;max-width:1320px!important;grid-template-columns:30% 37% 33%!important;gap:0!important;padding:60px 0 46px!important;min-height:290px!important;margin:auto!important}
+body.shell-unified .global-footer-brand img{width:260px!important;height:52px!important;max-width:100%!important}
+body.shell-unified .global-footer-brand p{max-width:310px!important;font-size:17px!important;line-height:1.85!important;margin:22px 0 0!important}
+body.shell-unified .global-footer-links,body.shell-unified .global-footer-contact{padding:0 0 0 12%!important;border-left:1px solid #ffffff25!important;border-top:0!important;margin:0!important}
+body.shell-unified .global-footer-links h2,body.shell-unified .global-footer-contact h2{font-size:17px!important;line-height:1.5!important;margin:0 0 20px!important;letter-spacing:.08em!important}
+body.shell-unified .global-footer-links nav{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:16px 24px!important}
+body.shell-unified .global-footer-links a{font-size:17px!important;line-height:1.5!important}
+body.shell-unified .global-footer-contact address{font-size:16px!important;line-height:1.85!important}
+body.shell-unified .global-footer-phone{font-size:24px!important}
+body.shell-unified .global-footer-line{min-width:210px!important;min-height:48px!important;font-size:17px!important}
+body.shell-unified .global-footer-bottom{width:min(1320px,88%)!important;max-width:1320px!important;padding:24px 0!important;font-size:13px!important;line-height:1.6!important;margin:auto!important}
+@media(min-width:821px) and (max-width:1200px){
+body.shell-unified .global-header{grid-template-columns:205px minmax(0,1fr) 132px!important;gap:16px!important;padding-inline:24px!important}
+body.shell-unified .global-brand,body.shell-unified .global-brand img{width:200px!important;height:40px!important}
+body.shell-unified .global-header>nav{gap:12px!important}
+body.shell-unified .global-header nav>a,body.shell-unified .global-treatment-trigger{font-size:14px!important}
+body.shell-unified .global-booking{min-width:132px!important;font-size:14px!important}
+}
+@media(max-width:820px){
+body.shell-unified .global-header{height:76px!important;min-height:76px!important;grid-template-columns:32px minmax(0,1fr) 104px!important;gap:10px!important;padding:0 16px!important}
+body.shell-unified .global-brand,body.shell-unified .global-brand img{width:175px!important;height:35px!important}
+body.shell-unified .global-booking{min-width:104px!important;min-height:40px!important;font-size:12px!important;padding:6px 8px!important}
+body.shell-unified .global-header>nav{top:76px!important;height:calc(100dvh - 76px)!important;padding:24px!important;gap:8px!important}
+body.shell-unified .global-header nav>a,body.shell-unified .global-treatment-trigger{font-size:19px!important;min-height:48px!important}
+body.shell-unified .global-treatment{height:auto!important}
+body.shell-unified .global-footer-main{display:grid!important;grid-template-columns:1fr!important;gap:32px!important;padding:44px 0 36px!important;min-height:0!important}
+body.shell-unified .global-footer-brand img{width:240px!important;height:48px!important}
+body.shell-unified .global-footer-brand p{font-size:16px!important}
+body.shell-unified .global-footer-links,body.shell-unified .global-footer-contact{grid-column:auto!important;padding:28px 0 0!important;border-left:0!important;border-top:1px solid #ffffff25!important}
+body.shell-unified .global-footer-bottom{display:block!important;font-size:12px!important;padding:20px 0!important}
+body.shell-unified .global-footer-bottom p+p{margin-top:8px!important}
+}
+body.shell-unified :is(.global-booking,.global-footer-line){gap:8px!important}
+body.shell-unified :is(.global-booking,.global-footer-line) .rd-line-mark{display:inline-grid!important;place-items:center!important;flex:0 0 26px!important;width:26px!important;height:26px!important;margin:0!important;border-radius:50%!important;background:#fff!important;color:#269546!important;font:700 7px/1 sans-serif!important;letter-spacing:0!important}
+@media(max-width:820px){body.shell-unified .global-booking .rd-line-mark{width:20px!important;height:20px!important;flex-basis:20px!important;font-size:6px!important}}
+html:has(body.shell-unified){overflow-y:scroll;scrollbar-gutter:stable}
+body.shell-unified{margin:0!important}
+body.shell-unified .global-footer{font-size:17px!important;line-height:1.8!important;letter-spacing:normal!important}
+body.shell-unified .global-footer-main{height:300px!important;min-height:300px!important;box-sizing:border-box!important}
+body.shell-unified .global-footer-bottom{height:72px!important;box-sizing:border-box!important}
+body.shell-unified .global-footer-bottom p{font-size:13px!important;line-height:1.6!important;margin:0!important}
+@media(max-width:820px){
+body.shell-unified .global-footer-main{height:730px!important;min-height:730px!important}
+body.shell-unified .global-footer-bottom{height:88px!important}
+body.shell-unified .global-footer-bottom p{font-size:12px!important}
+body.shell-unified .global-footer-bottom p+p{margin-top:8px!important}
+}

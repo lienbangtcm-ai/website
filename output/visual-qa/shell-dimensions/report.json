@@ -1,0 +1,1304 @@
+[
+  {
+    "route": "about-lienbang",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "acupuncture",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "services",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/allergic-rhinitis",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/constipation",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/cough",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/de-quervain",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/diarrhea",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/fatigue",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/frozen-shoulder",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/gerd",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/insomnia",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/knee-pain",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/low-back-pain",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/menstrual-pain",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/neck-shoulder-pain",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/plantar-heel-pain",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/sciatica",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/tennis-elbow",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/tsai-ru-hui",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/zhang-you-ming",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/zhang-yu",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "埋線",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "浮針",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "美顏針",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "針刀",
+    "width": 1440,
+    "header": {
+      "w": 1425,
+      "h": 96
+    },
+    "footer": {
+      "w": 1425,
+      "h": 372
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "about-lienbang",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "acupuncture",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "services",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/allergic-rhinitis",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/constipation",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/cough",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/de-quervain",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/diarrhea",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/fatigue",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/frozen-shoulder",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/gerd",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/insomnia",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/knee-pain",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/low-back-pain",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/menstrual-pain",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/neck-shoulder-pain",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/plantar-heel-pain",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/sciatica",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/tennis-elbow",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/tsai-ru-hui",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/zhang-you-ming",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/zhang-yu",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "埋線",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "浮針",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "美顏針",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "針刀",
+    "width": 768,
+    "header": {
+      "w": 753,
+      "h": 76
+    },
+    "footer": {
+      "w": 753,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "about-lienbang",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "acupuncture",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "pulse-diagnosis",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "services",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/allergic-rhinitis",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/constipation",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/cough",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/de-quervain",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/diarrhea",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/fatigue",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/frozen-shoulder",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/gerd",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/insomnia",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/knee-pain",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/low-back-pain",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/menstrual-pain",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/neck-shoulder-pain",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/plantar-heel-pain",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/sciatica",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "symptoms/tennis-elbow",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/tsai-ru-hui",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/zhang-you-ming",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "team/zhang-yu",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "埋線",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "浮針",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "美顏針",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  },
+  {
+    "route": "針刀",
+    "width": 390,
+    "header": {
+      "w": 375,
+      "h": 76
+    },
+    "footer": {
+      "w": 375,
+      "h": 818
+    },
+    "overflow": false,
+    "same": true
+  }
+]
