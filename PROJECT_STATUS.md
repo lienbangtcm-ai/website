@@ -96,3 +96,6 @@
 
 ### 關於頁文案精簡
 依使用者確認，移除主視覺重複介紹與英文小標，故事合併為一段並保留台大相識及兩種專業背景；四項理念各留一句，時間軸保留照片與事件名稱，團隊介紹縮短為一句。保留原照片、重要背景、較大的桌面字體及預約入口。1440/768/390px 三組瀏覽器檢查通過，完整前後截圖分別位於 output/visual-qa/about-desktop-type 與 about-concise，後者 report.json 無失敗。舊 /review/about-update/ 為前一輪排版對照，最新文案請看 /about-lienbang/?revision=concise-copy。正式 WordPress 未修改。
+
+### 關於頁連續排版調整
+依使用者要求減少四格切割與空虛感：故事、理念、歷程與團隊改用連續米白背景，移除理念直線，縮減區塊留白與首屏高度；理念標題改置於內容上方，避免短句落字。團隊圖片改為主次拼排，保留全部四張素材，醫師原照使用 contain 避免頭部裁切。1440/768/390px 三組檢查通過，修正前 about-concise、修正後 about-flow-final 截圖與 report.json 留在 output/visual-qa。預覽 /about-lienbang/?revision=continuous-flow。未改正式 WordPress。
