@@ -1,0 +1,133 @@
+:root{--dp-coffee:#4b2f1f;--dp-dark:#332015;--dp-ink:#1d1612;--dp-cream:#f6efe7;--dp-paper:#fffdf9;--dp-line:#e3d7c8;--dp-gold:#9a7356;--dp-muted:#6f6258;--dp-green:#239745}
+*{box-sizing:border-box}
+body{margin:0;background:#f1efeb;color:var(--dp-ink);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+.dp-page{width:min(1440px,calc(100% - 34px));margin:0 auto 24px;background:var(--dp-paper);box-shadow:0 14px 42px rgba(58,38,25,.08)}
+.dp-page a{text-decoration:none;color:inherit}
+.dp-wrap{width:calc(100% - 56px);margin:auto}
+
+/* HERO */
+.dp-hero{position:relative;overflow:hidden;background:#f7f2ea;border-bottom:1px solid #eadfd1}
+.dp-hero-grid{display:grid;grid-template-columns:43% 57%;min-height:405px}
+.dp-hero-copy{position:relative;z-index:3;display:flex;flex-direction:column;justify-content:center;padding:34px 42px 34px 64px;background:linear-gradient(90deg,rgba(249,245,238,.98) 0%,rgba(249,245,238,.96) 74%,rgba(249,245,238,.52) 100%)}
+.dp-kicker{margin:0 0 12px;color:#684735;font:500 13px/1 Georgia,"Times New Roman",serif;letter-spacing:.22em}
+.dp-hero h1{margin:0;color:#0f0d0c;font:700 clamp(52px,5vw,76px)/1.08 "Noto Serif TC","PMingLiU",serif;letter-spacing:.03em}
+.dp-role{margin:12px 0 0;color:#2f241d;font:700 20px/1.55 "Noto Serif TC","PMingLiU",serif;letter-spacing:.04em}
+.dp-divider{width:30px;height:1px;margin:17px 0;background:#8d664c}
+.dp-intro{max-width:530px;margin:0;color:#66584e;font-size:15px;line-height:1.9}
+.dp-tags{display:none}
+.dp-actions{display:flex;gap:12px;margin-top:20px}
+.dp-btn{display:inline-flex;min-height:43px;align-items:center;justify-content:center;padding:0 22px;border-radius:999px;font-size:13px;font-weight:800}
+.dp-btn.primary{background:var(--dp-coffee);color:#fff}
+.dp-btn.secondary{border:1px solid #8f6a50;background:#fffaf5;color:var(--dp-coffee)}
+.dp-hero-media{position:relative;min-height:405px;overflow:hidden;background:#eadfd2}
+.dp-hero-media:before{display:none!important;content:none!important}
+.dp-hero-media img{position:absolute;z-index:2;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 28%;filter:none}
+.dp-hero-aside{position:absolute;z-index:4;right:0;top:0;bottom:0;width:132px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(180deg,rgba(77,45,28,.94),rgba(48,28,18,.98));color:#fff}
+.dp-hero-aside .zh{writing-mode:vertical-rl;text-orientation:upright;font:500 15px/2 "Noto Serif TC","PMingLiU",serif;letter-spacing:.12em}
+.dp-hero-aside i{display:block;width:1px;height:36px;margin:14px 0;background:rgba(255,255,255,.45)}
+.dp-hero-aside .en{writing-mode:vertical-rl;color:rgba(255,255,255,.72);font:500 9px/1.5 Georgia,serif;letter-spacing:.13em}
+
+/* 3 INFO CARDS */
+.dp-summary{padding:12px 0 8px;background:#fff}
+.dp-summary-grid{display:grid;grid-template-columns:1fr 1.06fr 1.28fr;gap:10px}
+.dp-summary-card{min-height:178px;padding:18px 22px;border:1px solid #e8ddd0;border-radius:9px;background:linear-gradient(180deg,#fffdfa,#fbf7f0)}
+.dp-summary-head{display:flex;align-items:center;gap:12px;margin-bottom:11px}
+.dp-summary-icon{display:grid;width:44px;height:44px;place-items:center;flex:0 0 44px;border:1.4px solid #9c7658;border-radius:50%;color:#6a4937;font:700 16px/1 Georgia,serif}
+.dp-summary-card h2{margin:0;color:#261c16;font:700 22px/1.2 "Noto Serif TC","PMingLiU",serif;letter-spacing:.04em}
+.dp-summary-card small{display:block;margin-top:4px;color:#916e55;font:600 9px/1.2 Georgia,serif;letter-spacing:.2em}
+.dp-checks{display:grid;gap:5px;margin:0;padding:0;list-style:none}
+.dp-checks li{position:relative;padding-left:19px;color:#5d4d43;font-size:13px;line-height:1.55}
+.dp-checks li:before{content:"✓";position:absolute;left:0;color:#6d4d39;font-weight:800}
+.dp-booking-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.dp-booking-grid a{display:flex;min-height:100px;flex-direction:column;align-items:center;justify-content:center;gap:7px;border:1px solid #d9c7b5;border-radius:7px;background:#fff;color:#422c1e;text-align:center;font-size:12px;font-weight:800}
+.dp-booking-grid b{display:grid;min-width:34px;height:34px;padding:0 5px;place-items:center;border-radius:50%;font-size:15px}
+.dp-booking-grid span{line-height:1.4}
+
+/* SYMPTOMS + PROFILE */
+.dp-main{padding:4px 0 10px;background:#fff}
+.dp-main-grid{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:14px;align-items:start}
+.dp-section-head{display:flex;align-items:end;justify-content:space-between;gap:18px;margin:0 0 10px}
+.dp-section-head h2{margin:0;color:#16110d;font:700 27px/1.2 "Noto Serif TC","PMingLiU",serif;letter-spacing:.04em}
+.dp-section-head small{margin-left:10px;color:#8d6a51;font:600 9px/1 Georgia,serif;letter-spacing:.2em}
+.dp-symptoms{display:grid;grid-template-columns:repeat(6,1fr);gap:7px}
+.dp-symptom{overflow:hidden;border:1px solid #ddd0c1;border-radius:7px;background:#fff}
+.dp-symptom img{display:block;width:100%;aspect-ratio:1.38/1;object-fit:cover;background:#eee5da}
+.dp-symptom span{display:flex;min-height:33px;align-items:center;justify-content:center;gap:4px;padding:5px 7px;color:#38271d;font-size:11.5px;font-weight:800;text-align:center}
+.dp-symptom span:after{content:"›";color:#826249;font-size:15px}
+.dp-symptom.plain span:after{content:""}
+.dp-profile-card{overflow:hidden;border:1px solid #e5d9cb;border-radius:8px;background:linear-gradient(180deg,#fffdf9,#f9f4ed)}
+.dp-profile-card-head{display:flex;align-items:end;gap:10px;padding:10px 14px 8px}
+.dp-profile-card-head h3{order:1;margin:0;color:#1f1712;font:700 24px/1.2 "Noto Serif TC","PMingLiU",serif}
+.dp-profile-card-head small{order:2;margin:0 0 2px;color:#8e6a51;font:600 9px/1 Georgia,serif;letter-spacing:.18em}
+.dp-profile-body{display:grid;grid-template-columns:126px 1fr;gap:12px;padding:0 14px 12px}
+.dp-avatar{margin:0;overflow:hidden;border-radius:5px;background:#eadfd2}
+.dp-avatar img{display:block;width:100%;height:164px;object-fit:cover;object-position:center 12%}
+.dp-profile-list{margin:6px 0 0;padding:0 0 0 17px;color:#4d3b30;font-size:11.5px;line-height:1.75}
+.dp-profile-sign{border-top:1px solid #dfd2c3;margin:0 14px;padding:10px 0 11px;color:#6b594d;font:500 11px/1.7 "Noto Serif TC","PMingLiU",serif;text-align:center}
+.dp-profile-actions{display:none}
+
+/* BOTTOM */
+.dp-bottom{position:relative;overflow:hidden;background:linear-gradient(90deg,rgba(74,44,28,.96),rgba(53,31,20,.99)),url("/assets/clinic-photos/home-hero-reception-v2.png") center 56%/cover no-repeat;color:#fff}
+.dp-bottom-inner{position:relative;z-index:1;min-height:74px;display:flex;align-items:center;justify-content:space-between;gap:26px}
+.dp-bottom-copy strong{display:block;font:500 20px/1.35 "Noto Serif TC","PMingLiU",serif;letter-spacing:.12em}
+.dp-bottom-copy small{display:block;margin-top:5px;color:rgba(255,255,255,.63);font:500 9px/1 Georgia,serif;letter-spacing:.18em}
+.dp-bottom-actions{display:flex;gap:10px}
+.dp-bottom-actions a{display:inline-flex;min-height:40px;align-items:center;justify-content:center;padding:0 19px;border-radius:999px;background:#fff;color:#4b3325;font-size:12px;font-weight:800}
+.dp-bottom-actions a.line{background:var(--dp-green);color:#fff}
+
+/* PHONE */
+@media(max-width:800px){
+  body{background:#fff}
+  .dp-page{width:100%;margin:0;box-shadow:none}
+  .dp-wrap{width:calc(100% - 28px)}
+  .dp-hero-grid{grid-template-columns:1fr}
+  .dp-hero-media{order:1;min-height:305px}
+  .dp-hero-media img{inset:0;width:100%;height:100%;object-fit:cover;object-position:center 24%}
+  .dp-hero-aside{width:58px}.dp-hero-aside .zh{font-size:11px;line-height:1.8}.dp-hero-aside .en{display:none}.dp-hero-aside i{height:24px;margin:10px 0}
+  .dp-hero-copy{order:2;padding:24px 20px 28px}
+  .dp-kicker{font-size:9px;margin-bottom:8px}
+  .dp-hero h1{font-size:39px}
+  .dp-role{font-size:15px;margin-top:8px}
+  .dp-divider{margin:13px 0}
+  .dp-intro{font-size:13px;line-height:1.7}
+  .dp-actions{margin-top:17px}.dp-btn{flex:1;padding:0 10px;font-size:11px}
+  .dp-summary{padding:10px 0}
+  .dp-summary-grid{grid-template-columns:1fr;gap:8px}
+  .dp-summary-card{min-height:0;padding:16px}
+  .dp-summary-card h2{font-size:19px}
+  .dp-summary-icon{width:38px;height:38px;flex-basis:38px;font-size:13px}
+  .dp-booking-grid a{min-height:78px;font-size:11px}
+  .dp-main{padding:4px 0 20px}
+  .dp-main-grid{grid-template-columns:1fr;gap:12px}
+  .dp-section-head h2{font-size:25px}
+  .dp-symptoms{grid-template-columns:repeat(2,1fr);gap:7px}
+  .dp-symptom span{font-size:11px;min-height:34px}
+  .dp-profile-card{margin-top:4px}
+  .dp-profile-body{grid-template-columns:110px 1fr}
+  .dp-avatar img{height:145px}
+  .dp-profile-card-head h3{font-size:21px}
+  .dp-profile-list{font-size:11px}
+  .dp-bottom-inner{min-height:0;display:block;padding:20px 0}
+  .dp-bottom-copy strong{font-size:18px}
+  .dp-bottom-actions{margin-top:13px}.dp-bottom-actions a{flex:1;padding:0 8px}
+}
+/* LB_SPACING_CROP_FIX_20260929 */
+.dp-hero-grid,.dp-hero-media{min-height:500px!important}
+.dp-hero-copy{padding-top:54px!important;padding-bottom:54px!important}
+.dp-hero-media img{object-fit:cover!important;object-position:center 16%!important;filter:none!important}
+.dp-summary{padding-top:22px!important;padding-bottom:18px!important}
+.dp-summary-card{min-height:205px!important;padding-top:26px!important;padding-bottom:26px!important}
+.dp-main{padding-top:28px!important;padding-bottom:42px!important}
+.dp-symptom img{aspect-ratio:1.28/1!important;object-fit:cover!important;object-position:center 42%!important}
+.dp-avatar img{height:185px!important;object-position:center 10%!important}
+.dp-bottom-inner{min-height:96px!important}
+@media(max-width:800px){
+ .dp-hero-media{min-height:380px!important}
+ .dp-hero-media img{object-position:center 14%!important}
+ .dp-hero-copy{padding-top:34px!important;padding-bottom:38px!important}
+ .dp-summary{padding-top:16px!important;padding-bottom:14px!important}
+ .dp-summary-card{min-height:0!important;padding-top:22px!important;padding-bottom:22px!important}
+ .dp-main{padding-top:24px!important;padding-bottom:34px!important}
+ .dp-avatar img{height:165px!important}
+ .dp-bottom-inner{padding-top:26px!important;padding-bottom:26px!important}
+}

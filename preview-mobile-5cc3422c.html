@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>連邦中醫｜手機新版預覽 5cc3422c</title>
+<style>
+html,body{margin:0;height:100%;background:#f5f0e8;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft JhengHei",sans-serif}
+#bar{height:44px;display:flex;align-items:center;gap:10px;padding:0 14px;background:#2f241e;color:#fff;font-size:13px;box-sizing:border-box}
+#bar strong{font-size:14px}#bar span{opacity:.72}#bar a{margin-left:auto;color:#fff;text-decoration:none;border:1px solid rgba(255,255,255,.35);padding:5px 10px;border-radius:999px}
+#frame{display:block;width:100%;height:calc(100% - 44px);border:0;background:#fff}
+#loading{position:fixed;inset:44px 0 0;display:grid;place-items:center;background:#f7f2e9;color:#4a3028;font-weight:700;z-index:9}
+#error{max-width:680px;padding:24px;line-height:1.7}
+</style>
+</head>
+<body>
+<div id="bar"><strong>連邦中醫・最新 GitHub 預覽</strong><span>sitewide-treatment-dropdown-20260918</span><a href="https://github.com/lienbangtcm-ai/website/pull/1" target="_blank" rel="noopener">PR #1</a></div>
+<div id="loading">載入最新網站預覽…</div>
+<iframe id="frame" title="連邦中醫網站預覽" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+<script>
+const OWNER='lienbangtcm-ai';
+const REPO='website';
+const BRANCH='sitewide-treatment-dropdown-20260918';
+const SITE_ROOT='output/site-preview';
+const RAW='https://raw.githubusercontent.com/'+OWNER+'/'+REPO+'/'+BRANCH+'/'+SITE_ROOT;
+const ASSET='https://raw.githack.com/'+OWNER+'/'+REPO+'/'+BRANCH+'/'+SITE_ROOT;
+const CACHE_BUST=Date.now().toString();
+const frame=document.getElementById('frame');
+const loading=document.getElementById('loading');
+
+function normalizePath(p){
+  if(!p || p==='/') return '/index.html';
+  p=p.split('#')[0].split('?')[0];
+  try{p=decodeURIComponent(p)}catch(e){}
+  if(!p.startsWith('/')) p='/'+p;
+  if(p.endsWith('/')) p+='index.html';
+  else if(!/\.[a-z0-9]+$/i.test(p)) p+='/index.html';
+  return p;
+}
+function absAsset(u){
+  if(!u) return u;
+  if(/^https?:\/\//i.test(u)||u.startsWith('data:')||u.startsWith('#')||u.startsWith('mailto:')||u.startsWith('tel:')) return u;
+  if(u.startsWith('/')) return ASSET+u;
+  return u;
+}
+async function inlineCss(html){
+  const re=/<link\b([^>]*rel=["']stylesheet["'][^>]*)>/gi;
+  const matches=[...html.matchAll(re)];
+  for(const m of matches){
+    const tag=m[0];
+    const hm=tag.match(/href=["']([^"']+)["']/i);
+    if(!hm) continue;
+    let href=hm[1];
+    let url;
+    if(/^https?:\/\//i.test(href)) url=href;
+    else if(href.startsWith('/')) url=RAW+href;
+    else url=RAW+'/'+href.replace(/^\.\//,'');
+    try{
+      let css=await fetch(url+(url.includes('?')?'&':'?')+'cb='+CACHE_BUST,{cache:'no-store'}).then(r=>{if(!r.ok) throw new Error(r.status); return r.text()});
+      css=css
+        .replace(/url\(\s*(['"]?)\/(?!\/)([^)'"]+)\1\s*\)/g,(x,q,p)=>'url("'+ASSET+'/'+p+'")')
+        .replace(/@import\s+(['"])\/(?!\/)([^'"]+)\1/g,(x,q,p)=>'@import "'+ASSET+'/'+p+'"');
+      html=html.replace(tag,'<style data-preview-inline="'+href.replace(/"/g,'&quot;')+'">'+css+'</style>');
+    }catch(e){
+      html=html.replace(tag,tag.replace(href,absAsset(href)));
+    }
+  }
+  return html;
+}
+async function loadPage(path){
+  loading.style.display='grid';
+  const file=normalizePath(path);
+  const url=RAW+encodeURI(file).replace(/%2F/gi,'/');
+  try{
+    let html=await fetch(url+(url.includes('?')?'&':'?')+'cb='+CACHE_BUST,{cache:'no-store'}).then(r=>{if(!r.ok) throw new Error('HTTP '+r.status); return r.text()});
+    html=await inlineCss(html);
+    html=html
+      .replace(/\s(src|poster)=["']\/([^"']*)["']/gi,(m,a,p)=>' '+a+'="'+ASSET+'/'+p+'"')
+      .replace(/\ssrcset=["']([^"']+)["']/gi,(m,v)=>{
+        const fixed=v.split(',').map(x=>{const parts=x.trim().split(/\s+/); if(parts[0].startsWith('/')) parts[0]=ASSET+parts[0]; return parts.join(' ')}).join(', ');
+        return ' srcset="'+fixed+'"';
+      })
+      .replace(/url\(\s*(['"]?)\/(?!\/)([^)'"]+)\1\s*\)/g,(x,q,p)=>'url("'+ASSET+'/'+p+'")');
+    const bridge='<script>(function(){document.addEventListener("click",function(e){var a=e.target.closest("a");if(!a)return;var h=a.getAttribute("href");if(!h)return;if(h.charAt(0)==="/"&&!h.startsWith("//")){e.preventDefault();parent.postMessage({type:"lienbang-preview-nav",href:h},"*");}});})();<\/script>';
+    html=html.replace(/<\/body>/i,bridge+'</body>');
+    frame.srcdoc=html;
+    history.replaceState(null,'','?p='+encodeURIComponent(path||'/'));
+    loading.style.display='none';
+  }catch(e){
+    loading.innerHTML='<div id="error"><strong>這個預覽頁目前無法載入。</strong><br>'+String(e)+'<br><br>GitHub 原始檔：<a target="_blank" href="'+url+'">'+url+'</a></div>';
+  }
+}
+window.addEventListener('message',e=>{
+  if(e.data&&e.data.type==='lienbang-preview-nav') loadPage(e.data.href);
+});
+const qs=new URLSearchParams(location.search);
+loadPage(qs.get('p')||'/');
+</script>
+</body>
+</html>

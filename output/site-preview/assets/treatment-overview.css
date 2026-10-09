@@ -13,3 +13,60 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.to-button,.to-service-card,.to-selfpay-card{transition:none}}
 /* Focused treatment chooser: one hero followed by six direct destinations. */
 @media(min-width:761px){.to-hero,.to-hero-inner{min-height:440px}.to-hero-copy{padding:38px 0}.to-service-strip{padding:22px 0 30px}.to-service-card img{height:158px}}
+/* LB_TREATMENT_MOBILE_POLISH_20260921 */
+@media(max-width:760px){
+  .to-hero{min-height:590px}
+  .to-hero-photo{height:46%;object-position:64% center}
+  .to-hero-wash{background:linear-gradient(#f5efe6 0%,#f5efe6 54%,rgba(245,239,230,.78) 63%,rgba(245,239,230,.06) 84%,rgba(40,24,15,.12) 100%)}
+  .to-hero-inner{min-height:590px}
+  .to-hero-copy{padding:32px 2px 0}
+  .to-eyebrow{margin-bottom:10px}
+  .to-hero h1{font-size:40px}
+  .to-lead{margin-top:9px;font-size:20px;line-height:1.5}
+  .to-summary{margin-top:10px;font-size:13.5px;line-height:1.7}
+  .to-button{min-height:43px;margin-top:17px}
+  .to-hero-vertical{display:none}
+  .to-service-strip{padding:18px 0 24px}
+  .to-service-grid{gap:8px}
+  .to-service-card{padding-bottom:38px;border-radius:44px 44px 7px 7px}
+  .to-service-card img{height:116px}
+  .to-service-card h2{margin-top:10px;font-size:15.5px}
+  .to-service-card p{margin-top:4px;font-size:11px;line-height:1.45}
+  .to-arrow{bottom:8px;width:25px;height:25px}
+  .to-intro{padding:52px 0 32px}
+  .to-path-media{height:245px}
+  .to-path-copy{padding:34px 18px 42px}
+  .to-path h2{font-size:30px}
+  .to-path-lead{font-size:18px}
+  .to-selfpay{padding:54px 0}
+  .to-selfpay-card{min-height:138px;padding:18px}
+  .to-selfpay-card img{width:96px;height:96px}
+  .to-visit{padding:52px 0}
+  .to-step{min-height:116px;padding:22px 24px}
+  .to-cta .to-wrap{min-height:300px;gap:22px}
+}
+/* LB_SPACING_CROP_FIX_20260929 */
+.to-hero,.to-hero-inner{min-height:560px!important}
+.to-hero-copy{padding-top:70px!important;padding-bottom:70px!important}
+.to-hero-photo{object-position:center 44%!important}
+.to-service-strip{padding-top:38px!important;padding-bottom:44px!important}
+.to-service-card img{height:185px!important;object-position:center 42%!important}
+.to-intro{padding-top:100px!important;padding-bottom:64px!important}
+.to-path,.to-path-media{min-height:600px!important}
+.to-path-copy{padding-top:88px!important;padding-bottom:88px!important}
+.to-path-media img{object-position:center 45%!important}
+.to-selfpay{padding-top:88px!important;padding-bottom:88px!important}
+.to-visit{padding-top:82px!important;padding-bottom:82px!important}
+@media(max-width:760px){
+ .to-hero,.to-hero-inner{min-height:680px!important}
+ .to-hero-photo{height:49%!important;object-position:62% 44%!important}
+ .to-hero-copy{padding-top:42px!important;padding-bottom:20px!important}
+ .to-service-strip{padding-top:26px!important;padding-bottom:32px!important}
+ .to-service-card img{height:145px!important}
+ .to-intro{padding-top:68px!important;padding-bottom:46px!important}
+ .to-path{min-height:0!important}
+ .to-path-media{height:310px!important;min-height:310px!important}
+ .to-path-copy{padding-top:46px!important;padding-bottom:56px!important}
+ .to-selfpay{padding-top:64px!important;padding-bottom:64px!important}
+ .to-visit{padding-top:62px!important;padding-bottom:62px!important}
+}
