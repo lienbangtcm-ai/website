@@ -102,3 +102,8 @@
 
 ### 關於頁擴充內容版本
 使用者認為緊湊版仍空虛，明確要求放大每段並增加文字與排版層次。本次主視覺 520px、故事照片 420px，故事增為兩段；理念改兩欄圖示與段落、手機單欄；歷程圖片放大至 140px 並補說明；團隊照片群 444px，補合作介紹。所有背景沿用現有內容，沒有新增年份、資歷或療效承諾。1440/768/390px 檢查通過，證據 output/visual-qa/about-expanded/report.json 與完整截圖；修正前 about-flow-final。預覽 /about-lienbang/?revision=expanded-story。正式 WordPress 未修改。
+
+### 全站套用已確認的擴充圖文風格
+使用者確認關於頁 expanded-story，要求每頁套用。新增 editorial-expanded-20261009.css，套用全部 31 個可操作內容頁及其 dist 副本（58 個 HTML 檔）：主視覺 520px、主要段落約 19px、主區塊標題約 40px、區塊留白 64px；首頁與服務卡片改桌面三欄、症狀列表三欄，保留手機雙欄／單欄適配。醫師原照 contain 避免裁切；脈診理念照片放大，療程流程與 FAQ 增加閱讀空間。沿用既有較完整醫療內容，沒有新增療效說法或刪除功能。關於頁已確認版保留。
+八個主頁 1440/768/390px 共 24 組檢查通過，證據 output/visual-qa/sitewide-expanded-final；前一輪 sitewide-expanded。前後桌面／手機對照 /review/expanded/，較早的 /review/ 不代表最新實作。其餘子頁另執行 click-regression.cjs。第一次並行測試曾有 localhost 短暫拒絕連線，改單獨重跑完成後以 click-regression.json 為準。未修改正式 WordPress、不合併 main。
+驗收完成：158 個內部連結實際點擊無 404；53 個其他本機頁（含 dist 與對照頁）390px 無水平溢出。tools/expanded-desktop-qa.cjs 另外對全部 31 個實際內容頁保存 1440px 截圖，無水平溢出，report 位於 output/visual-qa/sitewide-subpages/report.json。八主頁仍以完整圖片／選單／FAQ／H1 檢查為準，子頁桌面檢查僅代表溢出與截圖驗證，未宣稱所有子頁像素級還原。

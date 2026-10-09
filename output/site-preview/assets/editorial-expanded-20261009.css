@@ -1,0 +1,73 @@
+/* Clinic-owner-approved expanded editorial rhythm, shared across local pages. */
+.editorial-expanded{background:#fffdf9;color:#33261e}
+.editorial-expanded main p,.editorial-expanded main li{line-height:1.9}
+.editorial-expanded main :is(a,summary):focus-visible{outline:2px solid #a87955;outline-offset:4px}
+@media(min-width:1024px){
+.editorial-expanded main:not(.lb-about) :is(p,li){font-size:19px!important}
+.editorial-expanded main:not(.lb-about) :is(h2){font-size:40px!important;line-height:1.4!important}
+.editorial-expanded main:not(.lb-about) :is(h3){font-size:24px!important;line-height:1.5!important}
+.editorial-expanded :is(.to-hero,.pd-hero,.team-hero,.lbsym-hero,.lbnr-hero){min-height:520px!important;height:auto!important}
+.editorial-expanded :is(.to-hero-copy,.pd-hero-content,.lbnr-hero__content){padding-top:54px!important;padding-bottom:54px!important}
+.editorial-expanded :is(.to-summary,.pd-intro,.rd-hero-intro){max-width:570px!important}
+.editorial-expanded :is(.to-service-strip,.lbnr-section,.lbsym-block,.team-list,.lb-section){padding-top:64px!important;padding-bottom:64px!important}
+.editorial-expanded .to-service-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:28px!important}
+.editorial-expanded .to-service-card img{height:240px!important;aspect-ratio:auto!important}
+.editorial-expanded .to-service-card{padding-bottom:28px!important}
+.editorial-expanded .to-service-card h2{font-size:27px!important;margin:22px 18px 8px!important}
+.editorial-expanded .to-service-card p{margin-inline:18px!important}
+.editorial-expanded .lbsym-list{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:24px!important}
+.editorial-expanded .lbsym-block{grid-template-columns:23% minmax(0,1fr)!important}
+.editorial-expanded .symptom-master-card img{aspect-ratio:1.35!important}
+.editorial-expanded .symptom-master-card :is(h3,strong){font-size:24px!important}
+.editorial-expanded .symptom-master-card :is(p,small){font-size:17px!important}
+.editorial-expanded .doctor-copy p{font-size:20px!important}
+.editorial-expanded .doctor-copy h2{font-size:44px!important}
+.editorial-expanded .doctor-profile{gap:6%!important;margin-bottom:72px!important;padding-bottom:72px!important}
+.editorial-expanded .doctor-profile .doctor-photo{aspect-ratio:.95!important}
+.editorial-expanded .doctor-profile .doctor-photo img{object-fit:contain!important;transform:none!important}
+.editorial-expanded .pd-benefits{padding:38px 0!important}
+.editorial-expanded .pd-benefits article{padding:18px 24px!important;border:0!important}
+.editorial-expanded .rd-approach{padding:54px 6%!important;grid-template-columns:42% 36% 22%!important}
+.editorial-expanded .rd-approach figure{height:420px!important}
+.editorial-expanded .rd-approach blockquote{font-size:24px!important;padding:26px!important}
+.editorial-expanded .pd-audience{padding:54px 0!important}
+.editorial-expanded .pd-audience-list{grid-template-columns:1fr!important;gap:24px!important}
+.editorial-expanded .pd-audience-list li{padding:26px 18px!important;min-height:190px!important}
+.editorial-expanded :is(.lbnr-card,.lb-card){padding:30px!important}
+.editorial-expanded :is(.lbnr-faq summary,.lb-faq summary){font-size:19px!important;padding-top:20px!important;padding-bottom:20px!important}
+.editorial-expanded :is(.rd-booking,.team-cta,.lbnr-final,.lbsym-cta,.lb-cta){padding-top:54px!important;padding-bottom:54px!important}
+.editorial-expanded .showcase{padding-top:64px!important;padding-bottom:64px!important}
+.editorial-expanded .section-intro h2{font-size:40px!important}
+.editorial-expanded .service-cards{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:24px!important}
+.editorial-expanded .service-cards img{height:220px!important}
+.editorial-expanded .service-cards>a{min-height:365px!important}
+.editorial-expanded .service-cards h3{font-size:25px!important}
+.editorial-expanded .service-cards p{font-size:17px!important}
+.editorial-expanded .article-cards h3{font-size:22px!important;line-height:1.6!important}
+.editorial-expanded .article-cards img{height:190px!important}
+.editorial-expanded .article-cards>a{min-height:330px!important}
+.editorial-expanded .lb-article .lb-hero{padding:64px 0!important}
+.editorial-expanded .lb-article .lb-wrap{max-width:1200px;width:88%}
+}
+@media(max-width:1023px){
+.editorial-expanded main:not(.lb-about) :is(p,li){font-size:16px!important;line-height:1.85!important}
+.editorial-expanded :is(.to-service-strip,.lbnr-section,.lbsym-block,.team-list,.lb-section,.showcase){padding-top:38px!important;padding-bottom:38px!important}
+.editorial-expanded .to-service-card h2{font-size:20px!important}
+.editorial-expanded :is(.lbnr-card,.lb-card){padding:22px!important}
+.editorial-expanded .lbnr-paid a p{font-size:15px!important}
+.editorial-expanded .pd-audience-list li{font-size:16px!important}
+.editorial-expanded .symptom-master-card :is(p,small){font-size:14px!important}
+.editorial-expanded .article-cards h3{font-size:16px!important;line-height:1.6!important}
+}
+@media(min-width:1024px){
+.editorial-expanded main:not(.lb-about) :is(.rd-kicker,.to-eyebrow,.team-kicker,.pd-eyebrow,.section-eyebrow,.lbnr-kicker){font-size:12px!important;letter-spacing:.18em}
+.editorial-expanded main:not(.lb-about) :is(.pd-lead,.to-lead,.rd-hero-lead){font-size:28px!important;line-height:1.65!important}
+.editorial-expanded .pd-benefits h2{font-size:27px!important}
+}
+@media(min-width:1024px){
+.preview-article.editorial-expanded .lb-section{padding:64px 0!important}
+.preview-article.editorial-expanded .lb-section :is(p,li){font-size:19px!important;line-height:1.9!important}
+.preview-article.editorial-expanded .lb-section h2{font-size:40px!important;line-height:1.4!important}
+.preview-article.editorial-expanded .lb-section h3{font-size:25px!important}
+.preview-article.editorial-expanded .lb-hero{padding:64px 0!important}
+}

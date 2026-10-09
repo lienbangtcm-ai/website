@@ -1,0 +1,126 @@
+[
+  {
+    "route": "about-lienbang",
+    "overflow": false
+  },
+  {
+    "route": "acupuncture",
+    "overflow": false
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "overflow": false
+  },
+  {
+    "route": "",
+    "overflow": false
+  },
+  {
+    "route": "pulse-diagnosis",
+    "overflow": false
+  },
+  {
+    "route": "services",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/allergic-rhinitis",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/constipation",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/cough",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/de-quervain",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/diarrhea",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/fatigue",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/frozen-shoulder",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/gerd",
+    "overflow": false
+  },
+  {
+    "route": "symptoms",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/insomnia",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/knee-pain",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/low-back-pain",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/menstrual-pain",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/neck-shoulder-pain",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/plantar-heel-pain",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/sciatica",
+    "overflow": false
+  },
+  {
+    "route": "symptoms/tennis-elbow",
+    "overflow": false
+  },
+  {
+    "route": "team",
+    "overflow": false
+  },
+  {
+    "route": "team/tsai-ru-hui",
+    "overflow": false
+  },
+  {
+    "route": "team/zhang-you-ming",
+    "overflow": false
+  },
+  {
+    "route": "team/zhang-yu",
+    "overflow": false
+  },
+  {
+    "route": "埋線",
+    "overflow": false
+  },
+  {
+    "route": "浮針",
+    "overflow": false
+  },
+  {
+    "route": "美顏針",
+    "overflow": false
+  },
+  {
+    "route": "針刀",
+    "overflow": false
+  }
+]

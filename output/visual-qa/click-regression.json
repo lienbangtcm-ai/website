@@ -1086,6 +1086,21 @@
       "h1": 1
     },
     {
+      "route": "review/about-update",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "review/expanded",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "route": "review",
+      "overflow": false,
+      "h1": 1
+    },
+    {
       "route": "symptoms/allergic-rhinitis",
       "overflow": false,
       "h1": 1
