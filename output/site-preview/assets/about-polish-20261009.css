@@ -84,3 +84,24 @@
 .reference-design .lb-about .ab-hero-copy p.ab-hero-sub:after{content:"";display:block;width:28px;height:1px;background:#b88d6c;margin-top:16px}
 
 .reference-design .lb-about .ab-step:nth-child(2) .ab-step-img img{object-position:60% 38%!important}
+/* Desktop reading pass requested by clinic owner. */
+@media(min-width:1024px){
+.reference-design .lb-about .ab-hero-copy p:not(.ab-kicker):not(.ab-hero-sub){font-size:20px!important;line-height:1.9!important}
+.reference-design .lb-about .ab-story-copy p:not(.ab-kicker),.reference-design .lb-about .ab-team-copy p:not(.ab-kicker){font-size:19px!important;line-height:1.9!important}
+.reference-design .lb-about .ab-belief p{font-size:18px!important;line-height:1.85!important}
+.reference-design .lb-about .ab-step p{font-size:17px!important;line-height:1.8!important}
+.reference-design .lb-about .ab-step h3{font-size:20px!important;line-height:1.5!important}
+.reference-design .lb-about .ab-belief h3{font-size:22px!important}
+.reference-design .lb-about .ab-section-title{font-size:36px!important}
+.reference-design .lb-about .ab-beliefs-head .ab-section-title{font-size:32px!important}
+.reference-design .lb-about .ab-btn,.reference-design .lb-about .ab-team-copy a{font-size:17px!important;min-height:48px!important}
+.reference-design .lb-about .ab-hero-copy p.ab-kicker,.reference-design .lb-about .ab-story-copy p.ab-kicker,.reference-design .lb-about .ab-team-copy p.ab-kicker,.reference-design .lb-about .ab-kicker{font-size:13px!important}
+.reference-design .lb-about .ab-story{grid-template-columns:32% 1fr!important;min-height:380px!important}
+.reference-design .lb-about .ab-beliefs{padding:42px 0!important}
+.reference-design .lb-about .ab-belief{padding-inline:16px!important}
+.reference-design .lb-about .ab-journey-grid{grid-template-columns:22% 1fr!important}
+.reference-design .lb-about .ab-journey{padding:42px 0!important}
+.reference-design .lb-about .ab-team{grid-template-columns:26% 1fr!important}
+}
+
+@media(min-width:1024px){.reference-design .lb-about .ab-beliefs-head .ab-section-title{font-size:clamp(24px,2.2vw,32px)!important}}

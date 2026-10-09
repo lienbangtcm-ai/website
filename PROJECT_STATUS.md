@@ -90,3 +90,6 @@
 
 ### 小巨蛋總院門面照片替換
 已依使用者提供的真實門面照，替換關於頁「第一家物理治療所」時間軸圖片為 assets/clinic-photos/ptc-arena-exterior.webp，補正 alt 並調整圓形焦點。保留標題與文字。1440/768/390px 三組檢查通過，證據 output/visual-qa/about-arena-photo/report.json 與同目錄截圖。正式 WordPress 未修改。
+
+### 關於頁桌面文字放大
+依使用者要求，1024px 以上桌面版主視覺內文調為 20px、故事／團隊內文 19px、理念文字 18px、時間軸描述 17px，增加行距並調整文字欄寬與區塊留白。標題與按鈕同步放大，手機保持原閱讀尺寸。1440/768/390px 三組檢查通過，證據 output/visual-qa/about-desktop-type/report.json。
