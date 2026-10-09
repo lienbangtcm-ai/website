@@ -79,3 +79,11 @@
 
 ### 本次 GitHub 同步結果
 程式與驗收資料提交 fd28cac（Refine eight reference pages with local visual QA and review gallery）已成功推送 origin/sitewide-treatment-dropdown-20260918。對照頁 /review/ 已由 Playwright 檢查：8 個頁面、48 張前後截圖全部載入正常。下一次先看 /review/ 與尚未一致清單，再接續替換缺少素材。本段為同步後交接紀錄。
+
+## 2026-10-09 關於連邦頁面專項修正
+- 新增僅作用於 lb-about 的 about-polish-20261009.css，保留原合照、所有故事文字與連結，不影響其他頁面。
+- 統一 #fffdf9／#f8f3eb／#493023 色系，主視覺增加過渡漸層，恢復主標題、副標題與英文標籤層級；核心理念欄加寬，避免單字落行。
+- 修正故事區舊固定高度造成的文字裁切與左右邊界不齊；時間軸使用一致圓圖、下方文字與水平連線；團隊照片等高等寬，手機兩欄。
+- 三輪完整截圖與報告位於 output/visual-qa/about-polish、about-polish-2、about-polish-3；每輪 1440/768/390px 三組檢查通過（H1、圖片、水平溢出、選單/Escape、內部連結狀態）。
+- 最新頁面 /about-lienbang/；前後對照與設計圖疊圖 /review/about-update/；tools/about-qa.cjs 和 about-review.py 可重跑。
+- 仍待素材：合照背景與原參考不同，品牌影片未提供；不新增虛構照片或假的播放功能。未變更正式 WordPress。
