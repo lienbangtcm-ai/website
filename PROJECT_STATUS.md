@@ -99,3 +99,6 @@
 
 ### 關於頁連續排版調整
 依使用者要求減少四格切割與空虛感：故事、理念、歷程與團隊改用連續米白背景，移除理念直線，縮減區塊留白與首屏高度；理念標題改置於內容上方，避免短句落字。團隊圖片改為主次拼排，保留全部四張素材，醫師原照使用 contain 避免頭部裁切。1440/768/390px 三組檢查通過，修正前 about-concise、修正後 about-flow-final 截圖與 report.json 留在 output/visual-qa。預覽 /about-lienbang/?revision=continuous-flow。未改正式 WordPress。
+
+### 關於頁擴充內容版本
+使用者認為緊湊版仍空虛，明確要求放大每段並增加文字與排版層次。本次主視覺 520px、故事照片 420px，故事增為兩段；理念改兩欄圖示與段落、手機單欄；歷程圖片放大至 140px 並補說明；團隊照片群 444px，補合作介紹。所有背景沿用現有內容，沒有新增年份、資歷或療效承諾。1440/768/390px 檢查通過，證據 output/visual-qa/about-expanded/report.json 與完整截圖；修正前 about-flow-final。預覽 /about-lienbang/?revision=expanded-story。正式 WordPress 未修改。
