@@ -39,3 +39,5 @@ body.service-unified .su-hero .su-actions a+a{background:#fffdf9!important;color
 .service-unified .su-related-treatment a{padding:8px 20px;border:1px solid #b68b69;border-radius:999px;color:#825332;text-decoration:none;background:#fffdf9}
 .service-unified .su-related-treatment a[aria-current="page"]{background:#825332;color:#fffdf9}
 @media(max-width:820px){.service-unified .su-related-treatment{font-size:14px;gap:12px}.service-unified .su-related-treatment span{flex-basis:100%;text-align:center}}
+/* Keep legacy self-pay rules from overriding shared booking colors. */
+body.home-system.service-unified :is(.rd-booking,.lbnr-final,.lb-cta) a{background:#269546!important;color:#fff!important;border:0!important;border-radius:999px!important}
