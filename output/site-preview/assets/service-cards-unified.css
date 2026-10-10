@@ -1,0 +1,38 @@
+/* Homepage service cards use the approved treatment overview's exact visual rules. */
+.home-reference-match .services-showcase .showcase-inner{display:block!important;width:92%!important;max-width:1320px!important}
+.home-reference-match .services-showcase .section-intro{display:flex;align-items:center;gap:24px;position:relative;margin-bottom:26px}
+.home-reference-match .services-showcase .section-intro small,.home-reference-match .services-showcase .section-intro i{display:none}
+.home-reference-match .services-showcase .section-intro h2{margin:0!important}
+.home-reference-match .services-showcase .section-intro p{margin:0!important}
+.home-reference-match .services-showcase .section-intro a{position:static!important;margin-left:auto}
+.home-reference-match .service-cards{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:28px!important}
+.home-reference-match .service-cards>a{display:block!important;position:relative!important;min-height:0!important;padding:0 0 28px!important;overflow:hidden;border:1px solid #eee5da!important;border-radius:12px!important;background:#fffdfa!important;text-align:center!important;box-shadow:0 6px 20px rgba(66,41,24,.03)!important;color:#281c15;transition:transform .22s,box-shadow .22s}
+.home-reference-match .service-cards img{display:block!important;width:100%!important;height:220px!important;aspect-ratio:auto!important;object-fit:cover!important;object-position:50% 42%!important;border-radius:0!important}
+.home-reference-match .service-cards h3{padding:0!important;margin:22px 18px 8px!important;font:800 24px/1.4 "Noto Serif TC","Songti TC","PMingLiU",serif!important;white-space:normal!important}
+.home-reference-match .service-cards p{padding:0!important;margin:0 18px!important;font:400 19px/1.8 "Microsoft JhengHei","PingFang TC",sans-serif!important;color:#887b70!important}
+.home-reference-match .service-cards span{display:grid!important;place-items:center!important;position:static!important;transform:none!important;width:34px!important;height:34px!important;margin:15px auto 0!important;border:1px solid #b68b69!important;border-radius:50%!important;font:400 15px/27px "Microsoft JhengHei",sans-serif!important;color:#96603c!important;background:transparent!important}
+.home-reference-match .service-cards>a:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(77,48,31,.11)!important}
+@media(max-width:820px){.home-reference-match .services-showcase .showcase-inner{width:91%!important}.home-reference-match .service-cards{gap:14px!important}.home-reference-match .service-cards>a{padding-bottom:18px!important}.home-reference-match .service-cards img{height:auto!important;aspect-ratio:1.4!important}.home-reference-match .service-cards h3{margin:14px 8px 5px!important;font-size:18px!important;font-weight:700!important}.home-reference-match .service-cards p{margin:0 8px!important;font-size:16px!important;line-height:1.85!important;color:#857970!important}.home-reference-match .services-showcase .section-intro{flex-wrap:wrap;gap:10px}.home-reference-match .services-showcase .section-intro p{display:none}}
+@media(max-width:760px){.home-reference-match .service-cards{grid-template-columns:repeat(2,minmax(0,1fr))!important}.home-reference-match .services-showcase .section-intro a{font-size:13px!important}}
+
+/* Service section heading: one clear title and a single overview link. */
+.home-reference-match .services-showcase .section-intro{display:flex!important;align-items:center!important;justify-content:space-between!important;flex-wrap:nowrap!important;gap:20px!important;margin-bottom:28px!important;padding:0!important;min-height:0!important}
+.home-reference-match .services-showcase .section-intro h2{flex-shrink:0;line-height:1.4!important}
+.home-reference-match .services-showcase .section-intro a{position:static!important;display:block!important;flex-shrink:0;margin:0!important;line-height:1.6!important;text-align:right}
+@media(max-width:760px){.home-reference-match .services-showcase .section-intro{gap:12px!important;margin-bottom:20px!important}.home-reference-match .services-showcase .section-intro a{font-size:12px!important}}
+/* All three homepage sections share the same heading and content alignment. */
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .showcase-inner{display:block!important;width:92%!important;max-width:1320px!important;margin-inline:auto!important}
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro{display:flex!important;align-items:center!important;justify-content:space-between!important;gap:20px!important;flex-wrap:nowrap!important;margin:0 0 28px!important;padding:0!important;min-height:0!important;position:static!important}
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro :is(small,i,p){display:none!important}
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro h2{margin:0!important;font-size:40px!important;line-height:1.4!important;flex-shrink:0}
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro a{position:static!important;margin:0!important;display:block!important;flex-shrink:0;text-align:right;line-height:1.6!important}
+.home-reference-match .service-cards .to-arrow{display:none!important}
+.home-reference-match .service-cards>a:focus-visible{outline:3px solid #b68b69;outline-offset:4px}
+@media(max-width:820px){.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .showcase-inner{width:91%!important}}
+@media(max-width:760px){.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro{gap:12px!important;margin-bottom:20px!important}.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro h2{font-size:24px!important}.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro a{font-size:12px!important}}
+/* Consistent bilingual homepage headings, with overview links on the right. */
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro{display:grid!important;grid-template-columns:1fr auto!important;grid-template-rows:auto auto!important;column-gap:20px!important;row-gap:8px!important;align-items:center!important}
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro small{display:block!important;grid-column:1!important;grid-row:1!important;margin:0!important;font:500 12px/1.5 "Microsoft JhengHei","PingFang TC",sans-serif!important;letter-spacing:.15em!important;color:#b68b69!important}
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro h2{grid-column:1!important;grid-row:2!important}
+.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro a{grid-column:2!important;grid-row:2!important}
+@media(max-width:760px){.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro{column-gap:12px!important;row-gap:6px!important}.home-reference-match :is(.services-showcase,.team-showcase,.article-showcase) .section-intro small{font-size:11px!important}}

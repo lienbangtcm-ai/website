@@ -1,0 +1,6309 @@
+{
+  "visited": [
+    "/",
+    "/about-lienbang/",
+    "/services/",
+    "/pulse-diagnosis/",
+    "/acupuncture/",
+    "/acupuncture-physical-therapy/",
+    "/針刀/",
+    "/美顏針/",
+    "/埋線/",
+    "/symptoms/",
+    "/team/",
+    "/team/zhang-yu/",
+    "/team/tsai-ru-hui/",
+    "/team/zhang-you-ming/",
+    "/symptoms/gerd/",
+    "/symptoms/insomnia/",
+    "/symptoms/allergic-rhinitis/",
+    "/symptoms/neck-shoulder-pain/",
+    "/浮針/",
+    "/symptoms/low-back-pain/",
+    "/symptoms/cough/",
+    "/symptoms/diarrhea/",
+    "/symptoms/constipation/",
+    "/symptoms/menstrual-pain/",
+    "/symptoms/fatigue/",
+    "/symptoms/frozen-shoulder/",
+    "/symptoms/sciatica/",
+    "/symptoms/knee-pain/",
+    "/symptoms/tennis-elbow/",
+    "/symptoms/de-quervain/",
+    "/symptoms/plantar-heel-pain/"
+  ],
+  "clicks": [
+    {
+      "from": "/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/針刀/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/美顏針/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/埋線/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/team/zhang-yu/",
+      "destination": "/team/zhang-yu/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/team/tsai-ru-hui/",
+      "destination": "/team/tsai-ru-hui/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/team/zhang-you-ming/",
+      "destination": "/team/zhang-you-ming/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/about-lienbang/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/services/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/pulse-diagnosis/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "destination": "/%E6%B5%AE%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/針刀/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/美顏針/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/埋線/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/team/zhang-yu/",
+      "destination": "/team/zhang-yu/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/team/tsai-ru-hui/",
+      "destination": "/team/tsai-ru-hui/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/",
+      "href": "/team/zhang-you-ming/",
+      "destination": "/team/zhang-you-ming/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-yu/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/tsai-ru-hui/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/team/zhang-you-ming/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/gerd/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/insomnia/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/浮針/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/low-back-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/cough/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/diarrhea/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/constipation/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/fatigue/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/sciatica/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/knee-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/de-quervain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/",
+      "destination": "/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/about-lienbang/",
+      "destination": "/about-lienbang/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/services/",
+      "destination": "/services/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/pulse-diagnosis/",
+      "destination": "/pulse-diagnosis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/acupuncture/",
+      "destination": "/acupuncture/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/acupuncture-physical-therapy/",
+      "destination": "/acupuncture-physical-therapy/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "destination": "/%E9%87%9D%E5%88%80/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "destination": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/%E5%9F%8B%E7%B7%9A/",
+      "destination": "/%E5%9F%8B%E7%B7%9A/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/",
+      "destination": "/symptoms/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/team/",
+      "destination": "/team/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/#site-footer",
+      "destination": "/#site-footer",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/gerd/",
+      "destination": "/symptoms/gerd/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/insomnia/",
+      "destination": "/symptoms/insomnia/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "destination": "/symptoms/neck-shoulder-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "destination": "/symptoms/low-back-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/cough/",
+      "destination": "/symptoms/cough/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "destination": "/symptoms/allergic-rhinitis/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/diarrhea/",
+      "destination": "/symptoms/diarrhea/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/constipation/",
+      "destination": "/symptoms/constipation/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "destination": "/symptoms/menstrual-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/fatigue/",
+      "destination": "/symptoms/fatigue/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "destination": "/symptoms/frozen-shoulder/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/sciatica/",
+      "destination": "/symptoms/sciatica/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/knee-pain/",
+      "destination": "/symptoms/knee-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "destination": "/symptoms/tennis-elbow/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/de-quervain/",
+      "destination": "/symptoms/de-quervain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    },
+    {
+      "from": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "destination": "/symptoms/plantar-heel-pain/",
+      "status": 200,
+      "anchor": true,
+      "reached": true
+    }
+  ]
+}

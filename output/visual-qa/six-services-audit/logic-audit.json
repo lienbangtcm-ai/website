@@ -1,0 +1,289 @@
+[
+  {
+    "route": "",
+    "title": "連邦中醫",
+    "cards": [
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理",
+        "img": "/assets/service-internal-real-v3.png"
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・快速放鬆",
+        "img": "/assets/user-20261009/wrist.webp"
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制",
+        "img": "/assets/user-20261009/movement.webp"
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛",
+        "img": "/assets/service-acupotomy-real-v3.png"
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外",
+        "img": "/assets/user-20261009/facial.webp"
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "穴位埋線長期調理・體態改善",
+        "img": "/assets/service-embedding-real-v3.png"
+      },
+      {
+        "href": "/team/zhang-yu/",
+        "text": "01張豫 醫師脈診辨證・個別處方與針灸評估",
+        "img": "/assets/doctors/zhang-yu-original.png"
+      },
+      {
+        "href": "/team/tsai-ru-hui/",
+        "text": "02蔡如慧 醫師女性健康・體質調理與美顏針",
+        "img": "/assets/doctors/tsai-ru-hui-original.png"
+      },
+      {
+        "href": "/team/zhang-you-ming/",
+        "text": "03張祐銘 醫師中醫內科與婦兒體質評估",
+        "img": "/assets/doctors/zhang-you-ming-original.png"
+      },
+      {
+        "href": "/symptoms/gerd/",
+        "text": "消化系統胃食道逆流反覆不適，如何從體質理解？常見症狀",
+        "img": "/assets/internal-editorial/herbs.webp"
+      },
+      {
+        "href": "/symptoms/insomnia/",
+        "text": "睡眠調理總是睡不好？從身體狀態理解失眠常見症狀",
+        "img": "/services/images/care.webp"
+      },
+      {
+        "href": "/symptoms/allergic-rhinitis/",
+        "text": "過敏體質鼻過敏反覆不適，日常可以如何調理？常見症狀",
+        "img": "/assets/internal-editorial/consult.webp"
+      },
+      {
+        "href": "/symptoms/neck-shoulder-pain/",
+        "text": "疼痛評估肩頸緊繃與疼痛，何時適合進一步評估？常見症狀",
+        "img": "/assets/internal-editorial/pulse.webp"
+      }
+    ],
+    "cta": [
+      "立即預約　→",
+      "立即預約　→"
+    ],
+    "sections": [
+      "治療服務",
+      "醫師團隊",
+      "衛教文章",
+      "從一次問診開始，開啟屬於你的調理計畫"
+    ]
+  },
+  {
+    "route": "services",
+    "title": "治療服務",
+    "cards": [
+      {
+        "href": "/pulse-diagnosis/",
+        "text": "中醫內科／脈診辨證處方・體質調理→",
+        "img": "/assets/service-internal-real-v3.png"
+      },
+      {
+        "href": "/acupuncture/",
+        "text": "針灸不留針・快速放鬆→",
+        "img": "/assets/user-20261009/wrist.webp"
+      },
+      {
+        "href": "/acupuncture-physical-therapy/",
+        "text": "中醫 × 物理治療整合評估・動作控制→",
+        "img": "/assets/user-20261009/movement.webp"
+      },
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "針刀／浮針精準處理・組織疼痛→",
+        "img": "/assets/service-acupotomy-real-v3.png"
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "美顏針自然調理・由內而外→",
+        "img": "/assets/user-20261009/facial.webp"
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "穴位埋線長期調理・體態改善→",
+        "img": "/assets/service-embedding-real-v3.png"
+      }
+    ],
+    "cta": [
+      "LINE 預約諮詢"
+    ],
+    "sections": [
+      "治療服務",
+      "中醫內科／脈診",
+      "針灸",
+      "中醫 × 物理治療",
+      "針刀／浮針",
+      "美顏針",
+      "穴位埋線"
+    ]
+  },
+  {
+    "route": "pulse-diagnosis",
+    "title": "中醫內科／脈診",
+    "hero": "--su-photo:url('/assets/user-20261009/pulse-hero.webp')",
+    "cards": [],
+    "cta": [
+      "LINE 預約諮詢",
+      "LINE 預約諮詢"
+    ],
+    "sections": [
+      "個別化處方",
+      "單味藥加減",
+      "劑量充足",
+      "整體調理",
+      "治療理念",
+      "適合族群",
+      "從一次問診開始，開啟屬於你的調理計畫"
+    ]
+  },
+  {
+    "route": "acupuncture",
+    "title": "針灸",
+    "hero": "--su-photo:url('/assets/user-20261009/wrist.webp')",
+    "cards": [
+      {
+        "href": "/%E9%87%9D%E5%88%80/",
+        "text": "01針刀依軟組織與活動表現進行評估，實際操作範圍由醫師說明。",
+        "img": "/assets/service-acupotomy-real-v3.png"
+      },
+      {
+        "href": "/%E6%B5%AE%E9%87%9D/",
+        "text": "02浮針使用專用針具進行操作，評估方式與一般針灸不同。",
+        "img": "/services/images/fsn.webp"
+      },
+      {
+        "href": "/%E5%9F%8B%E7%B7%9A/",
+        "text": "03穴位埋線使用可吸收線材，操作前需個別評估並說明後續照護。",
+        "img": "/assets/service-embedding-real-v3.png"
+      },
+      {
+        "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+        "text": "04美顏針依臉部肌肉、筋膜與個別需求評估操作位置及方式。",
+        "img": "/assets/user-20261009/facial.webp"
+      }
+    ],
+    "cta": [
+      "LINE 預約諮詢",
+      "LINE 預約諮詢"
+    ],
+    "sections": [
+      "什麼是不留針手法？",
+      "為什麼每次都要重新評估？",
+      "一次看診如何進行？",
+      "可以先詢問的常見需求",
+      "自費特色項目",
+      "常見問題",
+      "其他連邦特色",
+      "先讓醫師了解目前的不適與活動狀況"
+    ]
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "title": "中醫 × 物理治療",
+    "hero": "--su-photo:url('/assets/user-20261009/movement.webp')",
+    "cards": [],
+    "cta": [
+      "LINE 預約諮詢",
+      "LINE 預約諮詢"
+    ],
+    "sections": [
+      "疼痛與動作功能，分別進行評估",
+      "三項專業分工",
+      "整合治療如何安排？",
+      "可以先詢問的情況",
+      "整合評估的考量",
+      "常見問題",
+      "其他連邦特色",
+      "先說明目前的不適與活動限制"
+    ]
+  },
+  {
+    "route": "針刀",
+    "title": "針刀",
+    "hero": "--su-photo:url('/assets/service-acupotomy-real-v3.png')",
+    "cards": [],
+    "cta": [
+      "LINE 預約諮詢",
+      "LINE 預約諮詢"
+    ],
+    "sections": [
+      "針刀是什麼？",
+      "針刀可以治療哪些症狀？",
+      "連邦中醫的評估流程",
+      "針刀、一般針灸與浮針有什麼不同？",
+      "治療前要告訴醫師什麼？",
+      "針刀常見問題",
+      "讓專業團隊成為您的健康後盾"
+    ]
+  },
+  {
+    "route": "浮針",
+    "title": "浮針",
+    "hero": "--su-photo:url('/services/images/fsn.webp')",
+    "cards": [],
+    "cta": [
+      "LINE 預約諮詢",
+      "LINE 預約諮詢"
+    ],
+    "sections": [
+      "浮針和一般針灸有什麼不同？",
+      "浮針可以治療哪些症狀？",
+      "浮針診療通常如何進行？",
+      "浮針、乾針與針刀不能只看名稱選擇",
+      "可能反應與注意事項",
+      "浮針常見問題",
+      "讓專業團隊成為您的健康後盾"
+    ]
+  },
+  {
+    "route": "美顏針",
+    "title": "美顏針",
+    "hero": "--su-photo:url('/assets/user-20261009/facial.webp')",
+    "cards": [],
+    "cta": [
+      "LINE 預約諮詢",
+      "LINE 預約諮詢"
+    ],
+    "sections": [
+      "美顏針的重點，在個別評估",
+      "美顏針可以改善什麼？",
+      "療程前會評估哪些內容？",
+      "先建立合理期待",
+      "美顏針診療流程",
+      "可能反應與治療後照護",
+      "美顏針常見問題",
+      "讓專業團隊成為您的健康後盾"
+    ]
+  },
+  {
+    "route": "埋線",
+    "title": "穴位埋線",
+    "hero": "--su-photo:url('/assets/service-embedding-real-v3.png')",
+    "cards": [],
+    "cta": [
+      "LINE 預約諮詢",
+      "LINE 預約諮詢"
+    ],
+    "sections": [
+      "穴位埋線和一般針灸的差別",
+      "穴位埋線的減重效果",
+      "治療前需要評估什麼？",
+      "穴位埋線診療流程",
+      "可能反應、風險與暫緩情況",
+      "術後照護重點",
+      "穴位埋線常見問題",
+      "讓專業團隊成為您的健康後盾"
+    ]
+  }
+]

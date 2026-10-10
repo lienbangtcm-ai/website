@@ -1,0 +1,10 @@
+/* Slightly more compact treatment overview, scoped to this page only. */
+body.home-system .to-hero,body.home-system .to-hero-inner{min-height:440px!important}
+body.home-system .to-hero-copy{padding-block:38px!important}
+body.home-system .to-service-strip{padding-block:40px!important}
+body.home-system .to-service-grid{gap:22px!important}
+body.home-system .to-service-card img{height:190px!important}
+body.home-system .to-service-card{padding-bottom:22px!important}
+body.home-system .to-service-card h2{margin:18px 16px 6px!important;font-size:22px!important}
+body.home-system .to-service-card p{font-size:17px!important}
+@media(max-width:820px){body.home-system .to-hero,body.home-system .to-hero-inner{min-height:400px!important}body.home-system .to-service-strip{padding-block:28px!important}body.home-system .to-service-grid{gap:14px!important}body.home-system .to-service-card img{height:auto!important;aspect-ratio:1.4!important}body.home-system .to-service-card h2{font-size:18px!important;margin:14px 8px 5px!important}body.home-system .to-service-card p{font-size:16px!important}}

@@ -1,0 +1,438 @@
+[
+  {
+    "route": "pulse-diagnosis",
+    "w": 1440,
+    "hero": null,
+    "h1": {
+      "height": 81.1875,
+      "width": 680,
+      "font": "58px",
+      "line": "81.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "中醫內科／脈診"
+    },
+    "h2": {
+      "height": 33.59375,
+      "width": 279.75,
+      "font": "24px",
+      "line": "33.6px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "個別化處方"
+    },
+    "cta": null,
+    "toc": false,
+    "overflow": false,
+    "images": [
+      "/assets/internal-editorial/herbs.webp"
+    ]
+  },
+  {
+    "route": "acupuncture",
+    "w": 1440,
+    "hero": null,
+    "h1": {
+      "height": 81.1875,
+      "width": 680,
+      "font": "58px",
+      "line": "81.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "針灸"
+    },
+    "h2": {
+      "height": 56,
+      "width": 689.4375,
+      "font": "40px",
+      "line": "56px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "什麼是不留針手法？"
+    },
+    "cta": null,
+    "toc": false,
+    "overflow": false,
+    "images": [
+      "/acupuncture/no-retention-acupuncture-assessment.webp",
+      "/assets/service-acupotomy-real-v3.png",
+      "/services/images/fsn.webp",
+      "/assets/service-embedding-real-v3.png",
+      "/assets/user-20261009/facial.webp"
+    ]
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "w": 1440,
+    "hero": null,
+    "h1": {
+      "height": 81.1875,
+      "width": 680,
+      "font": "58px",
+      "line": "81.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "中醫 × 物理治療"
+    },
+    "h2": {
+      "height": 56,
+      "width": 689.4375,
+      "font": "40px",
+      "line": "56px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "疼痛與動作功能，分別進行評估"
+    },
+    "cta": null,
+    "toc": false,
+    "overflow": false,
+    "images": [
+      "/services/images/herbs.webp",
+      "/services/images/movement.webp",
+      "/assets/internal-editorial/consult.webp",
+      "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/lienbang-movement-assessment.webp"
+    ]
+  },
+  {
+    "route": "針刀",
+    "w": 1440,
+    "hero": null,
+    "h1": {
+      "height": 81.1875,
+      "width": 680,
+      "font": "58px",
+      "line": "81.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "針刀"
+    },
+    "h2": {
+      "height": 75,
+      "width": 1311,
+      "font": "40px",
+      "line": "56px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "針刀是什麼？"
+    },
+    "cta": {
+      "height": 298.578125,
+      "width": 1425,
+      "font": "19px",
+      "line": "34.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "讓專業團隊成為您的健康後盾請先說明疼痛位置、持續時間、活動限制與既往檢查，由醫師評估適合的處理方式。LINE 預約諮詢"
+    },
+    "toc": true,
+    "overflow": false,
+    "images": [
+      "/assets/service-reference/acupotomy.png"
+    ]
+  },
+  {
+    "route": "美顏針",
+    "w": 1440,
+    "hero": null,
+    "h1": {
+      "height": 81.1875,
+      "width": 680,
+      "font": "58px",
+      "line": "81.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "美顏針"
+    },
+    "h2": {
+      "height": 75,
+      "width": 1311,
+      "font": "40px",
+      "line": "56px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "美顏針的重點，在個別評估"
+    },
+    "cta": {
+      "height": 298.578125,
+      "width": 1425,
+      "font": "19px",
+      "line": "34.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "讓專業團隊成為您的健康後盾可先說明在意的臉部狀況、近期醫美療程與用藥，再由醫師安排評估。LINE 預約諮詢"
+    },
+    "toc": true,
+    "overflow": false,
+    "images": []
+  },
+  {
+    "route": "埋線",
+    "w": 1440,
+    "hero": null,
+    "h1": {
+      "height": 81.1875,
+      "width": 680,
+      "font": "58px",
+      "line": "81.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "穴位埋線"
+    },
+    "h2": {
+      "height": 75,
+      "width": 1311,
+      "font": "40px",
+      "line": "56px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "穴位埋線和一般針灸的差別"
+    },
+    "cta": {
+      "height": 298.578125,
+      "width": 1425,
+      "font": "19px",
+      "line": "34.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "讓專業團隊成為您的健康後盾請先說明希望了解的治療方向、目前用藥與過敏史，再由醫師判斷是否適合穴位埋線。LINE 預約諮詢"
+    },
+    "toc": true,
+    "overflow": false,
+    "images": []
+  },
+  {
+    "route": "浮針",
+    "w": 1440,
+    "hero": null,
+    "h1": {
+      "height": 81.1875,
+      "width": 680,
+      "font": "58px",
+      "line": "81.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "浮針"
+    },
+    "h2": {
+      "height": 75,
+      "width": 1311,
+      "font": "40px",
+      "line": "56px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "浮針和一般針灸有什麼不同？"
+    },
+    "cta": {
+      "height": 298.578125,
+      "width": 1425,
+      "font": "19px",
+      "line": "34.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "讓專業團隊成為您的健康後盾可先說明不舒服的位置、誘發動作與持續時間，由醫師評估浮針或其他方式是否合適。LINE 預約諮詢"
+    },
+    "toc": true,
+    "overflow": false,
+    "images": []
+  },
+  {
+    "route": "pulse-diagnosis",
+    "w": 390,
+    "hero": null,
+    "h1": {
+      "height": 53.1875,
+      "width": 341.25,
+      "font": "38px",
+      "line": "53.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "中醫內科／脈診"
+    },
+    "h2": {
+      "height": 33.59375,
+      "width": 139,
+      "font": "24px",
+      "line": "33.6px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "個別化處方"
+    },
+    "cta": null,
+    "toc": false,
+    "overflow": false,
+    "images": [
+      "/assets/internal-editorial/herbs.webp"
+    ]
+  },
+  {
+    "route": "acupuncture",
+    "w": 390,
+    "hero": null,
+    "h1": {
+      "height": 53.1875,
+      "width": 341.25,
+      "font": "38px",
+      "line": "53.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "針灸"
+    },
+    "h2": {
+      "height": 33.59375,
+      "width": 341.25,
+      "font": "24px",
+      "line": "33.6px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "什麼是不留針手法？"
+    },
+    "cta": null,
+    "toc": false,
+    "overflow": false,
+    "images": [
+      "/acupuncture/no-retention-acupuncture-assessment.webp",
+      "/assets/service-acupotomy-real-v3.png",
+      "/services/images/fsn.webp",
+      "/assets/service-embedding-real-v3.png",
+      "/assets/user-20261009/facial.webp"
+    ]
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "w": 390,
+    "hero": null,
+    "h1": {
+      "height": 53.1875,
+      "width": 341.25,
+      "font": "38px",
+      "line": "53.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "中醫 × 物理治療"
+    },
+    "h2": {
+      "height": 67.1875,
+      "width": 341.25,
+      "font": "24px",
+      "line": "33.6px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "疼痛與動作功能，分別進行評估"
+    },
+    "cta": null,
+    "toc": false,
+    "overflow": false,
+    "images": [
+      "/services/images/herbs.webp",
+      "/services/images/movement.webp",
+      "/assets/internal-editorial/consult.webp",
+      "https://lienbangtcm.tw/storage/twyuting10210314859/2026/07/lienbang-movement-assessment.webp"
+    ]
+  },
+  {
+    "route": "針刀",
+    "w": 390,
+    "hero": null,
+    "h1": {
+      "height": 53.1875,
+      "width": 341.25,
+      "font": "38px",
+      "line": "53.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "針刀"
+    },
+    "h2": {
+      "height": 52.59375,
+      "width": 341.25,
+      "font": "24px",
+      "line": "33.6px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "針刀是什麼？"
+    },
+    "cta": {
+      "height": 301.171875,
+      "width": 375,
+      "font": "19px",
+      "line": "34.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "讓專業團隊成為您的健康後盾請先說明疼痛位置、持續時間、活動限制與既往檢查，由醫師評估適合的處理方式。LINE 預約諮詢"
+    },
+    "toc": true,
+    "overflow": false,
+    "images": [
+      "/assets/service-reference/acupotomy.png"
+    ]
+  },
+  {
+    "route": "美顏針",
+    "w": 390,
+    "hero": null,
+    "h1": {
+      "height": 53.1875,
+      "width": 341.25,
+      "font": "38px",
+      "line": "53.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "美顏針"
+    },
+    "h2": {
+      "height": 52.59375,
+      "width": 341.25,
+      "font": "24px",
+      "line": "33.6px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "美顏針的重點，在個別評估"
+    },
+    "cta": {
+      "height": 301.171875,
+      "width": 375,
+      "font": "19px",
+      "line": "34.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "讓專業團隊成為您的健康後盾可先說明在意的臉部狀況、近期醫美療程與用藥，再由醫師安排評估。LINE 預約諮詢"
+    },
+    "toc": true,
+    "overflow": false,
+    "images": []
+  },
+  {
+    "route": "埋線",
+    "w": 390,
+    "hero": null,
+    "h1": {
+      "height": 53.1875,
+      "width": 341.25,
+      "font": "38px",
+      "line": "53.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "穴位埋線"
+    },
+    "h2": {
+      "height": 52.59375,
+      "width": 341.25,
+      "font": "24px",
+      "line": "33.6px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "穴位埋線和一般針灸的差別"
+    },
+    "cta": {
+      "height": 301.171875,
+      "width": 375,
+      "font": "19px",
+      "line": "34.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "讓專業團隊成為您的健康後盾請先說明希望了解的治療方向、目前用藥與過敏史，再由醫師判斷是否適合穴位埋線。LINE 預約諮詢"
+    },
+    "toc": true,
+    "overflow": false,
+    "images": []
+  },
+  {
+    "route": "浮針",
+    "w": 390,
+    "hero": null,
+    "h1": {
+      "height": 53.1875,
+      "width": 341.25,
+      "font": "38px",
+      "line": "53.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "浮針"
+    },
+    "h2": {
+      "height": 52.59375,
+      "width": 341.25,
+      "font": "24px",
+      "line": "33.6px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "浮針和一般針灸有什麼不同？"
+    },
+    "cta": {
+      "height": 301.171875,
+      "width": 375,
+      "font": "19px",
+      "line": "34.2px",
+      "background": "rgba(0, 0, 0, 0)",
+      "text": "讓專業團隊成為您的健康後盾可先說明不舒服的位置、誘發動作與持續時間，由醫師評估浮針或其他方式是否合適。LINE 預約諮詢"
+    },
+    "toc": true,
+    "overflow": false,
+    "images": []
+  }
+]

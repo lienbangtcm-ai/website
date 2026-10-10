@@ -1,0 +1,347 @@
+[
+  {
+    "viewport": 1440,
+    "home": [
+      {
+        "src": "/assets/service-internal-real-v3.png",
+        "title": "中醫內科／脈診",
+        "text": "辨證處方・體質調理",
+        "href": "/pulse-diagnosis/",
+        "width": 418.328125,
+        "height": 350.1875,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/user-20261009/wrist.webp",
+        "title": "針灸",
+        "text": "不留針・快速放鬆",
+        "href": "/acupuncture/",
+        "width": 418.328125,
+        "height": 350.1875,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/user-20261009/movement.webp",
+        "title": "中醫 × 物理治療",
+        "text": "整合評估・動作控制",
+        "href": "/acupuncture-physical-therapy/",
+        "width": 418.34375,
+        "height": 350.1875,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/service-acupotomy-real-v3.png",
+        "title": "針刀／浮針",
+        "text": "精準處理・組織疼痛",
+        "href": "/針刀/",
+        "width": 418.328125,
+        "height": 350.1875,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/user-20261009/facial.webp",
+        "title": "美顏針",
+        "text": "自然調理・由內而外",
+        "href": "/美顏針/",
+        "width": 418.328125,
+        "height": 350.1875,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/service-embedding-real-v3.png",
+        "title": "穴位埋線",
+        "text": "長期調理・體態改善",
+        "href": "/埋線/",
+        "width": 418.34375,
+        "height": 350.1875,
+        "imgHeight": 220
+      }
+    ],
+    "services": [
+      {
+        "src": "/assets/service-internal-real-v3.png",
+        "title": "中醫內科／脈診",
+        "text": "辨證處方・體質調理",
+        "href": "/pulse-diagnosis/",
+        "width": 418.328125,
+        "height": 396.78125,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/user-20261009/wrist.webp",
+        "title": "針灸",
+        "text": "不留針・快速放鬆",
+        "href": "/acupuncture/",
+        "width": 418.328125,
+        "height": 396.78125,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/user-20261009/movement.webp",
+        "title": "中醫 × 物理治療",
+        "text": "整合評估・動作控制",
+        "href": "/acupuncture-physical-therapy/",
+        "width": 418.34375,
+        "height": 396.78125,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/service-acupotomy-real-v3.png",
+        "title": "針刀／浮針",
+        "text": "精準處理・組織疼痛",
+        "href": "/針刀/",
+        "width": 418.328125,
+        "height": 396.78125,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/user-20261009/facial.webp",
+        "title": "美顏針",
+        "text": "自然調理・由內而外",
+        "href": "/美顏針/",
+        "width": 418.328125,
+        "height": 396.78125,
+        "imgHeight": 220
+      },
+      {
+        "src": "/assets/service-embedding-real-v3.png",
+        "title": "穴位埋線",
+        "text": "長期調理・體態改善",
+        "href": "/埋線/",
+        "width": 418.34375,
+        "height": 396.78125,
+        "imgHeight": 220
+      }
+    ]
+  },
+  {
+    "viewport": 768,
+    "home": [
+      {
+        "src": "/assets/service-internal-real-v3.png",
+        "title": "中醫內科／脈診",
+        "text": "辨證處方・體質調理",
+        "href": "/pulse-diagnosis/",
+        "width": 219.0625,
+        "height": 248.828125,
+        "imgHeight": 155.03125
+      },
+      {
+        "src": "/assets/user-20261009/wrist.webp",
+        "title": "針灸",
+        "text": "不留針・快速放鬆",
+        "href": "/acupuncture/",
+        "width": 219.078125,
+        "height": 248.828125,
+        "imgHeight": 155.046875
+      },
+      {
+        "src": "/assets/user-20261009/movement.webp",
+        "title": "中醫 × 物理治療",
+        "text": "整合評估・動作控制",
+        "href": "/acupuncture-physical-therapy/",
+        "width": 219.078125,
+        "height": 248.828125,
+        "imgHeight": 155.046875
+      },
+      {
+        "src": "/assets/service-acupotomy-real-v3.png",
+        "title": "針刀／浮針",
+        "text": "精準處理・組織疼痛",
+        "href": "/針刀/",
+        "width": 219.0625,
+        "height": 248.828125,
+        "imgHeight": 155.03125
+      },
+      {
+        "src": "/assets/user-20261009/facial.webp",
+        "title": "美顏針",
+        "text": "自然調理・由內而外",
+        "href": "/美顏針/",
+        "width": 219.078125,
+        "height": 248.828125,
+        "imgHeight": 155.046875
+      },
+      {
+        "src": "/assets/service-embedding-real-v3.png",
+        "title": "穴位埋線",
+        "text": "長期調理・體態改善",
+        "href": "/埋線/",
+        "width": 219.078125,
+        "height": 248.828125,
+        "imgHeight": 155.046875
+      }
+    ],
+    "services": [
+      {
+        "src": "/assets/service-internal-real-v3.png",
+        "title": "中醫內科／脈診",
+        "text": "辨證處方・體質調理",
+        "href": "/pulse-diagnosis/",
+        "width": 219.0625,
+        "height": 297.828125,
+        "imgHeight": 155.03125
+      },
+      {
+        "src": "/assets/user-20261009/wrist.webp",
+        "title": "針灸",
+        "text": "不留針・快速放鬆",
+        "href": "/acupuncture/",
+        "width": 219.078125,
+        "height": 297.828125,
+        "imgHeight": 155.046875
+      },
+      {
+        "src": "/assets/user-20261009/movement.webp",
+        "title": "中醫 × 物理治療",
+        "text": "整合評估・動作控制",
+        "href": "/acupuncture-physical-therapy/",
+        "width": 219.078125,
+        "height": 297.828125,
+        "imgHeight": 155.046875
+      },
+      {
+        "src": "/assets/service-acupotomy-real-v3.png",
+        "title": "針刀／浮針",
+        "text": "精準處理・組織疼痛",
+        "href": "/針刀/",
+        "width": 219.0625,
+        "height": 297.828125,
+        "imgHeight": 155.03125
+      },
+      {
+        "src": "/assets/user-20261009/facial.webp",
+        "title": "美顏針",
+        "text": "自然調理・由內而外",
+        "href": "/美顏針/",
+        "width": 219.078125,
+        "height": 297.828125,
+        "imgHeight": 155.046875
+      },
+      {
+        "src": "/assets/service-embedding-real-v3.png",
+        "title": "穴位埋線",
+        "text": "長期調理・體態改善",
+        "href": "/埋線/",
+        "width": 219.078125,
+        "height": 297.828125,
+        "imgHeight": 155.046875
+      }
+    ]
+  },
+  {
+    "viewport": 390,
+    "home": [
+      {
+        "src": "/assets/service-internal-real-v3.png",
+        "title": "中醫內科／脈診",
+        "text": "辨證處方・體質調理",
+        "href": "/pulse-diagnosis/",
+        "width": 163.625,
+        "height": 209.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/user-20261009/wrist.webp",
+        "title": "針灸",
+        "text": "不留針・快速放鬆",
+        "href": "/acupuncture/",
+        "width": 163.625,
+        "height": 209.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/user-20261009/movement.webp",
+        "title": "中醫 × 物理治療",
+        "text": "整合評估・動作控制",
+        "href": "/acupuncture-physical-therapy/",
+        "width": 163.625,
+        "height": 209.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/service-acupotomy-real-v3.png",
+        "title": "針刀／浮針",
+        "text": "精準處理・組織疼痛",
+        "href": "/針刀/",
+        "width": 163.625,
+        "height": 209.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/user-20261009/facial.webp",
+        "title": "美顏針",
+        "text": "自然調理・由內而外",
+        "href": "/美顏針/",
+        "width": 163.625,
+        "height": 209.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/service-embedding-real-v3.png",
+        "title": "穴位埋線",
+        "text": "長期調理・體態改善",
+        "href": "/埋線/",
+        "width": 163.625,
+        "height": 209.21875,
+        "imgHeight": 115.4375
+      }
+    ],
+    "services": [
+      {
+        "src": "/assets/service-internal-real-v3.png",
+        "title": "中醫內科／脈診",
+        "text": "辨證處方・體質調理",
+        "href": "/pulse-diagnosis/",
+        "width": 163.625,
+        "height": 258.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/user-20261009/wrist.webp",
+        "title": "針灸",
+        "text": "不留針・快速放鬆",
+        "href": "/acupuncture/",
+        "width": 163.625,
+        "height": 258.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/user-20261009/movement.webp",
+        "title": "中醫 × 物理治療",
+        "text": "整合評估・動作控制",
+        "href": "/acupuncture-physical-therapy/",
+        "width": 163.625,
+        "height": 258.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/service-acupotomy-real-v3.png",
+        "title": "針刀／浮針",
+        "text": "精準處理・組織疼痛",
+        "href": "/針刀/",
+        "width": 163.625,
+        "height": 258.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/user-20261009/facial.webp",
+        "title": "美顏針",
+        "text": "自然調理・由內而外",
+        "href": "/美顏針/",
+        "width": 163.625,
+        "height": 258.21875,
+        "imgHeight": 115.4375
+      },
+      {
+        "src": "/assets/service-embedding-real-v3.png",
+        "title": "穴位埋線",
+        "text": "長期調理・體態改善",
+        "href": "/埋線/",
+        "width": 163.625,
+        "height": 258.21875,
+        "imgHeight": 115.4375
+      }
+    ]
+  }
+]

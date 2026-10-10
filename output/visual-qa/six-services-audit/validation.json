@@ -1,0 +1,191 @@
+[
+  {
+    "route": "pulse-diagnosis",
+    "w": 1440,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "acupuncture",
+    "w": 1440,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "w": 1440,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "針刀",
+    "w": 1440,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "美顏針",
+    "w": 1440,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "埋線",
+    "w": 1440,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "浮針",
+    "w": 1440,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "pulse-diagnosis",
+    "w": 768,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "acupuncture",
+    "w": 768,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "w": 768,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "針刀",
+    "w": 768,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "美顏針",
+    "w": 768,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "埋線",
+    "w": 768,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "浮針",
+    "w": 768,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "pulse-diagnosis",
+    "w": 390,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "acupuncture",
+    "w": 390,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "acupuncture-physical-therapy",
+    "w": 390,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "針刀",
+    "w": 390,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "美顏針",
+    "w": 390,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "埋線",
+    "w": 390,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  },
+  {
+    "route": "浮針",
+    "w": 390,
+    "h1": 1,
+    "hero": 1,
+    "overflow": false,
+    "badAnchors": [],
+    "booking": true
+  }
+]

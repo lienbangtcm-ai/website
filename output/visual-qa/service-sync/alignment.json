@@ -1,0 +1,77 @@
+[
+  {
+    "width": 1440,
+    "overflow": false,
+    "sections": [
+      {
+        "title": "治療服務",
+        "left": 57,
+        "width": 1311,
+        "right": 1368
+      },
+      {
+        "title": "醫師團隊",
+        "left": 57,
+        "width": 1311,
+        "right": 1368
+      },
+      {
+        "title": "衛教文章",
+        "left": 57,
+        "width": 1311,
+        "right": 1368
+      }
+    ],
+    "arrows": 0
+  },
+  {
+    "width": 768,
+    "overflow": false,
+    "sections": [
+      {
+        "title": "治療服務",
+        "left": 33.890625,
+        "width": 685.21875,
+        "right": 719.109375
+      },
+      {
+        "title": "醫師團隊",
+        "left": 33.890625,
+        "width": 685.21875,
+        "right": 719.109375
+      },
+      {
+        "title": "衛教文章",
+        "left": 33.890625,
+        "width": 685.21875,
+        "right": 719.109375
+      }
+    ],
+    "arrows": 0
+  },
+  {
+    "width": 390,
+    "overflow": false,
+    "sections": [
+      {
+        "title": "治療服務",
+        "left": 16.875,
+        "width": 341.25,
+        "right": 358.125
+      },
+      {
+        "title": "醫師團隊",
+        "left": 16.875,
+        "width": 341.25,
+        "right": 358.125
+      },
+      {
+        "title": "衛教文章",
+        "left": 16.875,
+        "width": 341.25,
+        "right": 358.125
+      }
+    ],
+    "arrows": 0
+  }
+]
