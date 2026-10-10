@@ -178,3 +178,14 @@ tools/shell-dimensions-qa.cjs 對 31 頁 × 1440/768/390px 共 93 組檢查：�
 - 七頁×1440／768／390px共21組驗證通過：主視覺、H1、預約、錨點、FAQ、水平溢出；catalog檢查圖片及所有療程預約文案一致。
 - 脈診既有醫療內容較短，未為湊齊版型新增未確認的療程流程或醫療FAQ；這是保留的內容差異。
 - 全站前後對照報告已產生 /review/home-system/，其中全站截圖為本次最後小修前的驗收基準；最新治療頁截圖另存 output/visual-qa/six-services-audit/。
+
+## 2026-10-10 症狀頁照片與版型更新
+- 沿用目前定製品牌格式，更新常見症狀總覽及16個症狀內頁，保留內科／體質、筋骨／針灸分類。
+- 使用本次提供16張圖片，依症狀對應；新增1600／640px WebP與srcset，素材對應表 assets/symptoms-20261010/manifest.json。
+- 總覽桌機四欄、平板與手機兩欄，照片16:9；內頁桌機文字／照片雙欄、手機照片置頂。同步首頁衛教與醫師推薦卡片的同症狀照片，dist鏡像一併更新。
+- 評估、日常照護圖解保留；症狀圖片為使用者提供的情境示意，並非診所真實病例紀錄。
+- 視覺循環紀錄：symptoms-after發現旧窄欄衝突；symptoms-final修正完整卡片寬度；symptoms-approved改善手機Hero並修正旧裝飾線寬度。各輪完整截圖保留 output/visual-qa/home-system/。
+- 全站31頁×3尺寸93組檢查通過；最後症狀17頁×1440／768／390px再驗收51組，檢查H1、FAQ、手機導覽、圖片、水平溢出及內部連結。
+- 31頁文字／SEO／Schema／原有連結保護檢查全數通過；未變更醫療資訊及正式WordPress。
+- 17頁桌機／手機修改前後報告：/review/symptoms-refresh/；工具 tools/refresh-symptoms.py、symptoms-qa.cjs、build-symptoms-review.py。
+- 保留差異：文章長度依原有醫療內容不同，診療圖解維持既有插畫；桌機總覽仍使用原定診療背景，手機採新肩頸情境照片。

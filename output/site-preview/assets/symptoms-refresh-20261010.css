@@ -1,0 +1,25 @@
+/* Symptom photography within the approved shared clinic design. */
+body.symptoms-refresh .lb-hero-grid{grid-template-columns:minmax(0,1fr) minmax(0,1.12fr)!important;gap:5%!important}
+body.symptoms-refresh .sr-hero-copy{min-width:0}
+body.symptoms-refresh .sr-hero-photo{margin:0;min-width:0}
+body.symptoms-refresh .sr-hero-photo img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:12px}
+body.symptoms-refresh .lb-hero h1{text-align:left!important}
+body.symptoms-refresh .lb-hero .lb-lead{text-align:left!important;max-width:100%!important}
+body.symptoms-refresh .lb-brand{justify-content:flex-start!important;text-align:left!important}
+body.symptoms-refresh .lbsym-list{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:24px!important}
+body.symptoms-refresh .lbsym-copy{display:block!important}
+body.symptoms-refresh .lbsym-copy>p{max-width:760px;margin-bottom:30px!important}
+body.symptoms-refresh .lbsym-block{padding:64px 0!important}
+body.symptoms-refresh .symptom-master-card{display:block!important;overflow:hidden;height:auto!important;border:1px solid #e6ddd3!important;background:#fffdfa!important}
+body.symptoms-refresh .symptom-master-card img{position:static!important;width:100%!important;height:auto!important;aspect-ratio:16/9!important;object-fit:cover!important;object-position:center!important;display:block!important}
+body.symptoms-refresh .symptom-caption{padding:18px!important;font-size:22px!important}
+body.symptoms-refresh .lb-added-figure[data-article-image="symptoms"] img{aspect-ratio:16/9;object-fit:cover}
+@media(max-width:1023px){body.symptoms-refresh .lbsym-list{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+@media(max-width:767px){body.symptoms-refresh .lb-hero-grid{grid-template-columns:1fr!important;gap:26px!important}body.symptoms-refresh .sr-hero-photo{grid-row:1}body.symptoms-refresh .lbsym-list{gap:14px!important}body.symptoms-refresh .lbsym-block{padding:38px 0!important}body.symptoms-refresh .symptom-caption{padding:12px!important;font-size:18px!important}}
+body.symptoms-refresh .lbsym .lbsym-block{display:block!important;grid-template-columns:none!important}
+body.symptoms-refresh .lbsym .lbsym-copy{width:100%!important;max-width:none!important;grid-column:1/-1!important}
+body.symptoms-refresh .lbsym .lbsym-list{width:100%!important;max-width:none!important;padding:0!important}
+body.symptoms-refresh .lbsym .lbsym-copy h2{max-width:none!important}
+body.symptoms-refresh .lbsym .lbsym-list li{min-width:0!important;width:auto!important}
+@media(max-width:767px){body.symptoms-refresh .lbsym .lbsym-hero{background:#f8f4ee!important;padding:0 0 32px!important;min-height:0!important}body.symptoms-refresh .lbsym .lbsym-hero:before{content:"";display:block;height:210px;margin-bottom:28px;background:url('/assets/symptoms-20261010/neck-shoulder-pain-640.webp') center/cover}body.symptoms-refresh .lbsym .lbsym-hero-content{width:91%!important}body.symptoms-refresh .lbsym .rd-hero-intro{max-width:100%!important}}
+@media(max-width:767px){body.symptoms-refresh .lbsym .lbsym-hero:before{width:100%!important;max-width:none!important;border:0!important;transform:none!important}}
