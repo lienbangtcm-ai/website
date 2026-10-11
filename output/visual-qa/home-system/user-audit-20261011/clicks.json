@@ -1,0 +1,5354 @@
+{
+  "routes": [
+    "/",
+    "/about-lienbang/",
+    "/services/",
+    "/pulse-diagnosis/",
+    "/acupuncture/",
+    "/acupuncture-physical-therapy/",
+    "/%E6%B5%AE%E9%87%9D/",
+    "/%E9%87%9D%E5%88%80/",
+    "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+    "/symptoms/",
+    "/team/",
+    "/team/zhang-yu/",
+    "/team/tsai-ru-hui/",
+    "/team/zhang-you-ming/",
+    "/symptoms/gerd/",
+    "/symptoms/insomnia/",
+    "/symptoms/allergic-rhinitis/",
+    "/symptoms/neck-shoulder-pain/",
+    "/symptoms/low-back-pain/",
+    "/symptoms/cough/",
+    "/symptoms/diarrhea/",
+    "/symptoms/constipation/",
+    "/symptoms/menstrual-pain/",
+    "/symptoms/fatigue/",
+    "/symptoms/frozen-shoulder/",
+    "/symptoms/sciatica/",
+    "/symptoms/knee-pain/",
+    "/symptoms/tennis-elbow/",
+    "/symptoms/de-quervain/",
+    "/symptoms/plantar-heel-pain/",
+    "/浮針/",
+    "/針刀/"
+  ],
+  "results": [
+    {
+      "route": "/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/pulse-diagnosis/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/pulse-dia"
+    },
+    {
+      "route": "/",
+      "href": "/acupuncture/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(6)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/acupunctu"
+    },
+    {
+      "route": "/",
+      "href": "/acupuncture-physical-therapy/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(7)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-tr"
+    },
+    {
+      "route": "/",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE"
+    },
+    {
+      "route": "/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D"
+    },
+    {
+      "route": "/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(10)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-t"
+    },
+    {
+      "route": "/",
+      "href": "/team/zhang-yu/",
+      "url": "http://127.0.0.1:8876/team/zhang-yu/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/team/tsai-ru-hui/",
+      "url": "http://127.0.0.1:8876/team/tsai-ru-hui/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/team/zhang-you-ming/",
+      "url": "http://127.0.0.1:8876/team/zhang-you-ming/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/about-lienbang/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/about-lienbang/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/about-lienbang/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/about-lienbang/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/about-lienbang/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/about-lienbang/",
+      "href": "#our-beliefs",
+      "url": "http://127.0.0.1:8876/about-lienbang/#our-beliefs",
+      "ok": true
+    },
+    {
+      "route": "/about-lienbang/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/services/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/services/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/services/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/services/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/services/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/services/",
+      "href": "/pulse-diagnosis/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/pulse-dia"
+    },
+    {
+      "route": "/services/",
+      "href": "/acupuncture/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(6)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/acupunctu"
+    },
+    {
+      "route": "/services/",
+      "href": "/acupuncture-physical-therapy/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(7)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-tr"
+    },
+    {
+      "route": "/services/",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE"
+    },
+    {
+      "route": "/services/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D"
+    },
+    {
+      "route": "/services/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(10)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-t"
+    },
+    {
+      "route": "/services/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "#service-features",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/#service-features",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "#service-approach",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/#service-approach",
+      "ok": true
+    },
+    {
+      "route": "/pulse-diagnosis/",
+      "href": "#service-audience",
+      "url": "http://127.0.0.1:8876/pulse-diagnosis/#service-audience",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "#definition",
+      "url": "http://127.0.0.1:8876/acupuncture/#definition",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "#process",
+      "url": "http://127.0.0.1:8876/acupuncture/#process",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "#self-pay",
+      "url": "http://127.0.0.1:8876/acupuncture/#self-pay",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "#faq",
+      "url": "http://127.0.0.1:8876/acupuncture/#faq",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D"
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE"
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(10)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-t"
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/pulse-diagnosis/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/pulse-dia"
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/acupuncture-physical-therapy/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(7)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-tr"
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "#roles",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/#roles",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "#process",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/#process",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "#needs",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/#needs",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "#faq",
+      "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/#faq",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/pulse-diagnosis/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/pulse-dia"
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/acupuncture/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(6)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/acupunctu"
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/acupuncture-physical-therapy/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D"
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE"
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "#what",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#what",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "#assessment",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#assessment",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "#process",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#process",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "#compare",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#compare",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "#safety",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#safety",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "#faq",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#faq",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E6%B5%AE%E9%87%9D/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE"
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D"
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "#what",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#what",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "#assessment",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#assessment",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "#process",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#process",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "#compare",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#compare",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "#safety",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#safety",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "#faq",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#faq",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E9%87%9D%E5%88%80/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "#what",
+      "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/#what",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "#concerns",
+      "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/#concerns",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "#assessment",
+      "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/#assessment",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "#process",
+      "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/#process",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "#safety",
+      "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/#safety",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "#faq",
+      "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/#faq",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "#internal",
+      "url": "http://127.0.0.1:8876/symptoms/#internal",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "#orthopedics",
+      "url": "http://127.0.0.1:8876/symptoms/#orthopedics",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/team/zhang-yu/",
+      "url": "http://127.0.0.1:8876/team/zhang-yu/",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/team/tsai-ru-hui/",
+      "url": "http://127.0.0.1:8876/team/tsai-ru-hui/",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/team/zhang-you-ming/",
+      "url": "http://127.0.0.1:8876/team/zhang-you-ming/",
+      "ok": true
+    },
+    {
+      "route": "/team/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-yu/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/team/tsai-ru-hui/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/team/zhang-you-ming/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "#symptoms",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/#symptoms",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "#causes",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/#causes",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "#tcm",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/#tcm",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "#treatment",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/#treatment",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "#faq",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/#faq",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/gerd/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/insomnia/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/allergic-rhinitis/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/浮針/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/neck-shoulder-pain/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/浮針/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/low-back-pain/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/cough/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/cough/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/diarrhea/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/constipation/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/menstrual-pain/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/fatigue/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/浮針/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/frozen-shoulder/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/浮針/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/sciatica/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/浮針/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/knee-pain/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/浮針/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/tennis-elbow/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/浮針/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/de-quervain/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-0",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-0",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-1",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-1",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-2",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-2",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-3",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-3",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-4",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-4",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-5",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-5",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-6",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-6",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-7",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-7",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-8",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-8",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-9",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-9",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-10",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-10",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "#section-11",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/#section-11",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/浮針/",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/針刀/",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/symptoms/plantar-heel-pain/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D"
+    },
+    {
+      "route": "/浮針/",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE"
+    },
+    {
+      "route": "/浮針/",
+      "href": "#what",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#what",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "#assessment",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#assessment",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "#process",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#process",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "#compare",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#compare",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "#safety",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#safety",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "#faq",
+      "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/#faq",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/浮針/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/",
+      "url": "http://127.0.0.1:8876/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/about-lienbang/",
+      "url": "http://127.0.0.1:8876/about-lienbang/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/",
+      "url": "http://127.0.0.1:8876/symptoms/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/team/",
+      "url": "http://127.0.0.1:8876/team/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/#site-footer",
+      "url": "http://127.0.0.1:8876/#site-footer",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/%E6%B5%AE%E9%87%9D/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE"
+    },
+    {
+      "route": "/針刀/",
+      "href": "/%E9%87%9D%E5%88%80/",
+      "ok": false,
+      "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D"
+    },
+    {
+      "route": "/針刀/",
+      "href": "#what",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#what",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "#assessment",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#assessment",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "#process",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#process",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "#compare",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#compare",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "#safety",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#safety",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "#faq",
+      "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/#faq",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/gerd/",
+      "url": "http://127.0.0.1:8876/symptoms/gerd/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/insomnia/",
+      "url": "http://127.0.0.1:8876/symptoms/insomnia/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/neck-shoulder-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/neck-shoulder-pain/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/low-back-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/low-back-pain/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/cough/",
+      "url": "http://127.0.0.1:8876/symptoms/cough/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/allergic-rhinitis/",
+      "url": "http://127.0.0.1:8876/symptoms/allergic-rhinitis/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/diarrhea/",
+      "url": "http://127.0.0.1:8876/symptoms/diarrhea/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/constipation/",
+      "url": "http://127.0.0.1:8876/symptoms/constipation/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/menstrual-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/menstrual-pain/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/fatigue/",
+      "url": "http://127.0.0.1:8876/symptoms/fatigue/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/frozen-shoulder/",
+      "url": "http://127.0.0.1:8876/symptoms/frozen-shoulder/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/sciatica/",
+      "url": "http://127.0.0.1:8876/symptoms/sciatica/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/knee-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/knee-pain/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/tennis-elbow/",
+      "url": "http://127.0.0.1:8876/symptoms/tennis-elbow/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/de-quervain/",
+      "url": "http://127.0.0.1:8876/symptoms/de-quervain/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/symptoms/plantar-heel-pain/",
+      "url": "http://127.0.0.1:8876/symptoms/plantar-heel-pain/",
+      "ok": true
+    },
+    {
+      "route": "/針刀/",
+      "href": "/services/",
+      "url": "http://127.0.0.1:8876/services/",
+      "ok": true
+    }
+  ]
+}

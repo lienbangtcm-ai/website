@@ -1,0 +1,218 @@
+[
+  {
+    "route": "/",
+    "href": "/pulse-diagnosis/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/pulse-dia",
+    "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/",
+    "href": "/acupuncture/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(6)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/acupunctu",
+    "url": "http://127.0.0.1:8876/acupuncture/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/",
+    "href": "/acupuncture-physical-therapy/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(7)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-tr",
+    "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/",
+    "href": "/%E6%B5%AE%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE",
+    "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/",
+    "href": "/%E9%87%9D%E5%88%80/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D",
+    "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/",
+    "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(10)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-t",
+    "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/services/",
+    "href": "/pulse-diagnosis/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/pulse-dia",
+    "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/services/",
+    "href": "/acupuncture/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(6)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/acupunctu",
+    "url": "http://127.0.0.1:8876/acupuncture/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/services/",
+    "href": "/acupuncture-physical-therapy/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(7)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-tr",
+    "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/services/",
+    "href": "/%E6%B5%AE%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE",
+    "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/services/",
+    "href": "/%E9%87%9D%E5%88%80/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D",
+    "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/services/",
+    "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(10)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-t",
+    "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/acupuncture/",
+    "href": "/%E9%87%9D%E5%88%80/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D",
+    "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/acupuncture/",
+    "href": "/%E6%B5%AE%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE",
+    "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/acupuncture/",
+    "href": "/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(10)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-t",
+    "url": "http://127.0.0.1:8876/%E7%BE%8E%E9%A1%8F%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/acupuncture/",
+    "href": "/pulse-diagnosis/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/pulse-dia",
+    "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/acupuncture/",
+    "href": "/acupuncture-physical-therapy/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(7)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"global-tr",
+    "url": "http://127.0.0.1:8876/acupuncture-physical-therapy/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/acupuncture-physical-therapy/",
+    "href": "/pulse-diagnosis/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/pulse-dia",
+    "url": "http://127.0.0.1:8876/pulse-diagnosis/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/acupuncture-physical-therapy/",
+    "href": "/acupuncture/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(6)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/acupunctu",
+    "url": "http://127.0.0.1:8876/acupuncture/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/%E6%B5%AE%E9%87%9D/",
+    "href": "/%E9%87%9D%E5%88%80/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D",
+    "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/%E6%B5%AE%E9%87%9D/",
+    "href": "/%E6%B5%AE%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE",
+    "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/%E9%87%9D%E5%88%80/",
+    "href": "/%E6%B5%AE%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE",
+    "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/%E9%87%9D%E5%88%80/",
+    "href": "/%E9%87%9D%E5%88%80/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D",
+    "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/浮針/",
+    "href": "/%E9%87%9D%E5%88%80/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D",
+    "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/浮針/",
+    "href": "/%E6%B5%AE%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE",
+    "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/針刀/",
+    "href": "/%E6%B5%AE%E9%87%9D/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(8)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E6%B5%AE",
+    "url": "http://127.0.0.1:8876/%E6%B5%AE%E9%87%9D/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  },
+  {
+    "route": "/針刀/",
+    "href": "/%E9%87%9D%E5%88%80/",
+    "ok": true,
+    "error": "locator.click: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href]').nth(9)\u001b[22m\n\u001b[2m    - locator resolved to <a href=\"/%E9%87%9D",
+    "url": "http://127.0.0.1:8876/%E9%87%9D%E5%88%80/",
+    "note": "initial test selected closed dropdown; retested after hover"
+  }
+]

@@ -1,0 +1,1391 @@
+[
+  {
+    "route": "team/zhang-yu",
+    "data": {
+      "images": [
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        }
+      ],
+      "duplicates": [
+        {
+          "text": "OUR DOCTOR",
+          "size": "16px"
+        },
+        {
+          "text": "連邦中醫院長｜中醫內科・脈診・針灸",
+          "size": "16px"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "張豫 醫師",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "38px"
+        },
+        {
+          "tag": "H2",
+          "text": "主要看診項目",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "看診特色",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "門診與預約",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "常見症狀 COMMON SYMPTOMS",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "張豫 醫師",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "網站導覽",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        }
+      ]
+    }
+  },
+  {
+    "route": "team/tsai-ru-hui",
+    "data": {
+      "images": [
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 127,
+          "attrHeight": null,
+          "cssHeight": "127.047px"
+        },
+        {
+          "width": 163,
+          "height": 127,
+          "attrHeight": null,
+          "cssHeight": "127.047px"
+        },
+        {
+          "width": 163,
+          "height": 127,
+          "attrHeight": null,
+          "cssHeight": "127.047px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 127,
+          "attrHeight": null,
+          "cssHeight": "127.047px"
+        },
+        {
+          "width": 163,
+          "height": 127,
+          "attrHeight": null,
+          "cssHeight": "127.047px"
+        },
+        {
+          "width": 163,
+          "height": 127,
+          "attrHeight": null,
+          "cssHeight": "127.047px"
+        }
+      ],
+      "duplicates": [
+        {
+          "text": "OUR DOCTOR",
+          "size": "16px"
+        },
+        {
+          "text": "女性健康・體質調理・美顏針",
+          "size": "16px"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "蔡如慧 醫師",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "38px"
+        },
+        {
+          "tag": "H2",
+          "text": "主要看診項目",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "看診特色",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "門診與預約",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "常見症狀 COMMON SYMPTOMS",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "蔡如慧 醫師",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "網站導覽",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        }
+      ]
+    }
+  },
+  {
+    "route": "team/zhang-you-ming",
+    "data": {
+      "images": [
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        },
+        {
+          "width": 163,
+          "height": 941,
+          "attrHeight": "941",
+          "cssHeight": "941px"
+        }
+      ],
+      "duplicates": [
+        {
+          "text": "OUR DOCTOR",
+          "size": "16px"
+        },
+        {
+          "text": "中醫內科・婦兒・針灸傷科",
+          "size": "16px"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "張祐銘 醫師",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "38px"
+        },
+        {
+          "tag": "H2",
+          "text": "主要看診項目",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "看診特色",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "門診與預約",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "22px"
+        },
+        {
+          "tag": "H2",
+          "text": "常見症狀 COMMON SYMPTOMS",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "張祐銘 醫師",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "網站導覽",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        }
+      ]
+    }
+  },
+  {
+    "route": "浮針",
+    "data": {
+      "images": [],
+      "duplicates": [
+        {
+          "text": "FU'S SUBCUTANEOUS NEEDLING",
+          "size": "12px"
+        },
+        {
+          "text": "浮針常稱為 Fu's Subcutaneous Needling（FSN），針具主要沿皮下疏鬆結締組織層進入，操作時可能搭配掃散手法與特定肌肉活動。一般針灸則會依穴位、病況與治療目的選擇位置及深度，兩者的評估邏輯與操作方式並不相同。",
+          "size": "16px"
+        },
+        {
+          "text": "浮針常稱為 Fu's Subcutaneous Needling（FSN），針具主要沿皮下疏鬆結締組織層進入，操作時可能搭配掃散手法與特定肌肉活動。一般針灸則會依穴位、病況與治療目的選擇位置及深度，兩者的評估邏輯與操作方式並不相同。",
+          "size": "16px"
+        },
+        {
+          "text": "浮針治療重點之一，是找出與症狀相關的肌肉緊繃、壓痛或動作異常。疼痛處不一定就是主要處理位置，也不能只依網路症狀表自行判斷。",
+          "size": "16px"
+        },
+        {
+          "text": "針具多在皮下層操作，仍屬侵入性處置，須遵守無菌與安全解剖原則。",
+          "size": "16px"
+        },
+        {
+          "text": "結合觸診、動作測試及症狀重現，尋找可能參與疼痛的肌肉。",
+          "size": "16px"
+        },
+        {
+          "text": "部分情況會搭配主動或抗阻動作，實際方式依部位與耐受程度調整。",
+          "size": "16px"
+        },
+        {
+          "text": "浮針主要評估肌肉與筋膜相關問題；麻木、無力或放射痛需先排除神經病變。",
+          "size": "16px"
+        },
+        {
+          "text": "目前浮針研究多集中於特定肌肉骨骼疼痛，部分結果顯示可能有助於疼痛與功能，但研究規模、設計與追蹤時間仍有限，不能將研究平均結果當成個人保證。",
+          "size": "16px"
+        },
+        {
+          "text": "浮針操作後可能出現短暫痠脹、拉扯感、壓痛、少量出血或瘀青。治療當日應依醫囑保持進針處清潔，活動量與伸展強度則依治療部位及反應調整。",
+          "size": "16px"
+        },
+        {
+          "text": "抗凝血或抗血小板藥物、凝血異常、懷孕、慢性病控制、局部感染或皮膚傷口。",
+          "size": "16px"
+        },
+        {
+          "text": "明顯刺痛、電擊感、頭暈、冒冷汗、噁心或呼吸不適，請立即說明。",
+          "size": "16px"
+        },
+        {
+          "text": "記錄疼痛、活動與皮膚反應；若症狀改變，回診時提供給醫師判斷。",
+          "size": "16px"
+        },
+        {
+          "text": "感受因部位、個人敏感度與操作方式而異。有人以拉扯或痠感為主，也有人仍會感到刺痛，不能保證完全無痛。",
+          "size": "16px"
+        },
+        {
+          "text": "不能。需要先確認主要疼痛來源；若症狀來自神經壓迫、關節病變、骨折、感染或其他疾病，處理方式會不同。",
+          "size": "16px"
+        },
+        {
+          "text": "沒有適用所有人的固定次數。醫師會依症狀時間、功能變化、工作負荷與每次反應決定是否繼續或改變策略。",
+          "size": "16px"
+        },
+        {
+          "text": "若症狀和姿勢、肌力、活動控制或工作負荷有關，後續訓練與生活調整通常仍是重要部分。",
+          "size": "16px"
+        },
+        {
+          "text": "可先說明不舒服的位置、誘發動作與持續時間，由醫師評估浮針或其他方式是否合適。",
+          "size": "16px"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "浮針",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "38px"
+        },
+        {
+          "tag": "H2",
+          "text": "浮針和一般針灸有什麼不同？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "皮下操作",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "患肌概念",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "再灌注活動",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "浮針可以治療哪些症狀？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "肩頸與上肢",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "腰臀與下肢",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "肌肉與動作",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "浮針診療通常如何進行？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "浮針、乾針與針刀不能只看名稱選擇",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "可能反應與注意事項",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "治療前告知",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "治療中回饋",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "治療後觀察",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "浮針常見問題",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "讓專業團隊成為您的健康後盾",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "網站導覽",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        }
+      ]
+    }
+  },
+  {
+    "route": "針刀",
+    "data": {
+      "images": [],
+      "duplicates": [
+        {
+          "text": "ACUPOTOMY",
+          "size": "12px"
+        },
+        {
+          "text": "針刀使用外形細小、前端具有特定形態的針具，依解剖位置與軟組織狀態進行操作。它和一般針灸使用的針具、進針層次與操作目的不同，也不能等同於開刀手術。",
+          "size": "16px"
+        },
+        {
+          "text": "針刀使用外形細小、前端具有特定形態的針具，依解剖位置與軟組織狀態進行操作。它和一般針灸使用的針具、進針層次與操作目的不同，也不能等同於開刀手術。",
+          "size": "16px"
+        },
+        {
+          "text": "臨床評估會關注肌肉、肌腱、韌帶、筋膜等軟組織是否可能參與疼痛與活動受限。即使症狀位置相同，原因仍可能來自關節、神經、骨骼、發炎或其他疾病，因此不能只憑「哪裡痛」就決定使用針刀。",
+          "size": "16px"
+        },
+        {
+          "text": "先辨認表層與深層組織、重要神經血管，以及預計操作區域。",
+          "size": "16px"
+        },
+        {
+          "text": "比較疼痛動作、關節活動、肌力與日常功能，確認主要問題。",
+          "size": "16px"
+        },
+        {
+          "text": "了解病史、用藥、過敏、凝血與局部皮膚狀態，再判斷適用性。",
+          "size": "16px"
+        },
+        {
+          "text": "是否適合針刀，需由醫師判斷疼痛來源與組織狀態。",
+          "size": "16px"
+        },
+        {
+          "text": "抗凝血或抗血小板藥物、出血體質、凝血異常，以及近期是否容易瘀青。",
+          "size": "16px"
+        },
+        {
+          "text": "皮膚感染、傷口、發燒、免疫問題、糖尿病控制狀況或近期手術。",
+          "size": "16px"
+        },
+        {
+          "text": "懷孕、植入物、藥物或消毒用品過敏，以及過去曾發生暈針。",
+          "size": "16px"
+        },
+        {
+          "text": "治療後可能出現短暫痠痛、壓痛、瘀青、少量出血或局部腫脹。當天依醫囑保持操作處清潔，避免自行強力按摩、過度伸展或立即進行高強度運動。",
+          "size": "16px"
+        },
+        {
+          "text": "不能預先保證。反應會受到症狀原因、持續時間、組織狀態、工作負荷與後續活動調整影響，是否需要再次處理須依回診評估。",
+          "size": "16px"
+        },
+        {
+          "text": "不是。操作深度應依解剖位置與治療目的決定；過度追求深度會增加不必要風險。",
+          "size": "16px"
+        },
+        {
+          "text": "應依操作部位與反應個別決定。一般會先避免刺激治療區的高強度活動，再依醫師建議逐步恢復。",
+          "size": "16px"
+        },
+        {
+          "text": "不是每位患者都需要，但若懷疑骨骼、關節、神經或其他病變，醫師可能建議先完成適當檢查。",
+          "size": "16px"
+        },
+        {
+          "text": "請先說明疼痛位置、持續時間、活動限制與既往檢查，由醫師評估適合的處理方式。",
+          "size": "16px"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "針刀",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "38px"
+        },
+        {
+          "tag": "H2",
+          "text": "針刀是什麼？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "組織層次",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "功能限制",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "個別風險",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "針刀可以治療哪些症狀？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "肩頸與上肢",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "腰臀與下肢",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "活動受限",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "連邦中醫的評估流程",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "針刀、一般針灸與浮針有什麼不同？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "治療前要告訴醫師什麼？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "用藥與凝血",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "局部與全身狀態",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "特殊情況",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "可能反應與術後照護",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "針刀常見問題",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "讓專業團隊成為您的健康後盾",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "網站導覽",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        }
+      ]
+    }
+  },
+  {
+    "route": "美顏針",
+    "data": {
+      "images": [],
+      "duplicates": [
+        {
+          "text": "FACIAL ACUPUNCTURE",
+          "size": "12px"
+        },
+        {
+          "text": "美顏針使用較細的針具，在臉部及醫師判斷需要的相關部位進行針刺。評估除了皮膚表面，也會觀察表情肌使用、咀嚼習慣、臉部筋膜張力、左右對稱與整體狀態。",
+          "size": "16px"
+        },
+        {
+          "text": "美顏針使用較細的針具，在臉部及醫師判斷需要的相關部位進行針刺。評估除了皮膚表面，也會觀察表情肌使用、咀嚼習慣、臉部筋膜張力、左右對稱與整體狀態。",
+          "size": "16px"
+        },
+        {
+          "text": "坊間可能使用韓式美顏針、小臉針或顏面針灸等名稱，但實際訓練背景、操作方式與施針邏輯並不完全相同。療程前應確認由合格中醫師診察與操作，並清楚了解可能反應與限制。",
+          "size": "16px"
+        },
+        {
+          "text": "觀察抬眉、皺眉、微笑、咀嚼等動作，以及兩側肌肉張力差異。",
+          "size": "16px"
+        },
+        {
+          "text": "評估緊繃、觸感與顏面平衡，不以單一臉型套用固定下針公式。",
+          "size": "16px"
+        },
+        {
+          "text": "了解膚況、睡眠、壓力、保養、日曬及近期接受的美容或醫療處置。",
+          "size": "16px"
+        },
+        {
+          "text": "實際改善程度與療程安排，需依皮膚、肌肉張力及個人狀況評估。",
+          "size": "16px"
+        },
+        {
+          "text": "每個人的年齡、皮膚、肌肉張力、生活作息與期待不同，因此不能用固定針數、固定次數或他人的照片預測結果。美顏針也不等同手術、填充或能量型醫療處置，作用方式與可處理範圍不同。",
+          "size": "16px"
+        },
+        {
+          "text": "施針數量應配合解剖、肌肉張力、膚況與耐受程度，重點在位置與整體規劃。",
+          "size": "16px"
+        },
+        {
+          "text": "短期感受與後續維持會受到生活習慣、肌肉使用及個人修復反應影響。",
+          "size": "16px"
+        },
+        {
+          "text": "若有皮膚病灶、顏面神經症狀、牙顎或其他問題，可能需要其他專科共同評估。",
+          "size": "16px"
+        },
+        {
+          "text": "臉部血管分布豐富，即使使用細針，仍可能出現短暫刺痛、痠脹、局部紅點、少量出血或瘀青。瘀青發生與否會受膚況、部位、用藥及個人體質影響。",
+          "size": "16px"
+        },
+        {
+          "text": "抗凝血藥物、凝血異常、懷孕、皮膚感染、傷口、近期醫美、容易暈針或過敏。",
+          "size": "16px"
+        },
+        {
+          "text": "依醫囑清潔及保養，避免自行大力按壓、刮痧或按摩治療區域。",
+          "size": "16px"
+        },
+        {
+          "text": "若有瘀青可先記錄變化；不要自行使用不明藥膏或反覆刺激局部。",
+          "size": "16px"
+        },
+        {
+          "text": "細針不代表完全無感。實際可能有刺感、痠感或局部緊繃，與施針位置、個人敏感度及當天狀態有關。",
+          "size": "16px"
+        },
+        {
+          "text": "不以針數判斷。應由醫師依肌肉、筋膜、膚況與治療目標安排，不追求不必要的針數。",
+          "size": "16px"
+        },
+        {
+          "text": "需要先告知療程種類、日期與部位，並同時遵循原施術醫師的照護建議。是否需要間隔及多久，應由雙方醫療專業人員個別評估。",
+          "size": "16px"
+        },
+        {
+          "text": "沒有適合所有人的固定答案。醫師會依期待、皮膚與肌肉狀態、每次反應及生活安排共同規劃。",
+          "size": "16px"
+        },
+        {
+          "text": "可先說明在意的臉部狀況、近期醫美療程與用藥，再由醫師安排評估。",
+          "size": "16px"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "美顏針",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "38px"
+        },
+        {
+          "tag": "H2",
+          "text": "美顏針的重點，在個別評估",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "肌肉與表情",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "筋膜與輪廓",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "皮膚與生活",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "美顏針可以改善什麼？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "表情與肌肉",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "膚況與輪廓",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "療程前會評估哪些內容？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "先建立合理期待",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "不是針越多越好",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "變化因人而異",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "必要時轉介",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "美顏針診療流程",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "可能反應與治療後照護",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "治療前告知",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "當日保養",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "觀察反應",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "美顏針常見問題",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "讓專業團隊成為您的健康後盾",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "網站導覽",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        }
+      ]
+    }
+  },
+  {
+    "route": "symptoms",
+    "data": {
+      "images": [],
+      "duplicates": [
+        {
+          "text": "COMMON SYMPTOMS",
+          "size": "16px"
+        },
+        {
+          "text": "從生活中的不適開始，找到身體平衡的可能。",
+          "size": "16px"
+        },
+        {
+          "text": "整理常見的內科與體質問題、筋骨疼痛與針灸相關症狀，提供中醫角度的解析與調理建議，陪伴你更認識自己的身體。",
+          "size": "16px"
+        },
+        {
+          "text": "常見的不適與身體狀況，從中醫角度了解原因，提供個別評估與調理建議。",
+          "size": "16px"
+        },
+        {
+          "text": "常見的不適與身體狀況，從中醫角度了解原因，提供個別評估與調理建議。",
+          "size": "16px"
+        },
+        {
+          "text": "可先說明主要症狀、持續時間及目前的檢查資料。",
+          "size": "16px"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "常見症狀",
+          "font": "PMingLiU, serif",
+          "size": "38px"
+        },
+        {
+          "tag": "H2",
+          "text": "內科與體質",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "筋骨疼痛與針灸",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "網站導覽",
+          "font": "\"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        }
+      ]
+    }
+  },
+  {
+    "route": "symptoms/constipation",
+    "data": {
+      "images": [],
+      "duplicates": [
+        {
+          "text": "便秘不只是排便次數少，也可能表現為糞便乾硬、排便費力、需要很久才能排出，或排完仍覺得不乾淨。飲食、水分與活動會影響排便，但藥物、骨盆底功能、腸道疾病及其他身體狀況也可能參與。",
+          "size": "16px"
+        },
+        {
+          "text": "便秘通常依排便頻率、糞便型態、排便是否困難，以及是否有排不乾淨的感覺綜合判斷。每個人的正常頻率不同，不能只用「每天都要排便」作為唯一標準。",
+          "size": "16px"
+        },
+        {
+          "text": "便秘可能和糞便在大腸移動較慢、骨盆底排便協調、腸道功能、飲食與生活改變有關。部分藥物、鐵劑、疾病及懷孕也可能造成或加重便秘。",
+          "size": "16px"
+        },
+        {
+          "text": "排便時需要明顯用力，糞便乾硬或呈顆粒狀，可能造成肛門疼痛、裂傷或出血。若反覆發生，不宜只增加用力程度。",
+          "size": "16px"
+        },
+        {
+          "text": "排便後仍覺得腸道內有糞便，或常需要再次回到廁所。有時和糞便量、腸道感覺或骨盆底肌肉協調有關。",
+          "size": "16px"
+        },
+        {
+          "text": "便秘可能伴隨腹脹、悶痛、食慾下降。若排便習慣突然改變，或腹痛持續加重，需要先排除其他腸胃問題。",
+          "size": "16px"
+        },
+        {
+          "text": "便秘持續、反覆依賴瀉藥，或已影響食慾與生活時，應接受評估。高齡者、孕婦、長期服藥者，以及有腸胃疾病、甲狀腺、糖尿病或神經系統疾病者，也要一起檢視原有疾病與用藥。",
+          "size": "16px"
+        },
+        {
+          "text": "若家族中有大腸直腸癌病史，或排便習慣近期明顯改變，應主動告知醫師。",
+          "size": "16px"
+        },
+        {
+          "text": "記錄一至兩週的排便時間、次數、糞便形狀、是否疼痛或出血，以及腹脹與飲食的關係。也可記錄每日飲水、蔬果與全穀類攝取、活動量、便意是否常被延後，以及使用的藥物與保健品。",
+          "size": "16px"
+        },
+        {
+          "text": "紀錄的目的不是要求每天固定排便，而是找出變化與可能原因。不要自行長期增加瀉藥劑量。",
+          "size": "16px"
+        },
+        {
+          "text": "便秘若合併持續或劇烈腹痛、無法排氣、嘔吐、發燒、血便、黑便或不明原因體重下降，應儘快就醫。症狀突然出現並快速惡化，也需要排除腸阻塞或其他疾病。",
+          "size": "16px"
+        },
+        {
+          "text": "若肛門出血反覆發生，不能只當作痔瘡；應由醫師判斷出血來源。",
+          "size": "16px"
+        },
+        {
+          "text": "醫師會先了解排便頻率、糞便型態、用力程度與排不乾淨感，再詢問飲食、水分、活動、睡眠、月經、壓力與目前用藥。腹痛、出血、體重變化與家族病史也是重要評估內容。",
+          "size": "16px"
+        },
+        {
+          "text": "脈診辨證會與問診一起使用，判斷適合的中醫內科方向。若出現警訊、懷疑腸阻塞、甲狀腺問題、骨盆底功能異常或其他疾病，仍需安排檢查或轉介。",
+          "size": "16px"
+        },
+        {
+          "text": "中醫會依糞便乾濕、排便力道、腹脹腹痛、口渴、怕冷怕熱、食慾與脈象辨證。常見方向包括：",
+          "size": "16px"
+        },
+        {
+          "text": "糞便乾硬、口乾或容易有燥熱感，可能伴隨腹脹。治療方向以清熱潤腸、調整腸胃傳導為主。",
+          "size": "16px"
+        },
+        {
+          "text": "便意存在但排出不順，腹脹與情緒或壓力變化明顯，可能伴隨噯氣。治療會依表現採取理氣導滯、調暢腸胃的方向。",
+          "size": "16px"
+        },
+        {
+          "text": "排便力道不足、容易疲倦，或糞便未必很乾但仍難排出時，會評估益氣養血、潤腸通便等方向。",
+          "size": "16px"
+        },
+        {
+          "text": "便秘日久，伴隨怕冷、腹部冷感或精神不足時，可能採取溫陽散寒、潤腸通便的方向。實際證型不能只依單一症狀判定。",
+          "size": "16px"
+        },
+        {
+          "text": "先整理排便型態、腹部症狀、飲食與用藥，再配合脈象判斷燥熱、氣滯、氣血不足、陽虛或其他兼證。",
+          "size": "16px"
+        },
+        {
+          "text": "依當次糞便型態、腹脹、排便力道及整體狀況選擇藥味，回診時比較排便是否更順、是否腹瀉或腹痛後調整，不以強力瀉下作為固定處理。",
+          "size": "16px"
+        },
+        {
+          "text": "可依腹脹、腸胃功能與患者接受度評估是否搭配針灸。若正在使用瀉藥或其他影響排便的處方藥，不應自行停用。",
+          "size": "16px"
+        },
+        {
+          "text": "可以由醫師評估。中醫會依糞便型態、排便力道、腹部症狀、飲食、用藥與脈象安排治療，並追蹤排便品質與身體反應。",
+          "size": "16px"
+        },
+        {
+          "text": "不一定。排便頻率因人而異，更需要看糞便是否乾硬、排便是否困難，以及是否有排不乾淨感或生活受到影響。",
+          "size": "16px"
+        },
+        {
+          "text": "不一定。纖維對部分便秘有幫助，但若增加太快、喝水不足，腹脹可能更明顯。腸阻塞、骨盆底問題或其他疾病也不能只靠纖維處理。",
+          "size": "16px"
+        },
+        {
+          "text": "不同瀉藥的用途與安全性不同。若已長期依賴或需要不斷增加劑量，應請醫師檢視原因與使用方式，不要自行突然停藥或加量。",
+          "size": "16px"
+        },
+        {
+          "text": "不一定。痔瘡與肛裂可能出血，但其他腸道問題也會造成血便。反覆出血、黑便或合併體重下降時，需要儘快檢查。",
+          "size": "16px"
+        },
+        {
+          "text": "就診前可先記錄症狀開始時間、最明顯的時段、誘發情境與伴隨症狀，並攜帶目前用藥及檢查資料。",
+          "size": "16px"
+        },
+        {
+          "text": "105 臺北市松山區南京東路四段69號1樓",
+          "size": "16px"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "便秘",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "38px"
+        },
+        {
+          "tag": "H2",
+          "text": "你是否有這些困擾？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "便秘是什麼？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "常見表現",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "糞便乾硬與排便費力",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "排便不完全感",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "腹脹與排便習慣改變",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "常見相關因素",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "哪些人需要更完整評估？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "可以先記錄什麼？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "什麼情況需要盡快就醫？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "連邦中醫如何評估便秘？",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "中醫診療方向",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "腸胃燥熱",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "氣滯不暢",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "氣血不足",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "陽虛寒凝",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "連邦中醫的治療方式",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H3",
+          "text": "問診與脈診辨證",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "單味藥組方",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H3",
+          "text": "需要時搭配針灸",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "20px"
+        },
+        {
+          "tag": "H2",
+          "text": "日常照護",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "常見問題",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "🏥 讓專業團隊成為您的健康後盾",
+          "font": "\"Noto Serif TC\", \"Songti TC\", PMingLiU, serif",
+          "size": "24px"
+        },
+        {
+          "tag": "H2",
+          "text": "網站導覽",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        },
+        {
+          "tag": "H2",
+          "text": "預約與門診資訊",
+          "font": "\"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+          "size": "17px"
+        }
+      ]
+    }
+  }
+]
