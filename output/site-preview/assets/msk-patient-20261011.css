@@ -1,0 +1,18 @@
+/* Preserve classic TCM article identity while making patient needs clear. */
+body.msk-patient .msk-recognition{font:700 25px/1.65 PMingLiU,serif;color:#6f4931;margin:14px 0 18px;max-width:620px}
+body.msk-patient .lb-hero .lb-lead{font-size:18px!important;line-height:1.85!important}
+body.msk-patient .msk-treatment-intro{border-left:3px solid #b68b69;padding:8px 0 8px 20px;margin:20px 0}
+body.msk-patient .msk-goals{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0 30px}
+body.msk-patient .msk-goals span{padding:9px 16px;background:#f1e9df;color:#6f4931;border-radius:6px;font-size:16px}
+body.msk-patient .msk-method-links{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;margin:12px 0 26px;font-size:16px}
+body.msk-patient .msk-method-links span{flex-basis:100%;color:#887b70}
+body.msk-patient .msk-method-links a,body.msk-patient .msk-crosslink a{color:#78523b;text-decoration:underline;text-underline-offset:4px}
+body.msk-patient .msk-invite{margin-top:30px;padding:24px 0 0;border-top:1px solid #e6ddd3}
+body.msk-patient .msk-invite p{font-weight:700;margin:0 0 18px}
+body.msk-patient .msk-invite a{display:inline-block;background:#269546;color:#fff;padding:12px 24px;border-radius:28px;text-decoration:none;font-weight:700}
+body.msk-patient .msk-invite small{display:block;font-size:14px;color:#887b70;margin-top:14px;line-height:1.8}
+body.msk-patient .lb-section h3{margin-top:28px;margin-bottom:12px}
+body.msk-patient .lb-section li+li{margin-top:8px}
+@media(max-width:767px){body.msk-patient .msk-recognition{font-size:22px}body.msk-patient .lb-hero .lb-lead{font-size:16px!important}body.msk-patient .msk-goals{gap:8px}body.msk-patient .msk-goals span{font-size:14px;padding:8px 11px}body.msk-patient .msk-invite{padding-top:20px}}
+body.msk-patient .lb-hero .msk-recognition{font-size:25px!important;line-height:1.65!important;font-weight:700!important;color:#6f4931!important}
+@media(max-width:767px){body.msk-patient .lb-hero .msk-recognition{font-size:22px!important}}

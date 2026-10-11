@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "frozen-shoulder",
+    "hook": "穿衣要慢慢來，手伸不到背後，連翻身也被肩痛打斷？",
+    "goals": [
+      "抬手與外轉",
+      "穿衣與手伸背後",
+      "夜間疼痛與睡眠"
+    ],
+    "booking": "https://lin.ee/UWWKmse",
+    "procedureLinks": 2
+  },
+  {
+    "slug": "neck-shoulder-pain",
+    "hook": "工作一整天肩頸越來越緊，轉頭卡住，休息後又再痛？",
+    "goals": [
+      "轉頭與頸部活動",
+      "肩胛與上背感受",
+      "工作與日常動作"
+    ],
+    "booking": "https://lin.ee/UWWKmse",
+    "procedureLinks": 2
+  },
+  {
+    "slug": "low-back-pain",
+    "hook": "坐久站起來腰就痛，彎腰拿東西、翻身都要特別小心？",
+    "goals": [
+      "坐站與翻身",
+      "彎腰與搬提",
+      "走路與日常活動"
+    ],
+    "booking": "https://lin.ee/UWWKmse",
+    "procedureLinks": 2
+  },
+  {
+    "slug": "sciatica",
+    "hook": "痛從臀部一路延伸到腿，坐也不舒服，走路又麻又痛？",
+    "goals": [
+      "腿痛與麻木範圍",
+      "坐站與行走",
+      "肌力與感覺變化"
+    ],
+    "booking": "https://lin.ee/UWWKmse",
+    "procedureLinks": 2
+  },
+  {
+    "slug": "knee-pain",
+    "hook": "上下樓先想哪隻腳出力，蹲下或站起來總被膝痛提醒？",
+    "goals": [
+      "走路與承重",
+      "蹲下與起身",
+      "上下樓功能"
+    ],
+    "booking": "https://lin.ee/UWWKmse",
+    "procedureLinks": 2
+  },
+  {
+    "slug": "tennis-elbow",
+    "hook": "沒打網球，提水壺、擰毛巾，甚至拿杯子卻讓手肘痛？",
+    "goals": [
+      "握力與拿杯子",
+      "提物與扭轉",
+      "工作與運動負荷"
+    ],
+    "booking": "https://lin.ee/UWWKmse",
+    "procedureLinks": 2
+  },
+  {
+    "slug": "de-quervain",
+    "hook": "抱小孩、提袋子或開瓶蓋時，拇指側手腕總是痛？",
+    "goals": [
+      "拇指與手腕活動",
+      "握提與拿取物品",
+      "抱提與工作動作"
+    ],
+    "booking": "https://lin.ee/UWWKmse",
+    "procedureLinks": 2
+  },
+  {
+    "slug": "plantar-heel-pain",
+    "hook": "早上下床第一步就刺痛，站久、走遠又開始痛？",
+    "goals": [
+      "起床與久坐後起步",
+      "站立與走路",
+      "運動與鞋具負荷"
+    ],
+    "booking": "https://lin.ee/UWWKmse",
+    "procedureLinks": 2
+  }
+]
