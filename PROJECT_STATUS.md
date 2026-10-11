@@ -218,3 +218,11 @@ tools/shell-dimensions-qa.cjs 對 31 頁 × 1440/768/390px 共 93 組檢查：�
 - 八頁三尺寸檢查及桌機手機全頁截圖：output/visual-qa/home-system/msk-before、msk-after、msk-final；八頁治療段落實際點擊確認，皆有三項功能重點、LINE入口及兩個療程說明連結。
 - 對照報告 /review/msk-patient/；保護／互動紀錄 output/visual-qa/musculoskeletal-content-review/。未部署正式WordPress。
 - 最終八頁×1440／768／390px共24組驗收通過：單一H1、圖片載入、無水平溢出、FAQ、手機選單與內部連結。
+
+## 2026-10-11 六項治療服務拆分
+- 移除埋線的全站治療入口；浮針及針刀分為獨立項目，維持六項服务。首頁、總覽、31頁共用選單、相關入口及 ItemList 同步。
+- 埋線舊網址顯示目前未提供，原頁備份於 output/archive/retired-embedding，未部署正式網站。
+- 浮針以既有肩部不適情境圖取代錯用的脈診圖片，非實際浮針示範；待診所提供操作照片。
+- 全站31頁目錄與Schema驗證通過；首頁與服務總覽1440／768／390px一致性檢查通過；下拉選單1440／1024px共12項實際點擊通過。
+- 修改前93組檢查通過。修改後全站截圖因C槽空間不足中止，完整視覺回歸尚待完成，不宣稱已全數通過。
+- 檢查頁 /review/six-services-20261011/；驗證 output/visual-qa/six-services-audit/。

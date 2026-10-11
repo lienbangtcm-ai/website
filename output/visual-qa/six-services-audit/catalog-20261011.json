@@ -1,0 +1,102 @@
+{
+  "services": [
+    {
+      "href": "/pulse-diagnosis/",
+      "title": "中醫內科／脈診",
+      "description": "辨證處方・體質調理",
+      "image": "/assets/service-internal-real-v3.png"
+    },
+    {
+      "href": "/acupuncture/",
+      "title": "針灸",
+      "description": "不留針・快速放鬆",
+      "image": "/assets/user-20261009/wrist.webp"
+    },
+    {
+      "href": "/acupuncture-physical-therapy/",
+      "title": "中醫 × 物理治療",
+      "description": "整合評估・動作控制",
+      "image": "/assets/user-20261009/movement.webp"
+    },
+    {
+      "href": "/浮針/",
+      "title": "浮針",
+      "description": "患肌評估・活動調整",
+      "image": "/assets/symptoms-20261010/frozen-shoulder-1600.webp"
+    },
+    {
+      "href": "/針刀/",
+      "title": "針刀",
+      "description": "精準處理・組織疼痛",
+      "image": "/assets/service-acupotomy-real-v3.png"
+    },
+    {
+      "href": "/美顏針/",
+      "title": "美顏針",
+      "description": "自然調理・由內而外",
+      "image": "/assets/user-20261009/facial.webp"
+    }
+  ],
+  "changedFiles": [
+    "output\\site-preview\\index.html",
+    "output\\site-preview\\about-lienbang\\index.html",
+    "output\\site-preview\\acupuncture\\index.html",
+    "output\\site-preview\\acupuncture-physical-therapy\\index.html",
+    "output\\site-preview\\dist\\index.html",
+    "output\\site-preview\\pulse-diagnosis\\index.html",
+    "output\\site-preview\\services\\index.html",
+    "output\\site-preview\\symptoms\\index.html",
+    "output\\site-preview\\team\\index.html",
+    "output\\site-preview\\埋線\\index.html",
+    "output\\site-preview\\浮針\\index.html",
+    "output\\site-preview\\美顏針\\index.html",
+    "output\\site-preview\\針刀\\index.html",
+    "output\\site-preview\\dist\\about-lienbang\\index.html",
+    "output\\site-preview\\dist\\acupuncture\\index.html",
+    "output\\site-preview\\dist\\acupuncture-physical-therapy\\index.html",
+    "output\\site-preview\\dist\\pulse-diagnosis\\index.html",
+    "output\\site-preview\\dist\\services\\index.html",
+    "output\\site-preview\\dist\\symptoms\\index.html",
+    "output\\site-preview\\dist\\埋線\\index.html",
+    "output\\site-preview\\dist\\浮針\\index.html",
+    "output\\site-preview\\dist\\美顏針\\index.html",
+    "output\\site-preview\\dist\\針刀\\index.html",
+    "output\\site-preview\\dist\\symptoms\\allergic-rhinitis\\index.html",
+    "output\\site-preview\\dist\\symptoms\\constipation\\index.html",
+    "output\\site-preview\\dist\\symptoms\\cough\\index.html",
+    "output\\site-preview\\dist\\symptoms\\de-quervain\\index.html",
+    "output\\site-preview\\dist\\symptoms\\diarrhea\\index.html",
+    "output\\site-preview\\dist\\symptoms\\fatigue\\index.html",
+    "output\\site-preview\\dist\\symptoms\\frozen-shoulder\\index.html",
+    "output\\site-preview\\dist\\symptoms\\gerd\\index.html",
+    "output\\site-preview\\dist\\symptoms\\insomnia\\index.html",
+    "output\\site-preview\\dist\\symptoms\\knee-pain\\index.html",
+    "output\\site-preview\\dist\\symptoms\\low-back-pain\\index.html",
+    "output\\site-preview\\dist\\symptoms\\menstrual-pain\\index.html",
+    "output\\site-preview\\dist\\symptoms\\neck-shoulder-pain\\index.html",
+    "output\\site-preview\\dist\\symptoms\\plantar-heel-pain\\index.html",
+    "output\\site-preview\\dist\\symptoms\\sciatica\\index.html",
+    "output\\site-preview\\dist\\symptoms\\tennis-elbow\\index.html",
+    "output\\site-preview\\symptoms\\allergic-rhinitis\\index.html",
+    "output\\site-preview\\symptoms\\constipation\\index.html",
+    "output\\site-preview\\symptoms\\cough\\index.html",
+    "output\\site-preview\\symptoms\\de-quervain\\index.html",
+    "output\\site-preview\\symptoms\\diarrhea\\index.html",
+    "output\\site-preview\\symptoms\\fatigue\\index.html",
+    "output\\site-preview\\symptoms\\frozen-shoulder\\index.html",
+    "output\\site-preview\\symptoms\\gerd\\index.html",
+    "output\\site-preview\\symptoms\\insomnia\\index.html",
+    "output\\site-preview\\symptoms\\knee-pain\\index.html",
+    "output\\site-preview\\symptoms\\low-back-pain\\index.html",
+    "output\\site-preview\\symptoms\\menstrual-pain\\index.html",
+    "output\\site-preview\\symptoms\\neck-shoulder-pain\\index.html",
+    "output\\site-preview\\symptoms\\plantar-heel-pain\\index.html",
+    "output\\site-preview\\symptoms\\sciatica\\index.html",
+    "output\\site-preview\\symptoms\\tennis-elbow\\index.html",
+    "output\\site-preview\\team\\tsai-ru-hui\\index.html",
+    "output\\site-preview\\team\\zhang-you-ming\\index.html",
+    "output\\site-preview\\team\\zhang-yu\\index.html"
+  ],
+  "retired": "/埋線/",
+  "imageNote": "浮針使用肩部不適情境圖，並非浮針操作示範；需要診所提供操作照片。"
+}
