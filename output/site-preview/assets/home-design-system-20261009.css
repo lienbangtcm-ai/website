@@ -151,3 +151,18 @@ body.home-system .lb-nav .lb-nav-inner{display:grid!important;grid-template-colu
 body.home-system .lb-nav a{display:flex;align-items:center;font-size:14px!important;line-height:1.6!important;padding:10px!important}
 body.home-system .lb-section{scroll-margin-top:96px!important}
 }
+
+/* User audit fixes: intrinsic image height, readable captions and compact article rhythm. */
+body.home-system .dp-symptom img{width:100%!important;height:auto!important;aspect-ratio:1.28/1!important;object-fit:cover!important}
+body.home-system .ab-photo-caption{position:static!important;inset:auto!important;display:block!important;background:#f8f5ef!important;color:#493023!important;padding:14px 18px!important;margin:0!important;font-size:16px!important;text-shadow:none!important;max-width:none!important;transform:none!important}
+body.home-system .ab-btn{white-space:nowrap!important}
+body.home-system .ab-hero h1,body.home-system .lbsym-hero h1{font-size:58px!important}
+body.home-system .lb-table th{background:#eee5da!important;color:#493023!important}
+body.home-system .lb-table td{background:#fffdf9!important}
+@media(max-width:768px){body.home-system .ab-hero h1,body.home-system .lbsym-hero h1{font-size:38px!important}body.home-system .ab-btn{padding-inline:18px!important;font-size:15px!important}body.home-system .lb-section{padding-block:40px!important}body.home-system .lb-section h2{margin-bottom:22px!important}body.home-system .lb-section p{margin-block:12px!important}}
+
+body.home-system .lb-about :is(.ab-hero-photo,.ab-story-photo){display:flex!important;flex-direction:column!important;height:auto!important;min-height:0!important}
+body.home-system .lb-about .ab-hero-photo img{height:455px!important;flex:none!important}
+body.home-system .lb-about .ab-story-photo img{height:305px!important;flex:none!important}
+body.home-system .lb-about :is(.ab-hero-photo,.ab-story-photo) .ab-photo-caption{position:relative!important;inset:auto!important;width:100%!important;max-width:none!important;box-sizing:border-box!important;flex:none!important;text-align:left!important;background:#f8f5ef!important;color:#493023!important}
+@media(max-width:768px){body.home-system .lb-about .ab-hero-photo img{height:340px!important}body.home-system .lb-about .ab-story-photo img{height:250px!important}}

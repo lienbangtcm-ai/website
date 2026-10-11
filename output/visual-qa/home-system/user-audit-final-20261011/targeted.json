@@ -1,0 +1,142 @@
+{
+  "entries": [
+    {
+      "route": "about-lienbang",
+      "ok": true
+    },
+    {
+      "route": "acupuncture",
+      "ok": true
+    },
+    {
+      "route": "acupuncture-physical-therapy",
+      "ok": true
+    },
+    {
+      "route": "articles",
+      "ok": true
+    },
+    {
+      "route": "home",
+      "ok": true
+    },
+    {
+      "route": "pulse-diagnosis",
+      "ok": true
+    },
+    {
+      "route": "services",
+      "ok": true
+    },
+    {
+      "route": "symptoms/allergic-rhinitis",
+      "ok": true
+    },
+    {
+      "route": "symptoms/constipation",
+      "ok": true
+    },
+    {
+      "route": "symptoms/cough",
+      "ok": true
+    },
+    {
+      "route": "symptoms/de-quervain",
+      "ok": true
+    },
+    {
+      "route": "symptoms/diarrhea",
+      "ok": true
+    },
+    {
+      "route": "symptoms/fatigue",
+      "ok": true
+    },
+    {
+      "route": "symptoms/frozen-shoulder",
+      "ok": true
+    },
+    {
+      "route": "symptoms/gerd",
+      "ok": true
+    },
+    {
+      "route": "symptoms",
+      "ok": true
+    },
+    {
+      "route": "symptoms/insomnia",
+      "ok": true
+    },
+    {
+      "route": "symptoms/knee-pain",
+      "ok": true
+    },
+    {
+      "route": "symptoms/low-back-pain",
+      "ok": true
+    },
+    {
+      "route": "symptoms/menstrual-pain",
+      "ok": true
+    },
+    {
+      "route": "symptoms/neck-shoulder-pain",
+      "ok": true
+    },
+    {
+      "route": "symptoms/plantar-heel-pain",
+      "ok": true
+    },
+    {
+      "route": "symptoms/sciatica",
+      "ok": true
+    },
+    {
+      "route": "symptoms/tennis-elbow",
+      "ok": true
+    },
+    {
+      "route": "team",
+      "ok": true
+    },
+    {
+      "route": "team/tsai-ru-hui",
+      "ok": true
+    },
+    {
+      "route": "team/zhang-you-ming",
+      "ok": true
+    },
+    {
+      "route": "team/zhang-yu",
+      "ok": true
+    },
+    {
+      "route": "埋線",
+      "ok": true
+    },
+    {
+      "route": "浮針",
+      "ok": true
+    },
+    {
+      "route": "美顏針",
+      "ok": true
+    },
+    {
+      "route": "針刀",
+      "ok": true
+    }
+  ],
+  "captions": [
+    {
+      "belowPhoto": true,
+      "width": 375
+    },
+    {
+      "belowPhoto": true,
+      "width": 330
+    }
+  ]
+}
