@@ -1,0 +1,3179 @@
+[
+  {
+    "route": "allergic-rhinitis",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "鼻過敏是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估鼻過敏？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "constipation",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "便秘是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估便秘？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "cough",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "咳嗽是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估咳嗽？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "de-quervain",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "媽媽手是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估媽媽手？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "diarrhea",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "腹瀉是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估腹瀉？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "fatigue",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "疲倦是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估疲倦？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "frozen-shoulder",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "五十肩是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估五十肩？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "gerd",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "常見症狀",
+        "visible": true,
+        "href": "#symptoms"
+      },
+      {
+        "text": "相關因素",
+        "visible": true,
+        "href": "#causes"
+      },
+      {
+        "text": "辨證論治",
+        "visible": true,
+        "href": "#tcm"
+      },
+      {
+        "text": "治療方式",
+        "visible": true,
+        "href": "#treatment"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#faq"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "insomnia",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "失眠是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人比較容易出現睡眠困擾？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估失眠？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "knee-pain",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "膝痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估膝痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "low-back-pain",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "腰背痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "什麼情況需要立即就醫？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "連邦中醫如何評估腰背痛？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-10"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "menstrual-pain",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "經痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估經痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "neck-shoulder-pain",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "肩頸痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "連邦中醫如何評估肩頸痛？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-10"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "plantar-heel-pain",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "足底痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估足底痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "sciatica",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "坐骨痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估坐骨痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "tennis-elbow",
+    "width": 1440,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "網球肘是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估網球肘？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "allergic-rhinitis",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "鼻過敏是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估鼻過敏？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "constipation",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "便秘是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估便秘？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "cough",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "咳嗽是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估咳嗽？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "de-quervain",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "媽媽手是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估媽媽手？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "diarrhea",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "腹瀉是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估腹瀉？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "fatigue",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "疲倦是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估疲倦？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "frozen-shoulder",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "五十肩是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估五十肩？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "gerd",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "常見症狀",
+        "visible": true,
+        "href": "#symptoms"
+      },
+      {
+        "text": "相關因素",
+        "visible": true,
+        "href": "#causes"
+      },
+      {
+        "text": "辨證論治",
+        "visible": true,
+        "href": "#tcm"
+      },
+      {
+        "text": "治療方式",
+        "visible": true,
+        "href": "#treatment"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#faq"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "insomnia",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "失眠是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人比較容易出現睡眠困擾？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估失眠？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "knee-pain",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "膝痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估膝痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "low-back-pain",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "腰背痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "什麼情況需要立即就醫？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "連邦中醫如何評估腰背痛？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-10"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "menstrual-pain",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "經痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估經痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "neck-shoulder-pain",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "肩頸痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "連邦中醫如何評估肩頸痛？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-10"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "plantar-heel-pain",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "足底痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估足底痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "sciatica",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "坐骨痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估坐骨痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "tennis-elbow",
+    "width": 768,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "網球肘是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估網球肘？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "allergic-rhinitis",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "鼻過敏是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估鼻過敏？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "constipation",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "便秘是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估便秘？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "cough",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "咳嗽是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估咳嗽？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "de-quervain",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "媽媽手是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估媽媽手？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "diarrhea",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "腹瀉是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估腹瀉？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "fatigue",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "疲倦是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估疲倦？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "frozen-shoulder",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "五十肩是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估五十肩？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "gerd",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "常見症狀",
+        "visible": true,
+        "href": "#symptoms"
+      },
+      {
+        "text": "相關因素",
+        "visible": true,
+        "href": "#causes"
+      },
+      {
+        "text": "辨證論治",
+        "visible": true,
+        "href": "#tcm"
+      },
+      {
+        "text": "治療方式",
+        "visible": true,
+        "href": "#treatment"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#faq"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "insomnia",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "失眠是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人比較容易出現睡眠困擾？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估失眠？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "knee-pain",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "膝痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估膝痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "low-back-pain",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "腰背痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "什麼情況需要立即就醫？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "連邦中醫如何評估腰背痛？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-10"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "menstrual-pain",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "經痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先記錄什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估經痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "中醫診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "neck-shoulder-pain",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "肩頸痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "連邦中醫如何評估肩頸痛？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-10"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "plantar-heel-pain",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "足底痛可能來自哪些位置？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估足底痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "sciatica",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "坐骨痛是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估坐骨痛？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  },
+  {
+    "route": "tennis-elbow",
+    "width": 390,
+    "display": "block",
+    "overflow": false,
+    "links": [
+      {
+        "text": "你是否有這些困擾？",
+        "visible": true,
+        "href": "#section-0"
+      },
+      {
+        "text": "網球肘是什麼？",
+        "visible": true,
+        "href": "#section-1"
+      },
+      {
+        "text": "常見表現",
+        "visible": true,
+        "href": "#section-2"
+      },
+      {
+        "text": "常見相關因素",
+        "visible": true,
+        "href": "#section-3"
+      },
+      {
+        "text": "哪些人需要更完整評估？",
+        "visible": true,
+        "href": "#section-4"
+      },
+      {
+        "text": "可以先觀察什麼？",
+        "visible": true,
+        "href": "#section-5"
+      },
+      {
+        "text": "什麼情況需要盡快就醫？",
+        "visible": true,
+        "href": "#section-6"
+      },
+      {
+        "text": "連邦中醫如何評估網球肘？",
+        "visible": true,
+        "href": "#section-7"
+      },
+      {
+        "text": "針灸傷科診療方向",
+        "visible": true,
+        "href": "#section-8"
+      },
+      {
+        "text": "連邦中醫的治療方式",
+        "visible": true,
+        "href": "#section-9"
+      },
+      {
+        "text": "日常照護",
+        "visible": true,
+        "href": "#section-10"
+      },
+      {
+        "text": "常見問題",
+        "visible": true,
+        "href": "#section-11"
+      }
+    ],
+    "clicked": true
+  }
+]

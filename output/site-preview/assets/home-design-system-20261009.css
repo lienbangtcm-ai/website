@@ -139,3 +139,15 @@ body.home-system .dp-bottom-copy strong{font-size:24px!important}
 body.home-system .lb-article .lb-cta h2{font-size:24px!important}
 body.home-system .lb-article .lb-cta-grid{width:91%!important}
 }
+
+/* Chapter navigation: show every label without a hidden horizontal overflow. */
+body.home-system .lb-nav{display:block!important;position:relative!important;top:auto!important;overflow:visible!important}
+body.home-system .lb-nav .lb-nav-inner{display:flex!important;flex-wrap:wrap!important;justify-content:flex-start!important;align-items:stretch!important;width:92%!important;max-width:1320px!important;margin:0 auto!important;padding:14px 0!important;gap:4px 12px!important;overflow:visible!important;box-sizing:border-box}
+body.home-system .lb-nav a{flex:0 1 auto!important;min-width:0!important;max-width:100%!important;padding:10px 14px!important;white-space:normal!important;overflow-wrap:anywhere;box-sizing:border-box;border-radius:6px}
+body.home-system .lb-nav a:hover,body.home-system .lb-nav a:focus-visible{background:#eee7dc}
+body.home-system .lb-section{scroll-margin-top:120px!important}
+@media(max-width:768px){
+body.home-system .lb-nav .lb-nav-inner{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:4px 8px!important;padding:12px 0!important}
+body.home-system .lb-nav a{display:flex;align-items:center;font-size:14px!important;line-height:1.6!important;padding:10px!important}
+body.home-system .lb-section{scroll-margin-top:96px!important}
+}
