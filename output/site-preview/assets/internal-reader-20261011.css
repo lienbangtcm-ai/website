@@ -1,0 +1,30 @@
+body.internal-reader .ir-help{background:#fffdf9;padding:56px 0;border-bottom:1px solid #e6ddd3}
+body.internal-reader .ir-help .lb-shell{width:92%;max-width:1320px;margin:auto}
+body.internal-reader .ir-kicker{color:#b68b69;font-size:13px;letter-spacing:.15em}
+body.internal-reader .ir-help h2{font:800 34px/1.55 PMingLiU,serif;margin:10px 0 18px}
+body.internal-reader .ir-intro{max-width:980px;font-size:19px;line-height:1.85}
+body.internal-reader .ir-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px;margin:30px 0}
+body.internal-reader .ir-steps>div{padding:20px 0;border-top:2px solid #b68b69}
+body.internal-reader .ir-steps h3{font-size:23px;margin:0 0 12px}
+body.internal-reader .ir-steps p{font-size:18px;line-height:1.85;margin:0}
+body.internal-reader .ir-help-actions{display:flex;align-items:center;gap:24px;flex-wrap:wrap}
+body.internal-reader .ir-help-actions a{color:#78523b}
+body.internal-reader .ir-help-actions .ir-booking{background:#269546;color:white;padding:13px 26px;border-radius:30px;text-decoration:none;font-weight:700}
+body.internal-reader .ir-note{font-size:14px;color:#887b70;margin-top:18px}
+body.internal-reader .ir-group{padding:44px 0;border-bottom:1px solid #e6ddd3}
+body.internal-reader .ir-group-heading{max-width:1040px;width:92%;margin:auto;display:flex;gap:18px;align-items:center}
+body.internal-reader .ir-group-heading>span{color:#b68b69;font-size:16px;letter-spacing:.1em}
+body.internal-reader .ir-group-heading>h2{font:800 34px/1.5 PMingLiU,serif;margin:0}
+body.internal-reader .ir-group .lb-section{padding:24px 0!important;background:transparent!important}
+body.internal-reader .ir-group .lb-section h2{font-size:25px!important;line-height:1.5!important;margin-top:0!important}
+body.internal-reader .ir-group .lb-section h2:before{content:none!important}
+body.internal-reader .ir-depth{max-width:1040px;width:92%;margin:20px auto;background:#f8f4ee;border:1px solid #e6ddd3;border-radius:12px;padding:18px 22px}
+body.internal-reader .ir-depth>summary{cursor:pointer;font-size:19px;font-weight:700}
+body.internal-reader .ir-depth .lb-shell{width:100%!important}
+body.internal-reader .ir-nav a{white-space:nowrap}
+@media(max-width:767px){body.internal-reader .ir-help{padding:34px 0}body.internal-reader .ir-help h2,body.internal-reader .ir-group-heading>h2{font-size:26px}body.internal-reader .ir-intro{font-size:17px}body.internal-reader .ir-steps{grid-template-columns:1fr;gap:0;margin:24px 0}body.internal-reader .ir-steps h3{font-size:21px}body.internal-reader .ir-steps p{font-size:16px}body.internal-reader .ir-group{padding:30px 0}body.internal-reader .ir-group .lb-section h2{font-size:22px!important}body.internal-reader .ir-depth{width:91%;box-sizing:border-box;padding:16px}body.internal-reader .ir-help-actions{gap:16px}}
+body.internal-reader .ir-alert{margin-top:28px;border-left:3px solid #b68b69;background:#f8f4ee;padding:16px 22px;max-width:980px}
+body.internal-reader .ir-alert strong{font-size:18px}
+body.internal-reader .ir-alert p{font-size:16px;line-height:1.8;margin:8px 0}
+body.internal-reader .ir-alert a{font-size:15px;color:#78523b}
+body.internal-reader .ir-group .lb-faq{margin-top:0!important}
