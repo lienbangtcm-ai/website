@@ -1,0 +1,6 @@
+/* Keep the established TCM article layout; only refine reading spacing. */
+body.symptoms-refresh.preview-article .lb-section p+p{margin-top:16px}
+body.symptoms-refresh.preview-article .lb-section li+li{margin-top:8px}
+body.symptoms-refresh.preview-article .lb-section h3{margin-top:28px;margin-bottom:12px}
+body.symptoms-refresh.preview-article .lb-section p{max-width:100%}
+@media(max-width:767px){body.symptoms-refresh.preview-article .lb-section h3{margin-top:22px}}

@@ -200,3 +200,11 @@ tools/shell-dimensions-qa.cjs 對 31 頁 × 1440/768/390px 共 93 組檢查：�
 - 原有醫療p/li段落、SEO與腳本保護八頁全數通過；此次增加協助摘要及重組順序，未逐項查核醫療內容有效性。
 - 對照报告 /review/internal-reader/；截圖 output/visual-qa/home-system/internal-reader-before、after、final；保護與互動記錄 output/visual-qa/internal-content-review/。
 - 待診所醫師確認：胃食道逆流既有FAQ「大部分患者」「良好改善」等療效描述依據；本次保留既有表述，未加入新效果承諾。
+
+## 2026-10-11 恢復中醫專業文章版型
+- 依使用者回饋，八個內科頁恢復c02dd0b版文章結構、章節導覽與直接可見的中醫辨證／脈診／治療方向；移除大型協助摘要、六群組與辨證收合樣式引用。
+- 保留10月10日症狀照片及原有診療圖解；移除六頁內文與主視覺重複照片，僅小幅調整段落、條列與次標題間距。
+- actual與dist同步；舊版對照報告保留為歷史紀錄，新恢復版報告 /review/internal-classic/。
+- 與c02dd0b比較，八頁原有醫療p/li段落、SEO與追蹤腳本完整保留。
+- 驗收截圖與三尺寸檢查：output/visual-qa/home-system/internal-classic-restored/；未部署正式WordPress。
+- 最終八頁×1440／768／390px共24組檢查通過，無圖片失效、水平溢出、內部連結失效或FAQ／手機選單異常。
